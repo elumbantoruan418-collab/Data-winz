@@ -15,7 +15,18 @@
   ],
   "orders": [],
   "panels": [],
-  "sessions": {},
+  "sessions": {
+    "f5e32d06a5909496ee6e2259828bcc4593191ec0741f60e326139006810f0b1d": {
+      "uid": "c2923aea08dc",
+      "kind": "admin",
+      "exp": 1792782395016
+    },
+    "6e574b99ba78ba49683b9487f9e370fd3ec688241240b27b1244f0aaae2b6266": {
+      "uid": "c2923aea08dc",
+      "kind": "admin",
+      "exp": 1792782395778
+    }
+  },
   "deposits": [],
   "tickets": [],
   "settings": {},
