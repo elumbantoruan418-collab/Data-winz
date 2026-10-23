@@ -59,12 +59,15 @@
       "type": "nokos",
       "price": 4300,
       "cost": 1800,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1792795218713,
       "title": "WhatsApp · Indonesia",
-      "serviceId": "wa-id"
+      "serviceId": "wa-id",
+      "pid": "Mf5b525c066fa",
+      "number": "+628157401525",
+      "expiresAt": 1792796420113
     }
   ],
   "dapk": [
