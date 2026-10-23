@@ -1,1 +1,24 @@
-{}
+{
+  "users": [
+    {
+      "id": "c2923aea08dc",
+      "name": "Admin",
+      "email": "admin@panelku.local",
+      "pass": "88f7d75ab3df8ca6695aaf4c78238fce:902fa4695ce7b09500374dcd24182f7081099190a222cda2b4dd42f9681a5be60b7cf70563682e663cc5a07821bc8ddbc146485a64eb1e33c06cf047a402ed8a",
+      "isAdmin": true,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1792753573344
+    }
+  ],
+  "orders": [],
+  "panels": [],
+  "sessions": {},
+  "deposits": [],
+  "tickets": [],
+  "settings": {},
+  "dsc": [],
+  "dorders": []
+}
