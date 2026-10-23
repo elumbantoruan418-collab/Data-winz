@@ -11,6 +11,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1792753573344
+    },
+    {
+      "id": "d5ac8b72205d",
+      "name": "Erwin",
+      "email": "elumbantoruan418@gmail.com",
+      "pass": "81e38ebdab3bbb168a949278b346fec2:d07ca9869614ffca25fb9315260e901f4ecd4c80b459dbe1ccd36c4d75494c4dd76bbf7da3ff6c27820961ff6d48c8b3f6049b6285e8c7d0fe5d9eb7f45921d2",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1792753654588
     }
   ],
   "orders": [],
@@ -25,6 +37,11 @@
       "uid": "c2923aea08dc",
       "kind": "admin",
       "exp": 1792782395778
+    },
+    "6f2b698c3b284468a0c4a9b2d7c711dcb611688140ecf9f6e991e9b030afb753": {
+      "uid": "d5ac8b72205d",
+      "kind": "user",
+      "exp": 1793358454589
     }
   },
   "deposits": [],
