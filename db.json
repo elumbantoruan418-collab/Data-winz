@@ -34,9 +34,9 @@
       "kind": "qris",
       "gw": true,
       "amount": 1000,
-      "status": "awaiting_payment",
+      "status": "expired",
       "note": "",
-      "adminNote": "",
+      "adminNote": "QRIS kedaluwarsa di gateway.",
       "attempts": 0,
       "gwTotal": 1240,
       "gwUnique": 240,
@@ -44,7 +44,8 @@
       "gwQr": "/api/qris/image?tid=DEPMVLIDX4QAA1B&mid=QP-MMLOg3ga",
       "createdAt": 1792792534778,
       "expiresAt": 1792793435425,
-      "gwLast": 1792793003152
+      "gwLast": 1792793435209,
+      "reviewedAt": 1792793435209
     }
   ],
   "tickets": [],
