@@ -18,7 +18,7 @@
       "email": "elumbantoruan418@gmail.com",
       "pass": "81e38ebdab3bbb168a949278b346fec2:d07ca9869614ffca25fb9315260e901f4ecd4c80b459dbe1ccd36c4d75494c4dd76bbf7da3ff6c27820961ff6d48c8b3f6049b6285e8c7d0fe5d9eb7f45921d2",
       "isAdmin": false,
-      "balance": 4991400,
+      "balance": 4950400,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -87,6 +87,21 @@
       "number": "+628684982308",
       "expiresAt": 1792796509540,
       "code": "584334"
+    },
+    {
+      "id": "VPMVLK373HB93F",
+      "uid": "d5ac8b72205d",
+      "reqId": "a82ef42b-7ff9-4663-99e2-147d97510a45",
+      "type": "vps",
+      "price": 41000,
+      "cost": 38000,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1792795393709,
+      "title": "VPS 1 vCPU · 1 GB RAM · 20 GB SSD",
+      "planId": "vps-1",
+      "osName": "Ubuntu 22.04"
     }
   ],
   "dapk": [
