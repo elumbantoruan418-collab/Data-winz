@@ -23,6 +23,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1792753654588
+    },
+    {
+      "id": "fc6b7f8f1a74",
+      "name": "Rian",
+      "email": "andriansimamoraandrian@gmail.com",
+      "pass": "6733d28f576d3bd286fc688b625d561d:1986d3405d52e1dc49adcb5594bcce7713814868bae57f3c286049e6a20a3bb8f225eb04e1afba509876adacc52248833a5c2aff5e64b77d8b9eddac0e67dac4",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1792796560696
     }
   ],
   "orders": [],
