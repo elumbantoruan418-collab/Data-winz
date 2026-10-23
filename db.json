@@ -27,7 +27,25 @@
   ],
   "orders": [],
   "panels": [],
-  "deposits": [],
+  "deposits": [
+    {
+      "id": "DEPMVLIDX4QAA1B",
+      "uid": "d5ac8b72205d",
+      "kind": "qris",
+      "gw": true,
+      "amount": 1000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 1240,
+      "gwUnique": 240,
+      "gwFee": 9,
+      "gwQr": "/api/qris/image?tid=DEPMVLIDX4QAA1B&mid=QP-MMLOg3ga",
+      "createdAt": 1792792534778,
+      "expiresAt": 1792793435425
+    }
+  ],
   "tickets": [],
   "settings": {},
   "dsc": [],
