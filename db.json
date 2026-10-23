@@ -95,7 +95,7 @@
       "type": "vps",
       "price": 41000,
       "cost": 38000,
-      "status": "creating",
+      "status": "done",
       "note": "",
       "refunded": false,
       "createdAt": 1792795393709,
@@ -103,7 +103,10 @@
       "planId": "vps-1",
       "osName": "Ubuntu 22.04",
       "pid": "Vaf1001d70080",
-      "expiresAt": 1792796595006
+      "expiresAt": 1792796595006,
+      "ip": "203.0.113.121",
+      "vuser": "root",
+      "vpass": "851893342b9665a5"
     }
   ],
   "dapk": [
