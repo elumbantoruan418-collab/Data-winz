@@ -95,13 +95,15 @@
       "type": "vps",
       "price": 41000,
       "cost": 38000,
-      "status": "processing",
+      "status": "creating",
       "note": "",
       "refunded": false,
       "createdAt": 1792795393709,
       "title": "VPS 1 vCPU · 1 GB RAM · 20 GB SSD",
       "planId": "vps-1",
-      "osName": "Ubuntu 22.04"
+      "osName": "Ubuntu 22.04",
+      "pid": "Vaf1001d70080",
+      "expiresAt": 1792796595006
     }
   ],
   "dapk": [
