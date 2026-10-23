@@ -59,7 +59,7 @@
       "type": "nokos",
       "price": 4300,
       "cost": 1800,
-      "status": "waiting",
+      "status": "done",
       "note": "",
       "refunded": false,
       "createdAt": 1792795218713,
@@ -67,7 +67,8 @@
       "serviceId": "wa-id",
       "pid": "Mf5b525c066fa",
       "number": "+628157401525",
-      "expiresAt": 1792796420113
+      "expiresAt": 1792796420113,
+      "code": "620771"
     }
   ],
   "dapk": [
