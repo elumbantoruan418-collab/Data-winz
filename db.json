@@ -163,6 +163,19 @@
       "fileName": "AUTO REPORT (1).zip",
       "sizeKB": 13,
       "storage": "disk"
+    },
+    {
+      "id": "c66b73dd9317",
+      "active": true,
+      "createdAt": 1792877392674,
+      "name": "Ganti domain",
+      "desc": "Ini ada fungsi kalau anda punya base url nya banyak nih tinggal kasih ke bot nya url baru ntr, di ganti sesuai url baru nya gak, repot, satu satu",
+      "version": "",
+      "price": 5000,
+      "file": "c3496982b2d6.bin",
+      "fileName": "Lydiaa Subdomain Update (1).zip",
+      "sizeKB": 13,
+      "storage": "disk"
     }
   ],
   "dorders": [
