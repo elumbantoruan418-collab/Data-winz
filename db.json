@@ -293,6 +293,19 @@
       "file": "4b5679edc10c.bin",
       "fileName": "sc deploy web (1).zip",
       "sizeKB": 5
+    },
+    {
+      "id": "7a39773c1be7",
+      "active": true,
+      "createdAt": 1792878923854,
+      "name": "SC Choanel",
+      "desc": "",
+      "version": "",
+      "category": "",
+      "price": 3000,
+      "file": "42b1ae86d6bf.bin",
+      "fileName": "SCRIPT_CPANEL_V3 (1).zip",
+      "sizeKB": 98
     }
   ],
   "dorders": [
