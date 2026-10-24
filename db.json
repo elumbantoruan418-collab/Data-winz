@@ -414,12 +414,18 @@
       "type": "panel",
       "price": 3500,
       "cost": 2000,
-      "status": "processing",
-      "note": "",
+      "status": "done",
+      "note": "Data di atas masih sementara. Buka tiket di menu Bantuan, sebut ID pesanan PNMVMHWYVZ53FD, admin akan memproses panel aslinya.",
       "refunded": false,
       "createdAt": 1792852210079,
       "title": "Panel Starter",
-      "planId": "pn-starter"
+      "planId": "pn-starter",
+      "pid": "MANfb567e8c9d6b",
+      "expiresAt": 1792853411412,
+      "ip": "https://panel-9550c7.example.com",
+      "vuser": "kkkk",
+      "vpass": "1scJC97239XP",
+      "manual": true
     }
   ],
   "dapk": [
