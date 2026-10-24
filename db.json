@@ -228,6 +228,19 @@
       "fileName": "ScAntikill_VVIP.zip",
       "sizeKB": 724,
       "storage": "disk"
+    },
+    {
+      "id": "c83c3ee09f56",
+      "active": true,
+      "createdAt": 1792877757397,
+      "name": "SC monitor vipo",
+      "desc": "Cek aja sendiri ada masalah buat tiket",
+      "version": "",
+      "price": 1000,
+      "file": "7bc7a6b64926.bin",
+      "fileName": "script monitor VVIP.zip",
+      "sizeKB": 983,
+      "storage": "disk"
     }
   ],
   "dorders": [
