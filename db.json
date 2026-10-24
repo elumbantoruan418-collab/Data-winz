@@ -89,7 +89,20 @@
     },
     "smmMarkup": 20
   },
-  "dsc": [],
+  "dsc": [
+    {
+      "id": "965455f6d155",
+      "active": true,
+      "createdAt": 1792838958528,
+      "name": "INSTALL AUTO IJO NODE NO ENC BY winx",
+      "desc": "SC install panel /vps no enc",
+      "version": "",
+      "price": 5000,
+      "file": "e42e1939ac4f.bin",
+      "fileName": "SC ANTI RUSUH NOXZ V5.zip.bak",
+      "sizeKB": 625
+    }
+  ],
   "dorders": [
     {
       "id": "NKMVLJZG2H098A",
