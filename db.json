@@ -35,6 +35,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1792796560696
+    },
+    {
+      "id": "3178c130907d",
+      "name": "Simpang Perum",
+      "email": "simpangperum826@gmail.com",
+      "pass": "578d7376d903b5bc914e15f589e720f4:cac243cc79e79e4440ee58bd3502ba45753ed168954228921e921097866a450f5a136c975635cbe9ace2fe28e18a86ffc836e2c1b76cfb3283f4b762038a54c3",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1792849132316
     }
   ],
   "orders": [],
