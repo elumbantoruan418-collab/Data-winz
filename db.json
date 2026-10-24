@@ -371,13 +371,21 @@
       "type": "vps",
       "price": 23000,
       "cost": 20000,
-      "status": "processing",
-      "note": "",
+      "status": "done",
+      "note": "Data di atas masih sementara. Buka tiket di menu Bantuan, sebut ID pesanan VPMVMHD2E5EC3B, admin akan memproses VPS aslinya.",
       "refunded": false,
       "createdAt": 1792851281501,
       "title": "VPS 2GB 1CORE",
       "planId": "VPS_2G1C",
-      "osName": "Ubuntu 22.04"
+      "osName": "Ubuntu 22.04",
+      "pid": "MANb7c6e6120e8f",
+      "manual": true,
+      "ip": "37.98.28.183",
+      "vuser": "root",
+      "vpass": "HBxz_J7xBXtb",
+      "panelUrl": "https://37.98.28.183:2493",
+      "panelUser": "user2209",
+      "panelPass": "9_nAyo44eg"
     }
   ],
   "dapk": [
