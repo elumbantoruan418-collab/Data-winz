@@ -306,6 +306,19 @@
       "file": "42b1ae86d6bf.bin",
       "fileName": "SCRIPT_CPANEL_V3 (1).zip",
       "sizeKB": 98
+    },
+    {
+      "id": "e06d2fe4c907",
+      "active": true,
+      "createdAt": 1792878957341,
+      "name": "Jasher",
+      "desc": "",
+      "version": "",
+      "category": "Bot",
+      "price": 100,
+      "file": "58205a00c3e1.bin",
+      "fileName": "________________________________________________.zip",
+      "sizeKB": 18
     }
   ],
   "dorders": [
