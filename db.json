@@ -80,7 +80,14 @@
     }
   ],
   "tickets": [],
-  "settings": {},
+  "settings": {
+    "digitalMarkup": {
+      "nokos": 1500,
+      "vps": 3000,
+      "panel": 1500,
+      "ph": 2000
+    }
+  },
   "dsc": [],
   "dorders": [
     {
