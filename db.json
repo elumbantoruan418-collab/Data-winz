@@ -394,12 +394,18 @@
       "type": "panel",
       "price": 3500,
       "cost": 2000,
-      "status": "processing",
-      "note": "",
+      "status": "done",
+      "note": "Data di atas masih sementara. Buka tiket di menu Bantuan, sebut ID pesanan PNMVMHUN8206E6, admin akan memproses panel aslinya.",
       "refunded": false,
       "createdAt": 1792852101651,
       "title": "Panel Starter",
-      "planId": "pn-starter"
+      "planId": "pn-starter",
+      "pid": "MAN1b71b9d54c79",
+      "expiresAt": 1792853302691,
+      "ip": "https://panel-2d535d.example.com",
+      "vuser": "jjj",
+      "vpass": "7-SGosH500ly",
+      "manual": true
     }
   ],
   "dapk": [
