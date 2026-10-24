@@ -58,6 +58,23 @@
       "expiresAt": 1792793435425,
       "gwLast": 1792793435209,
       "reviewedAt": 1792793435209
+    },
+    {
+      "id": "DEPMVLR021ZEC36",
+      "uid": "d5ac8b72205d",
+      "kind": "qris",
+      "gw": true,
+      "amount": 1000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 1373,
+      "gwUnique": 373,
+      "gwFee": 10,
+      "gwQr": "/api/qris/image?tid=DEPMVLR021ZEC36&mid=QP-MMLOg3ga",
+      "createdAt": 1792807004519,
+      "expiresAt": 1792807905478
     }
   ],
   "tickets": [],
