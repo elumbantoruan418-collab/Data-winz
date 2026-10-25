@@ -59,6 +59,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1792849912827
+    },
+    {
+      "id": "183a8175dafc",
+      "name": "Rian",
+      "email": "simamorarian@gmail.com",
+      "pass": "88da945e008dce18438311b0fca646e7:3aac75bd36ad92d5eda3d745bc567d0fdc52f6b4dde207f1112a43a5a6285d73d8e36c43d48cac32058ea38c179ba10421b9717c9f6423fe1341873db811f800",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1792894568443
     }
   ],
   "orders": [],
