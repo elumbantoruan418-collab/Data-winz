@@ -640,7 +640,7 @@
       "type": "sc",
       "price": 8000,
       "cost": 0,
-      "status": "processing",
+      "status": "done",
       "note": "",
       "refunded": false,
       "createdAt": 1792918578740,
