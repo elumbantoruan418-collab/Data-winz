@@ -71,6 +71,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1792894568443
+    },
+    {
+      "id": "8d45fc0363d2",
+      "name": "BANG PARNA",
+      "email": "bangparna03@gmail.com",
+      "pass": "c33344a6481b120fea3b8a0036f84658:3e5adfeb45c2c168f93bd1c5836406f5013f21dc2c936d83e6f89dac7a12760a1be5ea1f99eaae5df0173822bb48cb9e63d39f7bfa1e8741c74bcdacf8501f75",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1792911491778
     }
   ],
   "orders": [],
