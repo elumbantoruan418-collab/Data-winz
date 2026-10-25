@@ -355,6 +355,19 @@
       "file": "58205a00c3e1.bin",
       "fileName": "________________________________________________.zip",
       "sizeKB": 18
+    },
+    {
+      "id": "80d2f08d1a49",
+      "active": true,
+      "createdAt": 1792934885646,
+      "name": "Bot auto order nokos work",
+      "desc": "Bayangin sumpah SC gw buy 60k an gw jual 3k an ini SC nokos Yo buy ada masalah buat tiket aja oke semangat trus bg ku",
+      "version": "",
+      "category": "Order",
+      "price": 3000,
+      "file": "99860bedb821.bin",
+      "fileName": "bot nokos ikyy store.zip",
+      "sizeKB": 57
     }
   ],
   "dorders": [
