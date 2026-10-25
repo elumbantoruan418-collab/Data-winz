@@ -95,6 +95,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1792928994488
+    },
+    {
+      "id": "fd6579198c17",
+      "name": "Rasya Azzahran",
+      "email": "rasyaazzahran41@gmail.com",
+      "pass": "8d702329f11dcba14ddcdac2713dccca:4268d3294fd7fbe7f971547cf463faa1e98894327dcc70d724f02ea4a055d1cef50a058ca1eb83f404904d26d67782ef9fc11d03a903e5f111c2962e95e3dc19",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1792967393871
     }
   ],
   "orders": [],
