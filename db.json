@@ -205,7 +205,7 @@
     "digitalMarkup": {
       "nokos": 1000,
       "vps": 3000,
-      "panel": 1000,
+      "panel": 0,
       "ph": 2000
     },
     "smmMarkup": 20
