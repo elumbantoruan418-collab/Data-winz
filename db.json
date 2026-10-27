@@ -1081,12 +1081,18 @@
       "type": "panel",
       "price": 2000,
       "cost": 2000,
-      "status": "processing",
-      "note": "",
+      "status": "done",
+      "note": "Data di atas masih sementara. Buka tiket di menu Bantuan, sebut ID pesanan PNMVQWHMIF18C9, admin akan memproses panel aslinya.",
       "refunded": false,
       "createdAt": 1793118553143,
       "title": "Panel Starter",
-      "planId": "pn-starter"
+      "planId": "pn-starter",
+      "pid": "MAN6110d9505a76",
+      "expiresAt": 1793119754316,
+      "ip": "https://panel-5cf645.example.com",
+      "vuser": "bilzz",
+      "vpass": "lfKX0VrPS9dx",
+      "manual": true
     }
   ],
   "dapk": [
