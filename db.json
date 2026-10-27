@@ -150,7 +150,7 @@
       "email": "cahkontenkreator@gmail.com",
       "pass": "eee0b9c29f58c2bf82b757d69d9707ee:03e9a8fb58b24067905a7be5a10262de413a07181cad288071719c6d1405f0776a319d05c482eab12687fe20d6f2c0256155c391f11543e8b7f5e2d193303ffa",
       "isAdmin": false,
-      "balance": 3000,
+      "balance": 1000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1073,6 +1073,20 @@
       "pid2": "4d30aaad7976",
       "fileName": "_______________________________________ (1).zip",
       "refundedAt": 1793118482116
+    },
+    {
+      "id": "PNMVQWHMIF18C9",
+      "uid": "1fdb2b19fb3b",
+      "reqId": "d9d3b93b-6902-4146-81b1-dd383bb4a362",
+      "type": "panel",
+      "price": 2000,
+      "cost": 2000,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793118553143,
+      "title": "Panel Starter",
+      "planId": "pn-starter"
     }
   ],
   "dapk": [
