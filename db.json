@@ -230,7 +230,7 @@
       "category": "Pembayaran / Deposit",
       "status": "open",
       "createdAt": 1793112963413,
-      "updatedAt": 1793112963413,
+      "updatedAt": 1793112967498,
       "userUnread": false,
       "adminUnread": true,
       "messages": [
@@ -239,6 +239,12 @@
           "from": "user",
           "text": "Phbbb",
           "at": 1793112963414
+        },
+        {
+          "id": "b100fdb3a3d5",
+          "from": "user",
+          "text": "Min",
+          "at": 1793112967498
         }
       ]
     }
