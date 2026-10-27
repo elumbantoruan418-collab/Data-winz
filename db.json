@@ -204,7 +204,7 @@
   "settings": {
     "digitalMarkup": {
       "nokos": 1000,
-      "vps": 3000,
+      "vps": 0,
       "panel": 0,
       "ph": 2000
     },
