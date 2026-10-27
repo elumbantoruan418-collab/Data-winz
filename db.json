@@ -150,7 +150,7 @@
       "email": "cahkontenkreator@gmail.com",
       "pass": "eee0b9c29f58c2bf82b757d69d9707ee:03e9a8fb58b24067905a7be5a10262de413a07181cad288071719c6d1405f0776a319d05c482eab12687fe20d6f2c0256155c391f11543e8b7f5e2d193303ffa",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 3000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -239,7 +239,7 @@
       "kind": "qris",
       "gw": true,
       "amount": 3000,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -249,7 +249,11 @@
       "gwQr": "/api/qris/image?tid=DEPMVQV70UPC9F8&mid=QP-MMLOg3ga",
       "createdAt": 1793116378897,
       "expiresAt": 1793117279875,
-      "gwLast": 1793116466871
+      "gwLast": 1793116506875,
+      "paidAt": 1793116500000,
+      "reviewedAt": 1793116508981,
+      "via": "gateway",
+      "reviewedBy": null
     }
   ],
   "tickets": [
