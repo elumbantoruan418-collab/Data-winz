@@ -763,7 +763,7 @@
       "type": "nokos",
       "price": 2100,
       "cost": 1100,
-      "status": "waiting",
+      "status": "done",
       "note": "",
       "refunded": false,
       "createdAt": 1793109612402,
@@ -771,7 +771,8 @@
       "serviceId": "1:ka",
       "pid": "119f36ed-251e-42b7-84d7-42af81104410",
       "number": "6288740642587",
-      "expiresAt": 1793110816459
+      "expiresAt": 1793110816459,
+      "code": "565497"
     }
   ],
   "dapk": [
