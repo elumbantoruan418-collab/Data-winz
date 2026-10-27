@@ -774,5 +774,17 @@
     "ee2776be7b9906c29aaade1c1e4bd606600dc561bcfe64705587046ea1af29b7": 1793523128890,
     "d39a3096fbfb2b24428ab39a8e8519b3bed4b6806060b0a6ac3a4ce8752b4411": 1793614909908,
     "7561477e0e0ea1f3bc293d88b34df73911d28332232a07ec46ca83fd5fc54c9f": 1793614982766
-  }
+  },
+  "promos": [
+    {
+      "id": "419fc6e6aa13",
+      "code": "WINZZ",
+      "amount": 100,
+      "maxUses": 50,
+      "expiresAt": null,
+      "active": true,
+      "usedBy": [],
+      "createdAt": 1793104745316
+    }
+  ]
 }
