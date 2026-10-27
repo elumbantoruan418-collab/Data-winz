@@ -150,7 +150,7 @@
       "email": "cahkontenkreator@gmail.com",
       "pass": "eee0b9c29f58c2bf82b757d69d9707ee:03e9a8fb58b24067905a7be5a10262de413a07181cad288071719c6d1405f0776a319d05c482eab12687fe20d6f2c0256155c391f11543e8b7f5e2d193303ffa",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 3000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -905,13 +905,14 @@
       "type": "sc",
       "price": 3000,
       "cost": 0,
-      "status": "processing",
-      "note": "",
-      "refunded": false,
+      "status": "failed",
+      "note": "File produk belum tersedia.",
+      "refunded": true,
       "createdAt": 1793116628211,
       "title": "Heck vos",
       "pid2": "4d30aaad7976",
-      "fileName": "_______________________________________ (1).zip"
+      "fileName": "_______________________________________ (1).zip",
+      "refundedAt": 1793116629600
     }
   ],
   "dapk": [
