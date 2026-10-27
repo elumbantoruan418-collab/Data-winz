@@ -66,7 +66,7 @@
       "email": "simamorarian@gmail.com",
       "pass": "88da945e008dce18438311b0fca646e7:3aac75bd36ad92d5eda3d745bc567d0fdc52f6b4dde207f1112a43a5a6285d73d8e36c43d48cac32058ea38c179ba10421b9717c9f6423fe1341873db811f800",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 2200,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -205,7 +205,7 @@
       "kind": "qris",
       "gw": true,
       "amount": 2200,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -214,7 +214,12 @@
       "gwFee": 18,
       "gwQr": "/api/qris/image?tid=DEPMVQR3YMX93EE&mid=QP-MMLOg3ga",
       "createdAt": 1793109517593,
-      "expiresAt": 1793110419706
+      "expiresAt": 1793110419706,
+      "gwLast": 1793109583931,
+      "paidAt": 1793109581000,
+      "reviewedAt": 1793109585365,
+      "via": "gateway",
+      "reviewedBy": null
     }
   ],
   "tickets": [],
