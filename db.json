@@ -162,7 +162,7 @@
       "email": "ikansegar895@gmail.com",
       "pass": "55f98922d298916c92b294cb535c8c94:2e1aaab9b8af7856945af49c3137dd7e4450a0e7b8399e7e3f6b08d73a8d33edd15d320f8aa39496a62a3306ab2dd7c863756e0377052ff4204096837b624515",
       "isAdmin": false,
-      "balance": 2630,
+      "balance": 5000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1264,15 +1264,16 @@
       "type": "nokos",
       "price": 2370,
       "cost": 1370,
-      "status": "waiting",
-      "note": "",
-      "refunded": false,
+      "status": "canceled",
+      "note": "Dibatalkan provider. Saldo dikembalikan.",
+      "refunded": true,
       "createdAt": 1793171925390,
       "title": "360kredi · Indonesia · Server 1",
       "serviceId": "1:ayo",
       "pid": "6a9b388a-2798-40b7-b800-833c98896d8b",
       "number": "6285135927881",
-      "expiresAt": 1793173127720
+      "expiresAt": 1793173127720,
+      "refundedAt": 1793172850868
     }
   ],
   "dapk": [
