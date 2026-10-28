@@ -162,7 +162,7 @@
       "email": "ikansegar895@gmail.com",
       "pass": "55f98922d298916c92b294cb535c8c94:2e1aaab9b8af7856945af49c3137dd7e4450a0e7b8399e7e3f6b08d73a8d33edd15d320f8aa39496a62a3306ab2dd7c863756e0377052ff4204096837b624515",
       "isAdmin": false,
-      "balance": 5000,
+      "balance": 3350,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1274,6 +1274,20 @@
       "number": "6285135927881",
       "expiresAt": 1793173127720,
       "refundedAt": 1793172850868
+    },
+    {
+      "id": "NKMVRT2FKI637F",
+      "uid": "d83c8e1f1b99",
+      "reqId": "eadebaa1-588d-4f6b-ae39-c32caaaec2e5",
+      "type": "nokos",
+      "price": 1650,
+      "cost": 650,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793173271634,
+      "title": "bilibili · Indonesia · Server 1",
+      "serviceId": "1:zs"
     }
   ],
   "dapk": [
