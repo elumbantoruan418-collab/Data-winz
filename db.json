@@ -162,7 +162,7 @@
       "email": "ikansegar895@gmail.com",
       "pass": "55f98922d298916c92b294cb535c8c94:2e1aaab9b8af7856945af49c3137dd7e4450a0e7b8399e7e3f6b08d73a8d33edd15d320f8aa39496a62a3306ab2dd7c863756e0377052ff4204096837b624515",
       "isAdmin": false,
-      "balance": 3350,
+      "balance": 5000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1282,15 +1282,16 @@
       "type": "nokos",
       "price": 1650,
       "cost": 650,
-      "status": "waiting",
-      "note": "",
-      "refunded": false,
+      "status": "canceled",
+      "note": "Dibatalkan. Saldo dikembalikan.",
+      "refunded": true,
       "createdAt": 1793173271634,
       "title": "bilibili · Indonesia · Server 1",
       "serviceId": "1:zs",
       "pid": "9bcab386-3c4e-4273-bae0-e6a9e1eab354",
       "number": "62882016684164",
-      "expiresAt": 1793174474580
+      "expiresAt": 1793174474580,
+      "refundedAt": 1793173408730
     }
   ],
   "dapk": [
