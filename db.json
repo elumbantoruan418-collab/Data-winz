@@ -162,7 +162,7 @@
       "email": "ikansegar895@gmail.com",
       "pass": "55f98922d298916c92b294cb535c8c94:2e1aaab9b8af7856945af49c3137dd7e4450a0e7b8399e7e3f6b08d73a8d33edd15d320f8aa39496a62a3306ab2dd7c863756e0377052ff4204096837b624515",
       "isAdmin": false,
-      "balance": 5000,
+      "balance": 1100,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1442,6 +1442,20 @@
       "title": "crystalbet · Indonesia · Server 1",
       "serviceId": "1:azz",
       "refundedAt": 1793173774448
+    },
+    {
+      "id": "NKMVRTDZL11DE5",
+      "uid": "d83c8e1f1b99",
+      "reqId": "1991c510-c21f-4827-908a-a380f89de268",
+      "type": "nokos",
+      "price": 3900,
+      "cost": 2900,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793173810789,
+      "title": "google messenger · Indonesia · Server 1",
+      "serviceId": "1:ccx"
     }
   ],
   "dapk": [
