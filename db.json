@@ -1264,12 +1264,15 @@
       "type": "nokos",
       "price": 2370,
       "cost": 1370,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1793171925390,
       "title": "360kredi · Indonesia · Server 1",
-      "serviceId": "1:ayo"
+      "serviceId": "1:ayo",
+      "pid": "6a9b388a-2798-40b7-b800-833c98896d8b",
+      "number": "6285135927881",
+      "expiresAt": 1793173127720
     }
   ],
   "dapk": [
