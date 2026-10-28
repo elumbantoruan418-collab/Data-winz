@@ -162,7 +162,7 @@
       "email": "ikansegar895@gmail.com",
       "pass": "55f98922d298916c92b294cb535c8c94:2e1aaab9b8af7856945af49c3137dd7e4450a0e7b8399e7e3f6b08d73a8d33edd15d320f8aa39496a62a3306ab2dd7c863756e0377052ff4204096837b624515",
       "isAdmin": false,
-      "balance": 5000,
+      "balance": 1640,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1145,6 +1145,20 @@
       "number": "6283831759838",
       "expiresAt": 1793170649303,
       "refundedAt": 1793169829076
+    },
+    {
+      "id": "NKMVRR1EH0B942",
+      "uid": "d83c8e1f1b99",
+      "reqId": "1ec71522-94d9-4d25-81b1-68c3435fdad0",
+      "type": "nokos",
+      "price": 3360,
+      "cost": 2360,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793169864324,
+      "title": "cryptonow · Indonesia · Server 1",
+      "serviceId": "1:aoi"
     }
   ],
   "dapk": [
