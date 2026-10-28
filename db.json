@@ -1282,12 +1282,15 @@
       "type": "nokos",
       "price": 1650,
       "cost": 650,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1793173271634,
       "title": "bilibili · Indonesia · Server 1",
-      "serviceId": "1:zs"
+      "serviceId": "1:zs",
+      "pid": "9bcab386-3c4e-4273-bae0-e6a9e1eab354",
+      "number": "62882016684164",
+      "expiresAt": 1793174474580
     }
   ],
   "dapk": [
