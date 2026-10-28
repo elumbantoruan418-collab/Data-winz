@@ -1550,12 +1550,18 @@
       "type": "panel",
       "price": 2000,
       "cost": 2000,
-      "status": "processing",
-      "note": "",
+      "status": "done",
+      "note": "Data di atas masih sementara. Buka tiket di menu Bantuan, sebut ID pesanan PNMVS5K1434345, admin akan memproses panel aslinya.",
       "refunded": false,
       "createdAt": 1793194248099,
       "title": "Panel Starter",
-      "planId": "pn-starter"
+      "planId": "pn-starter",
+      "pid": "MAN0fead29e9894",
+      "expiresAt": 1793195449460,
+      "ip": "https://panel-eb59d4.example.com",
+      "vuser": "nnn",
+      "vpass": "YUUEAlSFaUM2",
+      "manual": true
     }
   ],
   "dapk": [
