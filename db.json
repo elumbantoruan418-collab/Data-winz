@@ -300,7 +300,7 @@
       "createdAt": 1793112963413,
       "updatedAt": 1793112967498,
       "userUnread": false,
-      "adminUnread": true,
+      "adminUnread": false,
       "messages": [
         {
           "id": "22a046d346a9",
