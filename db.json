@@ -162,7 +162,7 @@
       "email": "ikansegar895@gmail.com",
       "pass": "55f98922d298916c92b294cb535c8c94:2e1aaab9b8af7856945af49c3137dd7e4450a0e7b8399e7e3f6b08d73a8d33edd15d320f8aa39496a62a3306ab2dd7c863756e0377052ff4204096837b624515",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 5000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -273,7 +273,7 @@
       "kind": "qris",
       "gw": true,
       "amount": 5000,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -282,7 +282,12 @@
       "gwFee": 36,
       "gwQr": "/api/qris/image?tid=DEPMVRQPEUX38D4&mid=QP-MMLOg3ga",
       "createdAt": 1793169304953,
-      "expiresAt": 1793170205648
+      "expiresAt": 1793170205648,
+      "gwLast": 1793169376435,
+      "paidAt": 1793169375000,
+      "reviewedAt": 1793169377653,
+      "via": "gateway",
+      "reviewedBy": null
     }
   ],
   "tickets": [
