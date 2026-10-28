@@ -1135,12 +1135,15 @@
       "type": "nokos",
       "price": 2280,
       "cost": 1280,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1793169445509,
       "title": "adamodal · Indonesia · Server 1",
-      "serviceId": "1:bdo"
+      "serviceId": "1:bdo",
+      "pid": "8050eac5-29d2-4881-b265-c3faecb3686e",
+      "number": "6283831759838",
+      "expiresAt": 1793170649303
     }
   ],
   "dapk": [
