@@ -266,6 +266,23 @@
       "reviewedAt": 1793116508981,
       "via": "gateway",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMVRQPEUX38D4",
+      "uid": "d83c8e1f1b99",
+      "kind": "qris",
+      "gw": true,
+      "amount": 5000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 5075,
+      "gwUnique": 75,
+      "gwFee": 36,
+      "gwQr": "/api/qris/image?tid=DEPMVRQPEUX38D4&mid=QP-MMLOg3ga",
+      "createdAt": 1793169304953,
+      "expiresAt": 1793170205648
     }
   ],
   "tickets": [
