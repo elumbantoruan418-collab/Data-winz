@@ -162,7 +162,7 @@
       "email": "ikansegar895@gmail.com",
       "pass": "55f98922d298916c92b294cb535c8c94:2e1aaab9b8af7856945af49c3137dd7e4450a0e7b8399e7e3f6b08d73a8d33edd15d320f8aa39496a62a3306ab2dd7c863756e0377052ff4204096837b624515",
       "isAdmin": false,
-      "balance": 5000,
+      "balance": 2000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1307,6 +1307,20 @@
       "title": "fawry · Indonesia · Server 1",
       "serviceId": "1:atn",
       "refundedAt": 1793173464817
+    },
+    {
+      "id": "NKMVRT6N74CF04",
+      "uid": "d83c8e1f1b99",
+      "reqId": "4f454e31-fd87-436a-a248-0a8bcd39a3e5",
+      "type": "nokos",
+      "price": 3000,
+      "cost": 2000,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793173468144,
+      "title": "fawry · Indonesia · Server 1",
+      "serviceId": "1:atn"
     }
   ],
   "dapk": [
