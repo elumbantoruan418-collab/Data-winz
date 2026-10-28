@@ -162,7 +162,7 @@
       "email": "ikansegar895@gmail.com",
       "pass": "55f98922d298916c92b294cb535c8c94:2e1aaab9b8af7856945af49c3137dd7e4450a0e7b8399e7e3f6b08d73a8d33edd15d320f8aa39496a62a3306ab2dd7c863756e0377052ff4204096837b624515",
       "isAdmin": false,
-      "balance": 5000,
+      "balance": 2720,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1238,6 +1238,20 @@
       "title": "google chat · Indonesia · Server 1",
       "serviceId": "1:ccu",
       "refundedAt": 1793170888829
+    },
+    {
+      "id": "NKMVRRQM9K76AE",
+      "uid": "d83c8e1f1b99",
+      "reqId": "3dc7e02a-38a4-49bf-9f57-0f6f0e0fbf07",
+      "type": "nokos",
+      "price": 2280,
+      "cost": 1280,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793171040825,
+      "title": "fifgroup mobile customer · Indonesia · Server 1",
+      "serviceId": "1:axj"
     }
   ],
   "dapk": [
