@@ -162,7 +162,7 @@
       "email": "ikansegar895@gmail.com",
       "pass": "55f98922d298916c92b294cb535c8c94:2e1aaab9b8af7856945af49c3137dd7e4450a0e7b8399e7e3f6b08d73a8d33edd15d320f8aa39496a62a3306ab2dd7c863756e0377052ff4204096837b624515",
       "isAdmin": false,
-      "balance": 5000,
+      "balance": 2630,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1175,6 +1175,20 @@
       "title": "bybit · Indonesia · Server 1",
       "serviceId": "1:abn",
       "refundedAt": 1793169901652
+    },
+    {
+      "id": "NKMVRR3MGHD986",
+      "uid": "d83c8e1f1b99",
+      "reqId": "92084853-5ad9-4024-b461-5f22a2046ef3",
+      "type": "nokos",
+      "price": 2370,
+      "cost": 1370,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793169967985,
+      "title": "360kredi · Indonesia · Server 1",
+      "serviceId": "1:ayo"
     }
   ],
   "dapk": [
