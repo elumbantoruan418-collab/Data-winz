@@ -162,7 +162,7 @@
       "email": "ikansegar895@gmail.com",
       "pass": "55f98922d298916c92b294cb535c8c94:2e1aaab9b8af7856945af49c3137dd7e4450a0e7b8399e7e3f6b08d73a8d33edd15d320f8aa39496a62a3306ab2dd7c863756e0377052ff4204096837b624515",
       "isAdmin": false,
-      "balance": 3602,
+      "balance": 5000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1231,12 +1231,13 @@
       "type": "nokos",
       "price": 1398,
       "cost": 398,
-      "status": "processing",
-      "note": "",
-      "refunded": false,
+      "status": "failed",
+      "note": "Tidak bisa terhubung ke provider (www.ditznesia.com: waktu habis (timeout 12 dtk)).",
+      "refunded": true,
       "createdAt": 1793170875437,
       "title": "google chat · Indonesia · Server 1",
-      "serviceId": "1:ccu"
+      "serviceId": "1:ccu",
+      "refundedAt": 1793170888829
     }
   ],
   "dapk": [
