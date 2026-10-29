@@ -362,7 +362,16 @@
       "file": "0b9dc078a754.bin",
       "fileName": "emoji____ berbayar.zip",
       "sizeKB": 17,
-      "category": ""
+      "category": "",
+      "media": [
+        {
+          "id": "e11f965a31dd",
+          "type": "image",
+          "ext": "jpg",
+          "mime": "image/jpeg",
+          "size": 1046848
+        }
+      ]
     },
     {
       "id": "321b62f97b35",
