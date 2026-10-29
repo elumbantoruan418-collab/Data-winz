@@ -594,6 +594,19 @@
       "file": "9f5c813e7953.bin",
       "fileName": "Ubot_Premium.zip",
       "sizeKB": 870
+    },
+    {
+      "id": "5acfdd44bf00",
+      "active": true,
+      "createdAt": 1793311639707,
+      "name": "Test funtion",
+      "desc": "Bot ini ada bot Menes funtion secara mudah dan gampang dan memperbaiki yang eror",
+      "version": "",
+      "category": "Bot",
+      "price": 2000,
+      "file": "44febe59fd20.bin",
+      "fileName": "tesfunct.zip",
+      "sizeKB": 9
     }
   ],
   "dorders": [
