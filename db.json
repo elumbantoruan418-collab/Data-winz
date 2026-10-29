@@ -150,7 +150,7 @@
       "email": "cahkontenkreator@gmail.com",
       "pass": "eee0b9c29f58c2bf82b757d69d9707ee:03e9a8fb58b24067905a7be5a10262de413a07181cad288071719c6d1405f0776a319d05c482eab12687fe20d6f2c0256155c391f11543e8b7f5e2d193303ffa",
       "isAdmin": false,
-      "balance": 1000,
+      "balance": 6000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -299,6 +299,19 @@
       "paidAt": 1793169375000,
       "reviewedAt": 1793169377653,
       "via": "gateway",
+      "reviewedBy": null
+    },
+    {
+      "id": "PRMMVTI70AIC7",
+      "uid": "1fdb2b19fb3b",
+      "amount": 5000,
+      "status": "approved",
+      "via": "admin",
+      "note": "Kode promo NIKEPIN",
+      "adminNote": "",
+      "proofFile": null,
+      "createdAt": 1793275941690,
+      "reviewedAt": 1793275941690,
       "reviewedBy": null
     }
   ],
@@ -1703,7 +1716,9 @@
       "maxUses": 1,
       "expiresAt": null,
       "active": true,
-      "usedBy": [],
+      "usedBy": [
+        "1fdb2b19fb3b"
+      ],
       "createdAt": 1793274516653
     }
   ],
