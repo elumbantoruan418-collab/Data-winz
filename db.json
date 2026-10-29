@@ -167,6 +167,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793136803472
+    },
+    {
+      "id": "67c41d612358",
+      "name": "pzgtg",
+      "email": "pzgtg223@gmail.com",
+      "pass": "f8601ab4669aabdb670f6f329085d092:0948deb58230fd398eea14858cc9e1aa43887d98e0f370ad9697cb78041d82792b35f4968127422ff352a57cd931e0fdf0cde70c79cc54c55d21b5ad04839eda",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793269758556
     }
   ],
   "orders": [],
