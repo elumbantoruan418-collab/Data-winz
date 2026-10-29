@@ -1670,6 +1670,16 @@
         "d5ac8b72205d"
       ],
       "createdAt": 1793104745316
+    },
+    {
+      "id": "2fd35a3328fc",
+      "code": "NIKEPIN",
+      "amount": 5000,
+      "maxUses": 1,
+      "expiresAt": null,
+      "active": true,
+      "usedBy": [],
+      "createdAt": 1793274516653
     }
   ],
   "ubotSubs": [
