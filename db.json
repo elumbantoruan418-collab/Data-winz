@@ -191,6 +191,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793436564730
+    },
+    {
+      "id": "4e78a07dc31b",
+      "name": "Farel",
+      "email": "kikifharell524@gmail.com",
+      "pass": "4a9d544d9698bc843b38500191cb99d2:39a2e3dbcf6df0c168d2b877ffd38593a138cb61db3024ce77071be5f4bf31141cca2d40734ba074f02b9362bf0386ba32111d2a52c22c30718b20133d08cf80",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793438305122
     }
   ],
   "orders": [],
