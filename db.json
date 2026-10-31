@@ -227,6 +227,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793462664131
+    },
+    {
+      "id": "926806e5b4c2",
+      "name": "Hamdan Dzakir",
+      "email": "hamdandz001@gmail.com",
+      "pass": "3b37cb801e51eb57c7425a4281da2a1f:34732c9db90a780b891ded36844a2b8b4930040035ebd63edf2c5b81c144398882662df732226396a9a49930d47f04ef7b5ce621674fa1376a03caef70a84f3e",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793485254413
     }
   ],
   "orders": [],
