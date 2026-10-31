@@ -179,6 +179,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793269758556
+    },
+    {
+      "id": "a3a22f68bd42",
+      "name": "Rizalnokos",
+      "email": "rizalul.fakih97@gmail.com",
+      "pass": "a040706b9cc608930b8c208f070e7964:2b4f63c8f5516cdabed2bb1ad20958bd3a424acc34381f15b5d817e5069b846ff2c45986472d04ce57eec6f83aeb9c2560dc4cb0983f4cf9bb48aa8516aae8c4",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793436564730
     }
   ],
   "orders": [],
