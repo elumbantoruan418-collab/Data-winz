@@ -2123,5 +2123,13 @@
       "status": "ready",
       "addedAt": 1793397441028
     }
+  ],
+  "audit": [
+    {
+      "at": 1793448433471,
+      "admin": "admin@panelku.local",
+      "target": "helminub123@gmail.com",
+      "act": "view-as"
+    }
   ]
 }
