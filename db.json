@@ -345,10 +345,10 @@
       "uid": "d5ac8b72205d",
       "subject": "Jbb",
       "category": "Pembayaran / Deposit",
-      "status": "open",
+      "status": "answered",
       "createdAt": 1793112963413,
-      "updatedAt": 1793442312859,
-      "userUnread": false,
+      "updatedAt": 1793443391885,
+      "userUnread": true,
       "adminUnread": false,
       "messages": [
         {
@@ -368,6 +368,12 @@
           "from": "user",
           "text": "Halo min",
           "at": 1793442312859
+        },
+        {
+          "id": "310e803a9972",
+          "from": "admin",
+          "text": "Ya halo",
+          "at": 1793443391885
         }
       ]
     }
