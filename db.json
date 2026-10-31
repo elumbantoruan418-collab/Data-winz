@@ -150,7 +150,7 @@
       "email": "cahkontenkreator@gmail.com",
       "pass": "eee0b9c29f58c2bf82b757d69d9707ee:03e9a8fb58b24067905a7be5a10262de413a07181cad288071719c6d1405f0776a319d05c482eab12687fe20d6f2c0256155c391f11543e8b7f5e2d193303ffa",
       "isAdmin": false,
-      "balance": 3000,
+      "balance": 0,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1791,6 +1791,21 @@
       "title": "whatsapp · Indonesia · Server 2",
       "serviceId": "2:wa",
       "refundedAt": 1793434275209
+    },
+    {
+      "id": "SCMVW7WDQND137",
+      "uid": "1fdb2b19fb3b",
+      "reqId": "d03ec397-2757-48cb-9897-3d2e5dcf04e4",
+      "type": "sc",
+      "price": 3000,
+      "cost": 0,
+      "status": "done",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793440048271,
+      "title": "Heck vps",
+      "pid2": "4d30aaad7976",
+      "fileName": "SCRIPT KILL PANEL GACOR VVIP.zip"
     }
   ],
   "dapk": [
