@@ -345,11 +345,11 @@
       "uid": "d5ac8b72205d",
       "subject": "Jbb",
       "category": "Pembayaran / Deposit",
-      "status": "closed",
+      "status": "open",
       "createdAt": 1793112963413,
-      "updatedAt": 1793183627488,
+      "updatedAt": 1793442312859,
       "userUnread": false,
-      "adminUnread": false,
+      "adminUnread": true,
       "messages": [
         {
           "id": "22a046d346a9",
@@ -362,6 +362,12 @@
           "from": "user",
           "text": "Min",
           "at": 1793112967498
+        },
+        {
+          "id": "a8456b225ec7",
+          "from": "user",
+          "text": "Halo min",
+          "at": 1793442312859
         }
       ]
     }
