@@ -215,6 +215,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793447838824
+    },
+    {
+      "id": "c9221cb04b9f",
+      "name": "shaaaa",
+      "email": "terserah6252@gmail.com",
+      "pass": "a0fa00b2e1624080cd37a6f4fb784179:603ec97ce806d3fc8bd3b9196cb16aad8b6ee45abf4e8bc2208c6cd42de2f8696cfecc5511191149bbcd635cfcec5bdf51a9db6faf6b010b22130d938607e0cc",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793462664131
     }
   ],
   "orders": [],
