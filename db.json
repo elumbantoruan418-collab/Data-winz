@@ -1728,7 +1728,7 @@
       "price": 2000,
       "cost": 0,
       "status": "done",
-      "note": "Belum dipakai. Buka menu Ubot Premium untuk menyambungkan akun Telegram.",
+      "note": "Aktif untuk 1xbet suprort (@Onexbet_sport) sampai 30 Nov 2026.",
       "refunded": false,
       "createdAt": 1793422084223,
       "subId": "f2d1c597bde0",
@@ -1880,9 +1880,11 @@
       "name": "Ubot Premium 1 Bulan",
       "days": 30,
       "price": 2000,
-      "status": "unused",
-      "accountId": null,
-      "createdAt": 1793422084223
+      "status": "active",
+      "accountId": 8097112220,
+      "createdAt": 1793422084223,
+      "activatedAt": 1793422148568,
+      "expiresAt": 1796057999000
     }
   ],
   "gaccs": [
