@@ -389,7 +389,8 @@
       "gwFee": 15,
       "gwQr": "/api/qris/image?tid=DEPMVWZ1RYUE862&mid=QP-MMLOg3ga",
       "createdAt": 1793485649622,
-      "expiresAt": 1793486550423
+      "expiresAt": 1793486550423,
+      "gwLast": 1793485966699
     }
   ],
   "tickets": [
