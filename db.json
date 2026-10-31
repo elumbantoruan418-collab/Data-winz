@@ -373,6 +373,23 @@
       "createdAt": 1793275941690,
       "reviewedAt": 1793275941690,
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMVWZ1RYUE862",
+      "uid": "926806e5b4c2",
+      "kind": "qris",
+      "gw": true,
+      "amount": 2000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 2164,
+      "gwUnique": 164,
+      "gwFee": 15,
+      "gwQr": "/api/qris/image?tid=DEPMVWZ1RYUE862&mid=QP-MMLOg3ga",
+      "createdAt": 1793485649622,
+      "expiresAt": 1793486550423
     }
   ],
   "tickets": [
