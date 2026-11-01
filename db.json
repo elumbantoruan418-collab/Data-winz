@@ -263,6 +263,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793517153221
+    },
+    {
+      "id": "b1e1f0b5a5b8",
+      "name": "ALFARIZI",
+      "email": "sayangalfarizi39@gmail.com",
+      "pass": "d2ea4c9fd505102199baa46e1b3a6f60:bba020cb987f54bbce67cb4c0323f770c6fb5d4b8f54052ccb5634ce9db7e4b1b6d19abb812de76e2679ef23ee5d73a65a2e41aa6d0b1fb3d930b0b0af3ce558",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793520275120
     }
   ],
   "orders": [],
