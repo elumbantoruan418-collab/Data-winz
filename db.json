@@ -585,14 +585,15 @@
       "id": "6527dfd3e1de",
       "active": true,
       "createdAt": 1792877836686,
-      "name": "U ot",
-      "desc": "Cek aja lu tau ubot via panel",
+      "name": "Ubot premium",
+      "desc": "Ubot seperti ubot di tokoh kita akanya agak mahal 🐉",
       "version": "",
-      "price": 300,
+      "price": 120000,
       "file": "d4e80dd4c50c.bin",
-      "fileName": "ubotwimz__ (1).zip",
-      "sizeKB": 11,
-      "storage": "disk"
+      "fileName": "ubot-server-premium-help-fix-v2.zip",
+      "sizeKB": 384,
+      "category": "Bot",
+      "uploading": true
     },
     {
       "id": "4d30aaad7976",
