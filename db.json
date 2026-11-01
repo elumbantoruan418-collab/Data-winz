@@ -2004,12 +2004,18 @@
       "type": "panel",
       "price": 2000,
       "cost": 2000,
-      "status": "processing",
-      "note": "",
+      "status": "done",
+      "note": "Data di atas masih sementara. Buka tiket di menu Bantuan, sebut ID pesanan PNMVX7AOIR695E, admin akan memproses panel aslinya.",
       "refunded": false,
       "createdAt": 1793499501988,
       "title": "Panel Starter",
-      "planId": "pn-starter"
+      "planId": "pn-starter",
+      "pid": "MAN175a8a26ec5f",
+      "expiresAt": 1793500703129,
+      "ip": "https://panel-60f47b.example.com",
+      "vuser": "rasyid12",
+      "vpass": "l3vLc5VzuBd9",
+      "manual": true
     }
   ],
   "dapk": [
