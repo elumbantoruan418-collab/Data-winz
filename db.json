@@ -465,6 +465,25 @@
           "at": 1793443391885
         }
       ]
+    },
+    {
+      "id": "TKT7LO0Z05",
+      "uid": "f78d409567d7",
+      "subject": "Web panel",
+      "category": "Panel / Server",
+      "status": "open",
+      "createdAt": 1793500014563,
+      "updatedAt": 1793500014563,
+      "userUnread": false,
+      "adminUnread": true,
+      "messages": [
+        {
+          "id": "732be2bfb51c",
+          "from": "user",
+          "text": "Ini gw beli panel yang 2k tapi pas gw salin link panel nya kaga bisa kesalahan jaringan mulu padahal udah kenceng jaringan nya",
+          "at": 1793500014564
+        }
+      ]
     }
   ],
   "settings": {
