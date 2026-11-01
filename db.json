@@ -706,6 +706,20 @@
       "file": "44febe59fd20.bin",
       "fileName": "tesfunct.zip",
       "sizeKB": 9
+    },
+    {
+      "id": "edef364f07b8",
+      "active": true,
+      "createdAt": 1793492638998,
+      "name": "Auto order fix dll",
+      "desc": "Commands Owner:\n/addproduct name|price|desc - Tambah produk\n/addbalance user_id amount - Tambah saldo user\n/broadcast message - Broadcast ke semua user\n/balance - Cek saldo 5Sim\n/topupsim - Topup saldo 5Sim dengan QR\n/restart - Restart bot\n/stats - Statistik bot\n DLL\n\nNODE 20+ \nNPM START \nNO ENC\nTELE ONLY",
+      "version": "",
+      "category": "",
+      "price": 2000,
+      "file": "3f326eedfa15.bin",
+      "fileName": "NEW UPDATE FITUR AND FIX SC AUTO ORDER.zip",
+      "sizeKB": 14,
+      "uploading": true
     }
   ],
   "dorders": [
