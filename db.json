@@ -434,9 +434,9 @@
       "uid": "d5ac8b72205d",
       "subject": "Jbb",
       "category": "Pembayaran / Deposit",
-      "status": "answered",
+      "status": "closed",
       "createdAt": 1793112963413,
-      "updatedAt": 1793443391885,
+      "updatedAt": 1793514570140,
       "userUnread": false,
       "adminUnread": false,
       "messages": [
