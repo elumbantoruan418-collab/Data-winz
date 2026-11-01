@@ -2080,17 +2080,20 @@
       "price": 2000,
       "cost": 2000,
       "status": "done",
-      "note": "Data di atas masih sementara. Buka tiket di menu Bantuan, sebut ID pesanan PNMVXG39SCBB05, admin akan memproses panel aslinya.",
+      "note": "VPS sudah diaktifkan admin.",
       "refunded": false,
       "createdAt": 1793514272844,
       "title": "Panel Starter",
       "planId": "pn-starter",
       "pid": "MAN893b9ce45982",
       "expiresAt": 1793515473979,
-      "ip": "https://panel-6c3be8.example.com",
-      "vuser": "kjj",
-      "vpass": "jgOEisiDYUFp",
-      "manual": true
+      "ip": "url nya",
+      "vuser": "ini name nya",
+      "vpass": "ini",
+      "manual": false,
+      "panelUrl": "apa lagi ni",
+      "panelUser": "isis",
+      "panelPass": "jdjd"
     }
   ],
   "dapk": [
