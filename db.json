@@ -2252,6 +2252,12 @@
       "admin": "admin@panelku.local",
       "target": "helminub123@gmail.com",
       "act": "view-as"
+    },
+    {
+      "at": 1793501543880,
+      "admin": "admin@panelku.local",
+      "target": "akuncodmrasyid@gmail.com",
+      "act": "view-as"
     }
   ]
 }
