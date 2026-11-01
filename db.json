@@ -239,6 +239,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793485254413
+    },
+    {
+      "id": "f78d409567d7",
+      "name": "Tasyyz",
+      "email": "akuncodmrasyid@gmail.com",
+      "pass": "8a9d44f36ece46236adbf068fc7abe86:fdd9931cd72953a5df58a86dfd90e7466f73f10170fd1cd9072c2896c8af6178d78f577169245c6568e49b5dab3295e376dfb26eec2290fa9b6c9d86b5d2e095",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793498623318
     }
   ],
   "orders": [],
