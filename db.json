@@ -619,7 +619,15 @@
       "fileName": "TEST ANTI BYPAS.zip",
       "sizeKB": 386,
       "category": "",
-      "media": []
+      "media": [
+        {
+          "id": "c01d4b8288ec",
+          "type": "image",
+          "ext": "jpg",
+          "mime": "image/jpeg",
+          "size": 710547
+        }
+      ]
     },
     {
       "id": "d5d97846cf0b",
