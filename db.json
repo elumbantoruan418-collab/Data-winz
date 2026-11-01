@@ -527,7 +527,8 @@
       "file": "10f2bcbc5a4f.bin",
       "fileName": "web2apk.zip",
       "sizeKB": 5173,
-      "storage": "disk"
+      "category": "",
+      "uploading": true
     },
     {
       "id": "23d896935c5f",
