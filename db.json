@@ -473,7 +473,7 @@
       "category": "Panel / Server",
       "status": "answered",
       "createdAt": 1793500014563,
-      "updatedAt": 1793501076928,
+      "updatedAt": 1793513593890,
       "userUnread": true,
       "adminUnread": false,
       "messages": [
@@ -488,6 +488,12 @@
           "from": "admin",
           "text": "Coba cek lagi kk gw dah perbaiki",
           "at": 1793501076928
+        },
+        {
+          "id": "3de48fe6f95c",
+          "from": "admin",
+          "text": "Sbr ya kk perbaiki server gw",
+          "at": 1793513593890
         }
       ]
     }
