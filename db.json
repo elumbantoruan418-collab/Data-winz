@@ -471,10 +471,10 @@
       "uid": "f78d409567d7",
       "subject": "Web panel",
       "category": "Panel / Server",
-      "status": "open",
+      "status": "answered",
       "createdAt": 1793500014563,
-      "updatedAt": 1793500014563,
-      "userUnread": false,
+      "updatedAt": 1793501076928,
+      "userUnread": true,
       "adminUnread": false,
       "messages": [
         {
@@ -482,6 +482,12 @@
           "from": "user",
           "text": "Ini gw beli panel yang 2k tapi pas gw salin link panel nya kaga bisa kesalahan jaringan mulu padahal udah kenceng jaringan nya",
           "at": 1793500014564
+        },
+        {
+          "id": "5b8e90b99395",
+          "from": "admin",
+          "text": "Coba cek lagi kk gw dah perbaiki",
+          "at": 1793501076928
         }
       ]
     }
