@@ -582,7 +582,7 @@
       "email": "dikilekku@gmail.com",
       "pass": "f57ef385539b14a4d3e344f8210d95e5:3dbc0e1a5ee9f3bcd45d972014c2a35f718034eeb2263ae24b54068720d6316c76fcbec49998d6a9d128e7446abdce9d92cfa4cb63f245b44b70eec7131f55f3",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 2000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -917,7 +917,7 @@
       "kind": "qris",
       "gw": true,
       "amount": 2000,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -926,7 +926,12 @@
       "gwFee": 15,
       "gwQr": "/api/qris/image?tid=DEPMVZBS50FFC37&mid=QP-MMLOg3ga",
       "createdAt": 1793627967327,
-      "expiresAt": 1793628868090
+      "expiresAt": 1793628868090,
+      "gwLast": 1793628053822,
+      "paidAt": 1793627968090,
+      "reviewedAt": 1793628057965,
+      "via": "gateway",
+      "reviewedBy": null
     }
   ],
   "tickets": [
