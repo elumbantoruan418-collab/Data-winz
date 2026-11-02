@@ -474,7 +474,7 @@
       "email": "rogerlimbong359@gmail.com",
       "pass": "faa1fa3902e34fe794e52cdc6a4d7160:6257dd270a3cd54d40257f3bd9598a6dbf68245ff1e9a2aed57f62dab7929a3e4074874035db2a8fa08cdd5919d8e1b12aed2ac7adcd47b7873660a3c72fa714",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 2000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -714,7 +714,7 @@
       "kind": "qris",
       "gw": true,
       "amount": 2000,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -724,7 +724,11 @@
       "gwQr": "/api/qris/image?tid=DEPMVZ9J6Z53F9A&mid=QP-MMLOg3ga",
       "createdAt": 1793624190737,
       "expiresAt": 1793625090996,
-      "gwLast": 1793624212511
+      "gwLast": 1793624236512,
+      "paidAt": 1793624230000,
+      "reviewedAt": 1793624238671,
+      "via": "gateway",
+      "reviewedBy": null
     }
   ],
   "tickets": [
