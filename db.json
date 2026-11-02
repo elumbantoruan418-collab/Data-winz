@@ -539,6 +539,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793624760803
+    },
+    {
+      "id": "ea9b5bc164df",
+      "name": "Hs store",
+      "email": "jimbot@gmail.com",
+      "pass": "31381d803fee35de5f28e10c52708055:c71eb27ba5f7b733e9737ef71cc326003d517c22b99999715700635e1b43bf983f5125b99705500e6303bf238960fe839ec46b79771b01cc1a6424f5f084b4e9",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793624809409
     }
   ],
   "orders": [],
