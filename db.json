@@ -527,6 +527,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793624629294
+    },
+    {
+      "id": "9b973424dcfb",
+      "name": "Mario",
+      "email": "kamu@gmail.com",
+      "pass": "332b1666ff8a7bfa1037534e65e80937:7b79e073ace63dbe465833e791871ec738abbfc6db3b42911376c0f1cf831fb74cf20793161a796eceb97a91d50afc07f93765668f997ddad431ac88beec01a8",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793624760803
     }
   ],
   "orders": [],
