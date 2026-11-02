@@ -997,6 +997,23 @@
       "reviewedAt": 1793628486847,
       "via": "gateway",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMVZCYOJ50F03",
+      "uid": "d4134a614f11",
+      "kind": "qris",
+      "gw": true,
+      "amount": 3000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 3295,
+      "gwUnique": 295,
+      "gwFee": 23,
+      "gwQr": "/api/qris/image?tid=DEPMVZCYOJ50F03&mid=QP-MMLOg3ga",
+      "createdAt": 1793629952177,
+      "expiresAt": 1793630853083
     }
   ],
   "tickets": [
