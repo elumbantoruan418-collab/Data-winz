@@ -2964,12 +2964,15 @@
       "type": "nokos",
       "price": 1698,
       "cost": 698,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1793629990968,
       "title": "24betting · Indonesia · Server 3",
-      "serviceId": "3:6:lh"
+      "serviceId": "3:6:lh",
+      "pid": "805227ef-8a56-4c0e-82fd-101167423f26",
+      "number": "6283159768562",
+      "expiresAt": 1793631195156
     }
   ],
   "dapk": [
