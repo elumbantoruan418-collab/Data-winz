@@ -1038,16 +1038,18 @@
       "kind": "qris",
       "gw": true,
       "amount": 2000,
-      "status": "awaiting_payment",
+      "status": "expired",
       "note": "",
-      "adminNote": "",
+      "adminNote": "Dibatalkan oleh pengguna.",
       "attempts": 0,
       "gwTotal": 2369,
       "gwUnique": 369,
       "gwFee": 17,
       "gwQr": "/api/qris/image?tid=DEPMVZD2PAPDDCF&mid=QP-MMLOg3ga",
       "createdAt": 1793630139793,
-      "expiresAt": 1793631044099
+      "expiresAt": 1793631044099,
+      "gwLast": 1793630172712,
+      "reviewedAt": 1793630175534
     }
   ],
   "tickets": [
