@@ -359,6 +359,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793615874919
+    },
+    {
+      "id": "488cfe5efe76",
+      "name": "Apri",
+      "email": "apristok700@gmail.com",
+      "pass": "785be6f0f245b15a3fa3bbd47b10fba2:9b36511c8201a58a131c94f3bec1d3d8368e2806af2d82c5adfea9176a550358a3cad891e020f4ad3df04d7c9f695b1e5516bacdba8515b09adfb7a4a9778941",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793615929321
     }
   ],
   "orders": [],
@@ -551,7 +563,7 @@
       "gwQr": "/api/qris/image?tid=DEPMVZ40L54DC8A&mid=QP-MMLOg3ga",
       "createdAt": 1793614924552,
       "expiresAt": 1793615825338,
-      "gwLast": 1793615899631
+      "gwLast": 1793615923634
     }
   ],
   "tickets": [
