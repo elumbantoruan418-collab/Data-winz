@@ -741,6 +741,23 @@
       "reviewedAt": 1793624238671,
       "via": "gateway",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMVZ9N58S13EE",
+      "uid": "07e23165754b",
+      "kind": "qris",
+      "gw": true,
+      "amount": 2000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 2091,
+      "gwUnique": 91,
+      "gwFee": 15,
+      "gwQr": "/api/qris/image?tid=DEPMVZ9N58S13EE&mid=QP-MMLOg3ga",
+      "createdAt": 1793624375116,
+      "expiresAt": 1793625275968
     }
   ],
   "tickets": [
