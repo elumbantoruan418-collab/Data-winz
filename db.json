@@ -395,6 +395,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793623513931
+    },
+    {
+      "id": "68e7d4e67dee",
+      "name": "Rizky Septian Parapat VII.7",
+      "email": "riwantoefendi931@gmail.com",
+      "pass": "3887552a3fe3c9d7340d0232333f94dd:9f155b6733f332bd28f09cb0ea66fb24b91bcc31afe25c89e52131bbcad910e86c34d129143c8ad3ba5b6a3af178d30678683be40b9e931f3d359bf7a5e601a4",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793623803238
     }
   ],
   "orders": [],
