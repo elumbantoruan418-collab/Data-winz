@@ -407,6 +407,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793623803238
+    },
+    {
+      "id": "9b5910748971",
+      "name": "erlangga",
+      "email": "erlangjago01@gmail.com",
+      "pass": "0ad485448180c0d732cfa659a1ddfb4b:142e95f19cf4cf85c4ad3ba7d17172c7c1d9f723250f2123758963808e5a83f366349d9d4fc541b5391a5346b8f9084ee22674210eeb47ef14a1ffc6bb66832e",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793623828634
     }
   ],
   "orders": [],
