@@ -972,7 +972,7 @@
       "createdAt": 1793624887188,
       "updatedAt": 1793624887188,
       "userUnread": false,
-      "adminUnread": true,
+      "adminUnread": false,
       "messages": [
         {
           "id": "021299ab32bd",
