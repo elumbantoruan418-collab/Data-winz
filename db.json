@@ -450,7 +450,7 @@
       "email": "ndomm933@gmail.com",
       "pass": "80a3146fc639001b57bb89601558ad1d:1abf15b2d3eaebca4e69eaaa07cd9c92fee029485026d57e96b71d2e59448849581dcea96b52e03c4163341263e1c5d33fa97f7ced34051759d4da189c94a90b",
       "isAdmin": false,
-      "balance": 302,
+      "balance": 2000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -2769,15 +2769,16 @@
       "type": "nokos",
       "price": 1698,
       "cost": 698,
-      "status": "waiting",
-      "note": "",
-      "refunded": false,
+      "status": "canceled",
+      "note": "Dibatalkan provider. Saldo dikembalikan.",
+      "refunded": true,
       "createdAt": 1793625560762,
       "title": "163сom · Indonesia · Server 3",
       "serviceId": "3:6:wp",
       "pid": "db95c7dc-0680-43f0-9464-3ff5354f54e7",
       "number": "6283167460503",
-      "expiresAt": 1793626764465
+      "expiresAt": 1793626764465,
+      "refundedAt": 1793626832288
     }
   ],
   "dapk": [
