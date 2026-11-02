@@ -845,6 +845,23 @@
       "reviewedAt": 1793624471145,
       "via": "gateway",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMVZA63FGAFC7",
+      "uid": "34f43f466a5a",
+      "kind": "qris",
+      "gw": true,
+      "amount": 1000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 1272,
+      "gwUnique": 272,
+      "gwFee": 9,
+      "gwQr": "/api/qris/image?tid=DEPMVZA63FGAFC7&mid=QP-MMLOg3ga",
+      "createdAt": 1793625259228,
+      "expiresAt": 1793626160060
     }
   ],
   "tickets": [
