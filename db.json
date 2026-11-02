@@ -606,7 +606,7 @@
       "email": "arifinkhalifah531@gmail.com",
       "pass": "0685ee30edf91c71cfbfd9b384a58ef4:a54ac1b7522e6b06450abcb6a1ae075fc3f54900cf442d00bf976f2ae40b022559986ee4bd1327a7245dc94968b1034142e34295fd4cd18f6f3338f361b6476e",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 1000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -982,7 +982,7 @@
       "kind": "qris",
       "gw": true,
       "amount": 1000,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -991,7 +991,12 @@
       "gwFee": 10,
       "gwQr": "/api/qris/image?tid=DEPMVZC1HVHAD87&mid=QP-MMLOg3ga",
       "createdAt": 1793628403901,
-      "expiresAt": 1793629304015
+      "expiresAt": 1793629304015,
+      "gwLast": 1793628485870,
+      "paidAt": 1793628484000,
+      "reviewedAt": 1793628486847,
+      "via": "gateway",
+      "reviewedBy": null
     }
   ],
   "tickets": [
