@@ -909,6 +909,25 @@
           "at": 1793514048907
         }
       ]
+    },
+    {
+      "id": "TKT9Y4D09D",
+      "uid": "bcbe08e9c55f",
+      "subject": "OTP NYA KOK GAK MUNCUL MUNCUL",
+      "category": "Lainnya",
+      "status": "open",
+      "createdAt": 1793624887188,
+      "updatedAt": 1793624887188,
+      "userUnread": false,
+      "adminUnread": true,
+      "messages": [
+        {
+          "id": "021299ab32bd",
+          "from": "user",
+          "text": "Otp nya gak muncul muncul mas, padahal dah nungguin",
+          "at": 1793624887189
+        }
+      ]
     }
   ],
   "settings": {
