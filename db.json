@@ -347,6 +347,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793614905130
+    },
+    {
+      "id": "f048c7140fc6",
+      "name": "Sezz",
+      "email": "wkwk123@gmail.com",
+      "pass": "e9d37264a8dfe60556b88fdb73a96b4b:c404116b483b41803292d0034b76e03ccb1346b221586061da32a88ef9fadef21a152d6e38f9722cc5f9f8acec767017b4ea5155b1e8a61cda6bd38d20b92466",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793615874919
     }
   ],
   "orders": [],
@@ -539,7 +551,7 @@
       "gwQr": "/api/qris/image?tid=DEPMVZ40L54DC8A&mid=QP-MMLOg3ga",
       "createdAt": 1793614924552,
       "expiresAt": 1793615825338,
-      "gwLast": 1793615851626
+      "gwLast": 1793615875630
     }
   ],
   "tickets": [
