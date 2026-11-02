@@ -371,6 +371,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793615929321
+    },
+    {
+      "id": "bd34518712b5",
+      "name": "Nexxstore",
+      "email": "dekazamazam2@gmail.com",
+      "pass": "2c37bb548fc5af2c4ab4fa2731a516a9:b51f2d8e5b85749f5aaadefb86e1f7bc969f7a325fc9b46febc274cd46b2f3dd2ee22e028f11701a874718cd59d1f8e91aad4d567bc45e563dadc8738cec7ae6",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793617751644
     }
   ],
   "orders": [],
