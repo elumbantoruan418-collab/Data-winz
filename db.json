@@ -1101,7 +1101,7 @@
       "gwQr": "/api/qris/image?tid=DEPMVZDC0Y37072&mid=QP-MMLOg3ga",
       "createdAt": 1793630574795,
       "expiresAt": 1793631475628,
-      "gwLast": 1793630686234
+      "gwLast": 1793630822250
     }
   ],
   "tickets": [
@@ -3134,7 +3134,7 @@
       "price": 2000,
       "cost": 0,
       "status": "done",
-      "note": "Belum dipakai. Buka menu Ubot Premium untuk menyambungkan akun Telegram.",
+      "note": "Aktif untuk Arifin BetaX 𝙿𝚛𝚘𝚜𝚎𝚍𝚞𝚛 𝓐𝓭𝓶𝓲𝓷 (@Ratrifter) sampai 02 Des 2026.",
       "refunded": false,
       "createdAt": 1793630687248,
       "subId": "228b6daf6da8",
@@ -3300,11 +3300,13 @@
       "name": "Ubot Premium 1 Bulan",
       "days": 30,
       "price": 2000,
-      "status": "unused",
-      "accountId": null,
+      "status": "active",
+      "accountId": 8802208232,
       "createdAt": 1793630687248,
       "maxBots": 1,
-      "bundleId": "228b6daf6da8"
+      "bundleId": "228b6daf6da8",
+      "activatedAt": 1793630824768,
+      "expiresAt": 1796230799000
     }
   ],
   "gaccs": [
