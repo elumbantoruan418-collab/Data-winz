@@ -661,6 +661,23 @@
       "expiresAt": 1793615825338,
       "gwLast": 1793616123658,
       "reviewedAt": 1793616131658
+    },
+    {
+      "id": "DEPMVZ9FLNW655D",
+      "uid": "bcbe08e9c55f",
+      "kind": "qris",
+      "gw": true,
+      "amount": 4000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 4162,
+      "gwUnique": 162,
+      "gwFee": 29,
+      "gwQr": "/api/qris/image?tid=DEPMVZ9FLNW655D&mid=QP-MMLOg3ga",
+      "createdAt": 1793624023148,
+      "expiresAt": 1793624923941
     }
   ],
   "tickets": [
