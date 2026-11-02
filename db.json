@@ -647,6 +647,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793633086389
+    },
+    {
+      "id": "9cb25621dfca",
+      "name": "yoga",
+      "email": "yogaxztu@gmail.com",
+      "pass": "e7e1e924ac7a634746d3278b859ad095:34eca78acc20dcb88d0124a793f14b690d291020cd8c76712be4fd845fc0900d2bcc979e7552bee71d2d194457e30e7b6587234cb4b281b94fc025e171941c63",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793645884807
     }
   ],
   "orders": [],
