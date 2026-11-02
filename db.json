@@ -438,7 +438,7 @@
       "email": "yusufsetiaga@gmail.com",
       "pass": "6ee9a1f86b0c59352ec5c9bcb4fcf5b5:c2b593b13cd82dc579aa03ee10717307679d9ee4c29406ca3a509bef05052175e1871a31ef67b6f6e495d59fc7a4b8ece0080fef303f020f3c168779ee5ca5c7",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 4000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -668,7 +668,7 @@
       "kind": "qris",
       "gw": true,
       "amount": 4000,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -678,7 +678,11 @@
       "gwQr": "/api/qris/image?tid=DEPMVZ9FLNW655D&mid=QP-MMLOg3ga",
       "createdAt": 1793624023148,
       "expiresAt": 1793624923941,
-      "gwLast": 1793624076497
+      "gwLast": 1793624116500,
+      "paidAt": 1793624112000,
+      "reviewedAt": 1793624117846,
+      "via": "gateway",
+      "reviewedBy": null
     }
   ],
   "tickets": [
