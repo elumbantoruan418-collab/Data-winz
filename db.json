@@ -1091,9 +1091,9 @@
       "kind": "qris",
       "gw": true,
       "amount": 1000,
-      "status": "awaiting_payment",
+      "status": "expired",
       "note": "",
-      "adminNote": "",
+      "adminNote": "QRIS kedaluwarsa, tidak ada pembayaran.",
       "attempts": 0,
       "gwTotal": 1313,
       "gwUnique": 313,
@@ -1101,7 +1101,8 @@
       "gwQr": "/api/qris/image?tid=DEPMVZDC0Y37072&mid=QP-MMLOg3ga",
       "createdAt": 1793630574795,
       "expiresAt": 1793631475628,
-      "gwLast": 1793631486329
+      "gwLast": 1793631774376,
+      "reviewedAt": 1793631782378
     }
   ],
   "tickets": [
