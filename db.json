@@ -2862,12 +2862,15 @@
       "type": "nokos",
       "price": 1698,
       "cost": 698,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1793628105044,
       "title": "163сom · Indonesia · Server 3",
-      "serviceId": "3:6:wp"
+      "serviceId": "3:6:wp",
+      "pid": "51e74071-945f-432c-b969-3cd174085138",
+      "number": "6283148851045",
+      "expiresAt": 1793629308361
     }
   ],
   "dapk": [
