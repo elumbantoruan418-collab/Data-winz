@@ -575,6 +575,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793627643409
+    },
+    {
+      "id": "075234e568cf",
+      "name": "ALFIN ahmad dhani",
+      "email": "dikilekku@gmail.com",
+      "pass": "f57ef385539b14a4d3e344f8210d95e5:3dbc0e1a5ee9f3bcd45d972014c2a35f718034eeb2263ae24b54068720d6316c76fcbec49998d6a9d128e7446abdce9d92cfa4cb63f245b44b70eec7131f55f3",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793627729717
     }
   ],
   "orders": [],
