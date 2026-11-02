@@ -522,6 +522,23 @@
       "reviewedAt": 1793499125314,
       "via": "gateway",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMVZ40L54DC8A",
+      "uid": "4290b7bdf1aa",
+      "kind": "qris",
+      "gw": true,
+      "amount": 1000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 1270,
+      "gwUnique": 270,
+      "gwFee": 9,
+      "gwQr": "/api/qris/image?tid=DEPMVZ40L54DC8A&mid=QP-MMLOg3ga",
+      "createdAt": 1793614924552,
+      "expiresAt": 1793615825338
     }
   ],
   "tickets": [
