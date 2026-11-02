@@ -606,7 +606,7 @@
       "email": "arifinkhalifah531@gmail.com",
       "pass": "0685ee30edf91c71cfbfd9b384a58ef4:a54ac1b7522e6b06450abcb6a1ae075fc3f54900cf442d00bf976f2ae40b022559986ee4bd1327a7245dc94968b1034142e34295fd4cd18f6f3338f361b6476e",
       "isAdmin": false,
-      "balance": 4000,
+      "balance": 2000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1101,7 +1101,7 @@
       "gwQr": "/api/qris/image?tid=DEPMVZDC0Y37072&mid=QP-MMLOg3ga",
       "createdAt": 1793630574795,
       "expiresAt": 1793631475628,
-      "gwLast": 1793630670232
+      "gwLast": 1793630686234
     }
   ],
   "tickets": [
@@ -3124,6 +3124,25 @@
       "vuser": "yogz",
       "vpass": "O4j1BICzR-WF",
       "manual": true
+    },
+    {
+      "id": "UBMVZDEFPS5874",
+      "uid": "d4134a614f11",
+      "reqId": "6ee53988-e571-4ff5-88a1-dbd697b36873",
+      "type": "ubot",
+      "title": "Ubot Premium 1 Bulan",
+      "price": 2000,
+      "cost": 0,
+      "status": "done",
+      "note": "Belum dipakai. Buka menu Ubot Premium untuk menyambungkan akun Telegram.",
+      "refunded": false,
+      "createdAt": 1793630687248,
+      "subId": "228b6daf6da8",
+      "terms": {
+        "version": "2026-10-31",
+        "at": 1793630687248,
+        "ip": "178.105.199.226"
+      }
     }
   ],
   "dapk": [
@@ -3272,6 +3291,20 @@
       "createdAt": 1793448324051,
       "maxBots": 10,
       "bundleId": "a40a9c3cfd23"
+    },
+    {
+      "id": "228b6daf6da8",
+      "uid": "d4134a614f11",
+      "planId": "ub-1",
+      "kind": "ubot",
+      "name": "Ubot Premium 1 Bulan",
+      "days": 30,
+      "price": 2000,
+      "status": "unused",
+      "accountId": null,
+      "createdAt": 1793630687248,
+      "maxBots": 1,
+      "bundleId": "228b6daf6da8"
     }
   ],
   "gaccs": [
