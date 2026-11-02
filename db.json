@@ -287,6 +287,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793542354515
+    },
+    {
+      "id": "41fd5ae03fb7",
+      "name": "kukuhardiansyah",
+      "email": "kukuhardiansyah86bae@gmail.com",
+      "pass": "78b262c2bacd4a7b61c57142aa8b0baf:542ac0fd8dee1444253d1e16941269fcd8c56ef0d2cb8774b07ca615ee27156e687f92676f682b269ff4957b6222a0616e5bbc8c4341cee6dab7fc85855ad5a1",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793613240249
     }
   ],
   "orders": [],
