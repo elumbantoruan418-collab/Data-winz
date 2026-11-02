@@ -1084,6 +1084,23 @@
       "reviewedAt": 1793630255403,
       "via": "gateway",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMVZDC0Y37072",
+      "uid": "497d480d63dd",
+      "kind": "qris",
+      "gw": true,
+      "amount": 1000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 1313,
+      "gwUnique": 313,
+      "gwFee": 9,
+      "gwQr": "/api/qris/image?tid=DEPMVZDC0Y37072&mid=QP-MMLOg3ga",
+      "createdAt": 1793630574795,
+      "expiresAt": 1793631475628
     }
   ],
   "tickets": [
