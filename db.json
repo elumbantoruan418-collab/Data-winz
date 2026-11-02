@@ -968,10 +968,10 @@
       "uid": "bcbe08e9c55f",
       "subject": "OTP NYA KOK GAK MUNCUL MUNCUL",
       "category": "Lainnya",
-      "status": "open",
+      "status": "answered",
       "createdAt": 1793624887188,
-      "updatedAt": 1793624887188,
-      "userUnread": false,
+      "updatedAt": 1793627218168,
+      "userUnread": true,
       "adminUnread": false,
       "messages": [
         {
@@ -979,6 +979,12 @@
           "from": "user",
           "text": "Otp nya gak muncul muncul mas, padahal dah nungguin",
           "at": 1793624887189
+        },
+        {
+          "id": "5749c671af64",
+          "from": "admin",
+          "text": "Oke gampang pake VPN kk oke coba lagi ada masalah bilang ya",
+          "at": 1793627218168
         }
       ]
     }
