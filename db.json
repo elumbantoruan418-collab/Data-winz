@@ -491,6 +491,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793624135611
+    },
+    {
+      "id": "ffabaa2bb1f8",
+      "name": "¡ky Foresta",
+      "email": "muhammadjabalrisky@gmail.com",
+      "pass": "4b9bc2f29075a69482c037e55425ffa2:eb006b772b34974a0483238e1d6261a9a4a60dece55ededc2d9eaa42c83e6e307099a5ea5ed8fb87867513610061d40be6aedcf268dbc6d208de9c9420f8b52f",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793624373096
     }
   ],
   "orders": [],
