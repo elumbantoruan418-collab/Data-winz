@@ -563,6 +563,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793625078820
+    },
+    {
+      "id": "3ba96a427e67",
+      "name": "Wano",
+      "email": "wanotengnz@gmail.com",
+      "pass": "7d531a71433be370d1a1c61e05668728:a235d494206e9474f2b21783ff6ac4e5583031301a73a0b1e49799d790fcd2a0e363c0d3d33d72f9fb81489bd751c27768bde2d4ec5cc8fac49350c1664dcba2",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793627643409
     }
   ],
   "orders": [],
