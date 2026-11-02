@@ -1187,7 +1187,7 @@
       "category": "Pembayaran / Deposit",
       "status": "open",
       "createdAt": 1793630406470,
-      "updatedAt": 1793630406470,
+      "updatedAt": 1793630433212,
       "userUnread": false,
       "adminUnread": true,
       "messages": [
@@ -1196,6 +1196,12 @@
           "from": "user",
           "text": "saya ingin membeli panel dan ini id nya PNMVZD5JYP64C3",
           "at": 1793630406470
+        },
+        {
+          "id": "5d1e23c62d59",
+          "from": "user",
+          "text": "buatkan saya akun panel nya",
+          "at": 1793630433212
         }
       ]
     }
