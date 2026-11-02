@@ -335,6 +335,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793614888245
+    },
+    {
+      "id": "615c70c34874",
+      "name": "yuna",
+      "email": "febryansahmuhammadbayu@gmail.com",
+      "pass": "2baf5112cab4997a54c48292560711db:5dd929345426064c6927efd13c868fb3c25318a87bb05840fe1fc3e9296521551e9e7c48a086d6208cbe06f9e92eec53246aeaa6488d608be7ed07ae7bc3bc3a",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793614905130
     }
   ],
   "orders": [],
