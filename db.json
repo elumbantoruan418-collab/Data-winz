@@ -467,6 +467,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793624012616
+    },
+    {
+      "id": "07e23165754b",
+      "name": "Roger Limbong",
+      "email": "rogerlimbong359@gmail.com",
+      "pass": "faa1fa3902e34fe794e52cdc6a4d7160:6257dd270a3cd54d40257f3bd9598a6dbf68245ff1e9a2aed57f62dab7929a3e4074874035db2a8fa08cdd5919d8e1b12aed2ac7adcd47b7873660a3c72fa714",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793624124009
     }
   ],
   "orders": [],
