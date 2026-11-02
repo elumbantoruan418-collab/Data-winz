@@ -606,7 +606,7 @@
       "email": "arifinkhalifah531@gmail.com",
       "pass": "0685ee30edf91c71cfbfd9b384a58ef4:a54ac1b7522e6b06450abcb6a1ae075fc3f54900cf442d00bf976f2ae40b022559986ee4bd1327a7245dc94968b1034142e34295fd4cd18f6f3338f361b6476e",
       "isAdmin": false,
-      "balance": 2000,
+      "balance": 0,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -3224,6 +3224,21 @@
         "at": 1793630687248,
         "ip": "178.105.199.226"
       }
+    },
+    {
+      "id": "SCMVZV91WVE6CF",
+      "uid": "d4134a614f11",
+      "reqId": "8abf1da6-09f3-45c6-a734-b7f748ee4a7a",
+      "type": "sc",
+      "price": 2000,
+      "cost": 0,
+      "status": "done",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793660669167,
+      "title": "Test funtion",
+      "pid2": "5acfdd44bf00",
+      "fileName": "tesfunct.zip"
     }
   ],
   "dapk": [
