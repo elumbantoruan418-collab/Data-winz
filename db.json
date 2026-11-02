@@ -956,6 +956,23 @@
       "reviewedAt": 1793628057965,
       "via": "gateway",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMVZC145XD213",
+      "uid": "d4134a614f11",
+      "kind": "qris",
+      "gw": true,
+      "amount": 1000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 1215,
+      "gwUnique": 215,
+      "gwFee": 9,
+      "gwQr": "/api/qris/image?tid=DEPMVZC145XD213&mid=QP-MMLOg3ga",
+      "createdAt": 1793628386133,
+      "expiresAt": 1793629286854
     }
   ],
   "tickets": [
