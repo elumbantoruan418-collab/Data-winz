@@ -970,7 +970,7 @@
       "category": "Lainnya",
       "status": "answered",
       "createdAt": 1793624887188,
-      "updatedAt": 1793627218168,
+      "updatedAt": 1793627274435,
       "userUnread": true,
       "adminUnread": false,
       "messages": [
@@ -985,6 +985,12 @@
           "from": "admin",
           "text": "Oke gampang pake VPN kk oke coba lagi ada masalah bilang ya",
           "at": 1793627218168
+        },
+        {
+          "id": "8fd52379dd7a",
+          "from": "admin",
+          "text": "100% bisa ya kk itu gara gara VPN gak kk pake sistem WhatsApp lagi amn sekali",
+          "at": 1793627274435
         }
       ]
     }
