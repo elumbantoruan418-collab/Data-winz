@@ -3038,12 +3038,18 @@
       "type": "panel",
       "price": 2000,
       "cost": 2000,
-      "status": "processing",
-      "note": "",
+      "status": "done",
+      "note": "Panelmu akan diaktifkan admin. Buka tiket di menu Bantuan dan sebut ID pesanan PNMVZD5JYP64C3. Admin akan mengirim URL panel, username, dan password.",
       "refunded": false,
       "createdAt": 1793630272849,
       "title": "Panel Starter",
-      "planId": "pn-starter"
+      "planId": "pn-starter",
+      "pid": "MANd32032d3919c",
+      "expiresAt": 1793631474176,
+      "ip": "https://panel-7a3169.example.com",
+      "vuser": "yogz",
+      "vpass": "O4j1BICzR-WF",
+      "manual": true
     }
   ],
   "dapk": [
