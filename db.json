@@ -910,6 +910,23 @@
       "expiresAt": 1793626399628,
       "gwLast": 1793626693544,
       "reviewedAt": 1793626701545
+    },
+    {
+      "id": "DEPMVZBS50FFC37",
+      "uid": "075234e568cf",
+      "kind": "qris",
+      "gw": true,
+      "amount": 2000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 2125,
+      "gwUnique": 125,
+      "gwFee": 15,
+      "gwQr": "/api/qris/image?tid=DEPMVZBS50FFC37&mid=QP-MMLOg3ga",
+      "createdAt": 1793627967327,
+      "expiresAt": 1793628868090
     }
   ],
   "tickets": [
