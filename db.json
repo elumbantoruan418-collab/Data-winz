@@ -450,7 +450,7 @@
       "email": "ndomm933@gmail.com",
       "pass": "80a3146fc639001b57bb89601558ad1d:1abf15b2d3eaebca4e69eaaa07cd9c92fee029485026d57e96b71d2e59448849581dcea96b52e03c4163341263e1c5d33fa97f7ced34051759d4da189c94a90b",
       "isAdmin": false,
-      "balance": 2000,
+      "balance": 302,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -884,7 +884,7 @@
       "gwQr": "/api/qris/image?tid=DEPMVZAB8T9583B&mid=QP-MMLOg3ga",
       "createdAt": 1793625499485,
       "expiresAt": 1793626399628,
-      "gwLast": 1793625541419
+      "gwLast": 1793625557419
     }
   ],
   "tickets": [
@@ -2760,6 +2760,20 @@
       "title": "whatsapp · Pakistan · Server 2",
       "serviceId": "2:66:wa",
       "refundedAt": 1793624463909
+    },
+    {
+      "id": "NKMVZACK3E39FE",
+      "uid": "34f43f466a5a",
+      "reqId": "a26e6ed2-5d4f-4775-b439-276bae199787",
+      "type": "nokos",
+      "price": 1698,
+      "cost": 698,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793625560762,
+      "title": "163сom · Indonesia · Server 3",
+      "serviceId": "3:6:wp"
     }
   ],
   "dapk": [
