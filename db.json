@@ -438,7 +438,7 @@
       "email": "yusufsetiaga@gmail.com",
       "pass": "6ee9a1f86b0c59352ec5c9bcb4fcf5b5:c2b593b13cd82dc579aa03ee10717307679d9ee4c29406ca3a509bef05052175e1871a31ef67b6f6e495d59fc7a4b8ece0080fef303f020f3c168779ee5ca5c7",
       "isAdmin": false,
-      "balance": 4000,
+      "balance": 808,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -2410,6 +2410,20 @@
       "title": "whatsapp · Indonesia · Server 2",
       "serviceId": "2:6:wa",
       "refundedAt": 1793624170106
+    },
+    {
+      "id": "NKMVZ9ITYL2627",
+      "uid": "bcbe08e9c55f",
+      "reqId": "43ef227e-1a61-49bb-9792-73540cf80a05",
+      "type": "nokos",
+      "price": 3192,
+      "cost": 2192,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793624173870,
+      "title": "whatsapp · Indonesia · Server 2",
+      "serviceId": "2:6:wa"
     }
   ],
   "dapk": [
