@@ -623,6 +623,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793630061121
+    },
+    {
+      "id": "497d480d63dd",
+      "name": "Leonel Simamora",
+      "email": "simamoraleonel@gmail.com",
+      "pass": "bf1c98cfc53bd22a2c0d26faea3c0f15:59c2eca90b293ad4e70cd9370247ff3c426c8523952c3848021a1f8c1adcaf6c44fcca814efed47cf1c8fe085881187186fddf2e6828a170262150747cd38063",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793630555919
     }
   ],
   "orders": [],
