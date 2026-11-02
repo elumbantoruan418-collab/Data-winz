@@ -1277,10 +1277,10 @@
       "uid": "4baa3304f50a",
       "subject": "saya ingin beli panel",
       "category": "Panel / Server",
-      "status": "open",
+      "status": "answered",
       "createdAt": 1793630670520,
-      "updatedAt": 1793630670520,
-      "userUnread": false,
+      "updatedAt": 1793655968721,
+      "userUnread": true,
       "adminUnread": false,
       "messages": [
         {
@@ -1288,6 +1288,12 @@
           "from": "user",
           "text": "saya mau beli panel ini id nya PNMVZD5JYP64C3 dan nama panel nya yogz",
           "at": 1793630670520
+        },
+        {
+          "id": "649f4f0b7614",
+          "from": "admin",
+          "text": "Oke sbr cek kk ya coba cek kembali",
+          "at": 1793655968721
         }
       ]
     },
