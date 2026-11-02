@@ -1101,7 +1101,7 @@
       "gwQr": "/api/qris/image?tid=DEPMVZDC0Y37072&mid=QP-MMLOg3ga",
       "createdAt": 1793630574795,
       "expiresAt": 1793631475628,
-      "gwLast": 1793631014270
+      "gwLast": 1793631022271
     }
   ],
   "tickets": [
@@ -1259,11 +1259,11 @@
       "uid": "d4134a614f11",
       "subject": "Cara pake bot ya gimana",
       "category": "Akun",
-      "status": "open",
+      "status": "closed",
       "createdAt": 1793631012460,
-      "updatedAt": 1793631012460,
+      "updatedAt": 1793631021099,
       "userUnread": false,
-      "adminUnread": true,
+      "adminUnread": false,
       "messages": [
         {
           "id": "a1fe51e3a1ed",
