@@ -618,7 +618,7 @@
       "email": "gtw330638@gmail.com",
       "pass": "14d42e7315053a819535feb503e1a026:f90b072f3683f83edfe16555bc53b654a19dfd8d6b73b6edcb40ee6ae67a2701bd4f6bce516a14b1b9bfd25990c93f5d627f0d447fb340f7e860099c587584d8",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 2000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1057,7 +1057,7 @@
       "kind": "qris",
       "gw": true,
       "amount": 2000,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -1066,7 +1066,12 @@
       "gwFee": 15,
       "gwQr": "/api/qris/image?tid=DEPMVZD4FFY7483&mid=QP-MMLOg3ga",
       "createdAt": 1793630220334,
-      "expiresAt": 1793631120653
+      "expiresAt": 1793631120653,
+      "gwLast": 1793630254191,
+      "paidAt": 1793630251000,
+      "reviewedAt": 1793630255403,
+      "via": "gateway",
+      "reviewedBy": null
     }
   ],
   "tickets": [
