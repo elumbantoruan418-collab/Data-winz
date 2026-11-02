@@ -1101,7 +1101,7 @@
       "gwQr": "/api/qris/image?tid=DEPMVZDC0Y37072&mid=QP-MMLOg3ga",
       "createdAt": 1793630574795,
       "expiresAt": 1793631475628,
-      "gwLast": 1793630822250
+      "gwLast": 1793631014270
     }
   ],
   "tickets": [
@@ -1251,6 +1251,25 @@
           "from": "user",
           "text": "saya mau beli panel ini id nya PNMVZD5JYP64C3 dan nama panel nya yogz",
           "at": 1793630670520
+        }
+      ]
+    },
+    {
+      "id": "TKTDLENG92",
+      "uid": "d4134a614f11",
+      "subject": "Cara pake bot ya gimana",
+      "category": "Akun",
+      "status": "open",
+      "createdAt": 1793631012460,
+      "updatedAt": 1793631012460,
+      "userUnread": false,
+      "adminUnread": true,
+      "messages": [
+        {
+          "id": "a1fe51e3a1ed",
+          "from": "user",
+          "text": "Aku udah pake nama sendiri di bot tapi gimana pake ya?",
+          "at": 1793631012460
         }
       ]
     }
