@@ -763,6 +763,23 @@
       "reviewedAt": 1793624408187,
       "via": "gateway",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMVZ9O706025F",
+      "uid": "34f43f466a5a",
+      "kind": "qris",
+      "gw": true,
+      "amount": 1000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 1097,
+      "gwUnique": 97,
+      "gwFee": 8,
+      "gwQr": "/api/qris/image?tid=DEPMVZ9O706025F&mid=QP-MMLOg3ga",
+      "createdAt": 1793624424054,
+      "expiresAt": 1793625324331
     }
   ],
   "tickets": [
