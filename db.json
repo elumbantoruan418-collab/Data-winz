@@ -419,6 +419,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793623828634
+    },
+    {
+      "id": "db8183b6833f",
+      "name": "RIZAL",
+      "email": "juniaronathan@gmail.com",
+      "pass": "c4ece94d17c642c991a8a729a2fcae0d:ffae765e8acdc5a90c6dcca7a9dfbd0f98b7672028fa6ce795141946fbb04c54bfd89bf849983738aa5e45e1a1e7336fe2f83c1a80faedb6dd8291a347eb5c28",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793623832432
     }
   ],
   "orders": [],
