@@ -618,7 +618,7 @@
       "email": "gtw330638@gmail.com",
       "pass": "14d42e7315053a819535feb503e1a026:f90b072f3683f83edfe16555bc53b654a19dfd8d6b73b6edcb40ee6ae67a2701bd4f6bce516a14b1b9bfd25990c93f5d627f0d447fb340f7e860099c587584d8",
       "isAdmin": false,
-      "balance": 2000,
+      "balance": 0,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -3030,6 +3030,20 @@
       "pid": "805227ef-8a56-4c0e-82fd-101167423f26",
       "number": "6283159768562",
       "expiresAt": 1793631195156
+    },
+    {
+      "id": "PNMVZD5JYP64C3",
+      "uid": "4baa3304f50a",
+      "reqId": "391bf9eb-09d3-4c67-add0-e72d820763a8",
+      "type": "panel",
+      "price": 2000,
+      "cost": 2000,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793630272849,
+      "title": "Panel Starter",
+      "planId": "pn-starter"
     }
   ],
   "dapk": [
