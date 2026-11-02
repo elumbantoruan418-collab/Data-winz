@@ -474,7 +474,7 @@
       "email": "rogerlimbong359@gmail.com",
       "pass": "faa1fa3902e34fe794e52cdc6a4d7160:6257dd270a3cd54d40257f3bd9598a6dbf68245ff1e9a2aed57f62dab7929a3e4074874035db2a8fa08cdd5919d8e1b12aed2ac7adcd47b7873660a3c72fa714",
       "isAdmin": false,
-      "balance": 898,
+      "balance": 4000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -780,7 +780,7 @@
       "gwQr": "/api/qris/image?tid=DEPMVZ9O706025F&mid=QP-MMLOg3ga",
       "createdAt": 1793624424054,
       "expiresAt": 1793625324331,
-      "gwLast": 1793624453211
+      "gwLast": 1793624461211
     }
   ],
   "tickets": [
@@ -2629,12 +2629,13 @@
       "type": "nokos",
       "price": 3102,
       "cost": 2102,
-      "status": "processing",
-      "note": "",
-      "refunded": false,
+      "status": "failed",
+      "note": "Layanan tidak tersedia / stok habis",
+      "refunded": true,
       "createdAt": 1793624460385,
       "title": "whatsapp · Pakistan · Server 2",
-      "serviceId": "2:66:wa"
+      "serviceId": "2:66:wa",
+      "refundedAt": 1793624463909
     }
   ],
   "dapk": [
