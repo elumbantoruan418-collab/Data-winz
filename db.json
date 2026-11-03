@@ -740,7 +740,7 @@
       "email": "orang.kalsm@gmail.com",
       "pass": "c25e3a4491662690d13a43a25c58d5ab:f95c14d71411e0ed2b1c63ec095472d34efa23571c53d6b4bc79a4f48d9a394266b5899015d2f20ec06d932694386369b811435d648c6359c1a2782698364d7c",
       "isAdmin": false,
-      "balance": 4000,
+      "balance": 808,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -3746,6 +3746,20 @@
       "number": "6283821953949",
       "expiresAt": 1793715009093,
       "refundedAt": 1793714342259
+    },
+    {
+      "id": "NKMW0R932000DD",
+      "uid": "280099b2ead1",
+      "reqId": "5276be33-b557-4d19-b3ff-65c2c72c5cd9",
+      "type": "nokos",
+      "price": 3192,
+      "cost": 2192,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793714418360,
+      "title": "whatsapp · Indonesia · Server 2",
+      "serviceId": "2:6:wa"
     }
   ],
   "dapk": [
