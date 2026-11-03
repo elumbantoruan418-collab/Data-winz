@@ -3318,12 +3318,15 @@
       "type": "nokos",
       "price": 1734,
       "cost": 734,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1793689935685,
       "title": "163Сom · Indonesia · Server 5",
-      "serviceId": "5:6:wp"
+      "serviceId": "5:6:wp",
+      "pid": "2537511e-b635-4a66-a35f-2dbc4bf808d8",
+      "number": "6285133560533",
+      "expiresAt": 1793691138397
     }
   ],
   "dapk": [
