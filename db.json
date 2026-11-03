@@ -1463,7 +1463,7 @@
       "category": "Akses & Paket",
       "status": "answered",
       "createdAt": 1793703394304,
-      "updatedAt": 1793708791235,
+      "updatedAt": 1793708806156,
       "userUnread": true,
       "adminUnread": false,
       "messages": [
@@ -1502,6 +1502,12 @@
           "from": "admin",
           "text": "Oke mau pasang outo join Gb setiap ubot ada kasing link akun otomatis join Gb itu oke ? Kasih id pesanan kk",
           "at": 1793708791235
+        },
+        {
+          "id": "45f1fce957d0",
+          "from": "admin",
+          "text": "Sekalian kk tau gak muncul menu menu ubot",
+          "at": 1793708806156
         }
       ]
     }
