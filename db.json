@@ -1463,7 +1463,7 @@
       "category": "Akses & Paket",
       "status": "answered",
       "createdAt": 1793703394304,
-      "updatedAt": 1793708814402,
+      "updatedAt": 1793708890770,
       "userUnread": true,
       "adminUnread": false,
       "messages": [
@@ -1514,6 +1514,13 @@
           "from": "admin",
           "text": "Ketik .help",
           "at": 1793708814402
+        },
+        {
+          "id": "bd601577393b",
+          "from": "admin",
+          "text": "Oke liat ya kk dah ya",
+          "at": 1793708890770,
+          "img": "TKTKOSU8EC-d1610b6a4e.jpg"
         }
       ]
     }
