@@ -258,7 +258,7 @@
       "email": "felixupoganteng@gmail.com",
       "pass": "be56ee2fae8f25c6dd5fa8f32aa07eb9:784d47d35b5b0b5bcb1c4e5145d36299af82d12fb525947b2df77a6ddbce95157ac7a2dc716b8ad78d60b598beb82b07868c1a0ecb7b6436f08e833e6688f9d0",
       "isAdmin": false,
-      "balance": 3500,
+      "balance": 1802,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1168,7 +1168,7 @@
       "gwQr": "/api/qris/image?tid=DEPMW0AEA0W7383&mid=QP-MMLOg3ga",
       "createdAt": 1793686107200,
       "expiresAt": 1793687007997,
-      "gwLast": 1793686389042
+      "gwLast": 1793686829103
     },
     {
       "id": "DEPMW0AF01CE1B4",
@@ -3291,6 +3291,20 @@
       "title": "Test funtion",
       "pid2": "5acfdd44bf00",
       "fileName": "tesfunct.zip"
+    },
+    {
+      "id": "NKMW0ATW3X0DA2",
+      "uid": "e1a1554dead8",
+      "reqId": "8a071826-ecec-4df1-8e0f-1c421ee8edde",
+      "type": "nokos",
+      "price": 1698,
+      "cost": 698,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793686835661,
+      "title": "163сom · Indonesia · Server 3",
+      "serviceId": "3:6:wp"
     }
   ],
   "dapk": [
