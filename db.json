@@ -1394,11 +1394,11 @@
       "uid": "4baa3304f50a",
       "subject": "saya ingin beli panel",
       "category": "Panel / Server",
-      "status": "answered",
+      "status": "open",
       "createdAt": 1793630670520,
-      "updatedAt": 1793655968721,
+      "updatedAt": 1793705770398,
       "userUnread": false,
-      "adminUnread": false,
+      "adminUnread": true,
       "messages": [
         {
           "id": "3af513540823",
@@ -1411,6 +1411,12 @@
           "from": "admin",
           "text": "Oke sbr cek kk ya coba cek kembali",
           "at": 1793655968721
+        },
+        {
+          "id": "bf377bf4d044",
+          "from": "user",
+          "text": "iya",
+          "at": 1793705770398
         }
       ]
     },
