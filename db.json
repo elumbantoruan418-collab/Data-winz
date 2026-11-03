@@ -1168,7 +1168,7 @@
       "gwQr": "/api/qris/image?tid=DEPMW0AEA0W7383&mid=QP-MMLOg3ga",
       "createdAt": 1793686107200,
       "expiresAt": 1793687007997,
-      "gwLast": 1793686829103
+      "gwLast": 1793686837103
     },
     {
       "id": "DEPMW0AF01CE1B4",
@@ -3299,12 +3299,15 @@
       "type": "nokos",
       "price": 1698,
       "cost": 698,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1793686835661,
       "title": "163сom · Indonesia · Server 3",
-      "serviceId": "3:6:wp"
+      "serviceId": "3:6:wp",
+      "pid": "dbc4902b-a334-492d-bca0-b6ce6a4fbb21",
+      "number": "6281992501972",
+      "expiresAt": 1793688040281
     }
   ],
   "dapk": [
