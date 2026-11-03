@@ -719,6 +719,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793706365159
+    },
+    {
+      "id": "04d8170e358b",
+      "name": "Ifan",
+      "email": "maulanaifan817@gmail.com",
+      "pass": "b9eb4c78d6ff3489877f37344dee039a:33811e6f26fb83b8c69e4b21af9f6f57843264ef8acf89e21268e3f10a57c8edb1619e8fc307ccdefca123baffab45b26e3f4928f3e429bea958f6e318146680",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793707823135
     }
   ],
   "orders": [],
