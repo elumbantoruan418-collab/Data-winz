@@ -1276,6 +1276,23 @@
       "reviewedAt": 1793702939928,
       "via": "gateway",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMW0QJQN16C27",
+      "uid": "280099b2ead1",
+      "kind": "qris",
+      "gw": true,
+      "amount": 3000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 3308,
+      "gwUnique": 308,
+      "gwFee": 23,
+      "gwQr": "/api/qris/image?tid=DEPMW0QJQN16C27&mid=QP-MMLOg3ga",
+      "createdAt": 1793713235869,
+      "expiresAt": 1793714136642
     }
   ],
   "tickets": [
