@@ -3824,12 +3824,15 @@
       "type": "nokos",
       "price": 3750,
       "cost": 2750,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1793715159754,
       "title": "whatsapp · Indonesia · Server 3",
-      "serviceId": "3:6:wa"
+      "serviceId": "3:6:wa",
+      "pid": "efdf3dc9-01bd-45e8-ad9d-0506675bb294",
+      "number": "6283898127840",
+      "expiresAt": 1793716364395
     }
   ],
   "dapk": [
