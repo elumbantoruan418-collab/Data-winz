@@ -1365,7 +1365,7 @@
       "category": "Pembayaran / Deposit",
       "status": "answered",
       "createdAt": 1793630406470,
-      "updatedAt": 1793707688599,
+      "updatedAt": 1793707710243,
       "userUnread": true,
       "adminUnread": false,
       "messages": [
@@ -1410,6 +1410,12 @@
           "from": "admin",
           "text": "Riwayat kk kalau KK emng buy panel",
           "at": 1793707688599
+        },
+        {
+          "id": "1b8c5eeee556",
+          "from": "admin",
+          "text": "Riwayat trus muncul order kk pilih order mna KK",
+          "at": 1793707710243
         }
       ]
     },
