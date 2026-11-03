@@ -702,7 +702,7 @@
       "email": "woyapa021@gmail.com",
       "pass": "b243369b5467e19faceb8279ad56b3ac:2966e081e66369f2ad20ab41fd68f4bfeb8f347a6b22187ff399115f6c90aae243010618f06b432bdbe1811593dc442626b6b9c0d40f6e5fe273ab95393bca4c",
       "isAdmin": false,
-      "balance": 2000,
+      "balance": 0,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -3395,6 +3395,25 @@
       "number": "6285753364473",
       "expiresAt": 1793691488188,
       "refundedAt": 1793691490808
+    },
+    {
+      "id": "UBMW0KHZATDFBB",
+      "uid": "df5dd014da11",
+      "reqId": "aa2853a9-5d27-4444-96f3-4689c8520676",
+      "type": "ubot",
+      "title": "Ubot Premium 1 Bulan",
+      "price": 2000,
+      "cost": 0,
+      "status": "done",
+      "note": "Belum dipakai. Buka menu Ubot Premium untuk menyambungkan akun Telegram.",
+      "refunded": false,
+      "createdAt": 1793703076086,
+      "subId": "4e94f2625f68",
+      "terms": {
+        "version": "2026-10-31",
+        "at": 1793703076086,
+        "ip": "178.105.199.226"
+      }
     }
   ],
   "dapk": [
@@ -3560,6 +3579,20 @@
       "bundleId": "228b6daf6da8",
       "activatedAt": 1793630824768,
       "expiresAt": 1796230799000
+    },
+    {
+      "id": "4e94f2625f68",
+      "uid": "df5dd014da11",
+      "planId": "ub-1",
+      "kind": "ubot",
+      "name": "Ubot Premium 1 Bulan",
+      "days": 30,
+      "price": 2000,
+      "status": "unused",
+      "accountId": null,
+      "createdAt": 1793703076085,
+      "maxBots": 1,
+      "bundleId": "4e94f2625f68"
     }
   ],
   "gaccs": [
