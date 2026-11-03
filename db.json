@@ -1414,7 +1414,7 @@
       "category": "Panel / Server",
       "status": "answered",
       "createdAt": 1793630670520,
-      "updatedAt": 1793707630666,
+      "updatedAt": 1793707644093,
       "userUnread": true,
       "adminUnread": false,
       "messages": [
@@ -1441,6 +1441,12 @@
           "from": "admin",
           "text": "Dah bisa ya ko  kalau ada masalah lasung bilang kk",
           "at": 1793707630666
+        },
+        {
+          "id": "91cc471042ac",
+          "from": "admin",
+          "text": "Apakah saya dah bisa tutup tiket kk🙏",
+          "at": 1793707644093
         }
       ]
     },
