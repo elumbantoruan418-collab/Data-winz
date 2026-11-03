@@ -1461,11 +1461,11 @@
       "uid": "df5dd014da11",
       "subject": "cara nyalain ubot",
       "category": "Akses & Paket",
-      "status": "answered",
+      "status": "open",
       "createdAt": 1793703394304,
-      "updatedAt": 1793705347748,
+      "updatedAt": 1793708563642,
       "userUnread": false,
-      "adminUnread": false,
+      "adminUnread": true,
       "messages": [
         {
           "id": "51c17486a12d",
@@ -1484,6 +1484,12 @@
           "from": "admin",
           "text": "Ketik .help tampilkan menu ubot nya",
           "at": 1793705347748
+        },
+        {
+          "id": "1d34ebae05f6",
+          "from": "user",
+          "text": "autojoin aja mas",
+          "at": 1793708563642
         }
       ]
     }
