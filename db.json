@@ -1432,6 +1432,25 @@
           "at": 1793631012460
         }
       ]
+    },
+    {
+      "id": "TKTKOSU8EC",
+      "uid": "df5dd014da11",
+      "subject": "cara nyalain ubot",
+      "category": "Akses & Paket",
+      "status": "open",
+      "createdAt": 1793703394304,
+      "updatedAt": 1793703394304,
+      "userUnread": false,
+      "adminUnread": true,
+      "messages": [
+        {
+          "id": "51c17486a12d",
+          "from": "user",
+          "text": "gimana mas cara nyalaim ubot nya, udah pairing, cara auto forward gmn?",
+          "at": 1793703394304
+        }
+      ]
     }
   ],
   "settings": {
