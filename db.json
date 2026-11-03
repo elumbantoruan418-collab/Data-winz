@@ -702,7 +702,7 @@
       "email": "woyapa021@gmail.com",
       "pass": "b243369b5467e19faceb8279ad56b3ac:2966e081e66369f2ad20ab41fd68f4bfeb8f347a6b22187ff399115f6c90aae243010618f06b432bdbe1811593dc442626b6b9c0d40f6e5fe273ab95393bca4c",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 2000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1223,7 +1223,7 @@
       "kind": "qris",
       "gw": true,
       "amount": 2000,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -1232,7 +1232,12 @@
       "gwFee": 15,
       "gwQr": "/api/qris/image?tid=DEPMW0KCNG85D7C&mid=QP-MMLOg3ga",
       "createdAt": 1793702827448,
-      "expiresAt": 1793703728216
+      "expiresAt": 1793703728216,
+      "gwLast": 1793702939000,
+      "paidAt": 1793702937000,
+      "reviewedAt": 1793702939928,
+      "via": "gateway",
+      "reviewedBy": null
     }
   ],
   "tickets": [
