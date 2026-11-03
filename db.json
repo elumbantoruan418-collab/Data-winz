@@ -392,7 +392,7 @@
       "email": "ryannaltt@gmail.com",
       "pass": "f83905b733a645c5dec0d64099db63b9:fee59acc17d48a36d63474b69aef257fb2c092bf878fbe2d9b4969ad30532aa3a9db5c5331018775e7829d5a02e4d0a5b9c85230026b87dedbd01090a862e52e",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 1000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1327,7 +1327,7 @@
       "kind": "qris",
       "gw": true,
       "amount": 1000,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -1336,7 +1336,12 @@
       "gwFee": 8,
       "gwQr": "/api/qris/image?tid=DEPMW0RMKF01C6D&mid=QP-MMLOg3ga",
       "createdAt": 1793715047388,
-      "expiresAt": 1793715948172
+      "expiresAt": 1793715948172,
+      "gwLast": 1793715089270,
+      "paidAt": 1793715085000,
+      "reviewedAt": 1793715091149,
+      "via": "gateway",
+      "reviewedBy": null
     }
   ],
   "tickets": [
