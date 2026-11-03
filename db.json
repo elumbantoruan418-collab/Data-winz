@@ -1440,7 +1440,7 @@
       "category": "Akses & Paket",
       "status": "answered",
       "createdAt": 1793703394304,
-      "updatedAt": 1793705289962,
+      "updatedAt": 1793705347748,
       "userUnread": true,
       "adminUnread": false,
       "messages": [
@@ -1455,6 +1455,12 @@
           "from": "admin",
           "text": "Jalau gak tu toton ini kk\nhttps://vt.tiktok.com/ZSpdjQDnp/\n\nKalau gw seting dari sini otuo join boleh ya kk sama push kontak kasih id pesanan sama ini id GB mau pushkontak KK sama text apa kk🙏",
           "at": 1793705289962
+        },
+        {
+          "id": "57ed18b37f14",
+          "from": "admin",
+          "text": "Ketik .help tampilkan menu ubot nya",
+          "at": 1793705347748
         }
       ]
     }
