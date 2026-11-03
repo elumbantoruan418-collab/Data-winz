@@ -1354,7 +1354,7 @@
       "status": "answered",
       "createdAt": 1793630406470,
       "updatedAt": 1793656190308,
-      "userUnread": true,
+      "userUnread": false,
       "adminUnread": false,
       "messages": [
         {
