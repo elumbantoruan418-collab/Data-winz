@@ -392,7 +392,7 @@
       "email": "ryannaltt@gmail.com",
       "pass": "f83905b733a645c5dec0d64099db63b9:fee59acc17d48a36d63474b69aef257fb2c092bf878fbe2d9b4969ad30532aa3a9db5c5331018775e7829d5a02e4d0a5b9c85230026b87dedbd01090a862e52e",
       "isAdmin": false,
-      "balance": 1000,
+      "balance": 900,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -3801,6 +3801,21 @@
       "number": "6283173500360",
       "expiresAt": 1793715652621,
       "refundedAt": 1793715093661
+    },
+    {
+      "id": "SCMW0RO690B10B",
+      "uid": "07294fb07df1",
+      "reqId": "fb131935-1e8d-42f0-b5e2-b4b9204d197a",
+      "type": "sc",
+      "price": 100,
+      "cost": 0,
+      "status": "done",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793715122341,
+      "title": "Jasher",
+      "pid2": "e06d2fe4c907",
+      "fileName": "________________________________________________.zip"
     }
   ],
   "dapk": [
