@@ -1463,7 +1463,7 @@
       "category": "Akses & Paket",
       "status": "open",
       "createdAt": 1793703394304,
-      "updatedAt": 1793708563642,
+      "updatedAt": 1793708573746,
       "userUnread": false,
       "adminUnread": true,
       "messages": [
@@ -1490,6 +1490,12 @@
           "from": "user",
           "text": "autojoin aja mas",
           "at": 1793708563642
+        },
+        {
+          "id": "970060853475",
+          "from": "user",
+          "text": "auto join semua gb marketplace",
+          "at": 1793708573746
         }
       ]
     }
