@@ -1461,10 +1461,10 @@
       "uid": "df5dd014da11",
       "subject": "cara nyalain ubot",
       "category": "Akses & Paket",
-      "status": "open",
+      "status": "answered",
       "createdAt": 1793703394304,
-      "updatedAt": 1793708573746,
-      "userUnread": false,
+      "updatedAt": 1793708791235,
+      "userUnread": true,
       "adminUnread": false,
       "messages": [
         {
@@ -1496,6 +1496,12 @@
           "from": "user",
           "text": "auto join semua gb marketplace",
           "at": 1793708573746
+        },
+        {
+          "id": "1643ae44df38",
+          "from": "admin",
+          "text": "Oke mau pasang outo join Gb setiap ubot ada kasing link akun otomatis join Gb itu oke ? Kasih id pesanan kk",
+          "at": 1793708791235
         }
       ]
     }
