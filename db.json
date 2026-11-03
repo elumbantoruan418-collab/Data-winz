@@ -1442,7 +1442,7 @@
       "createdAt": 1793703394304,
       "updatedAt": 1793703394304,
       "userUnread": false,
-      "adminUnread": true,
+      "adminUnread": false,
       "messages": [
         {
           "id": "51c17486a12d",
