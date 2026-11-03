@@ -3405,7 +3405,7 @@
       "price": 2000,
       "cost": 0,
       "status": "done",
-      "note": "Belum dipakai. Buka menu Ubot Premium untuk menyambungkan akun Telegram.",
+      "note": "Aktif untuk Lexx? iya kenapa (@Lexx_iya_nanti) sampai 03 Des 2026.",
       "refunded": false,
       "createdAt": 1793703076086,
       "subId": "4e94f2625f68",
@@ -3588,11 +3588,13 @@
       "name": "Ubot Premium 1 Bulan",
       "days": 30,
       "price": 2000,
-      "status": "unused",
-      "accountId": null,
+      "status": "active",
+      "accountId": 8537913744,
       "createdAt": 1793703076085,
       "maxBots": 1,
-      "bundleId": "4e94f2625f68"
+      "bundleId": "4e94f2625f68",
+      "activatedAt": 1793703162619,
+      "expiresAt": 1796317199000
     }
   ],
   "gaccs": [
