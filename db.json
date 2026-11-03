@@ -1438,10 +1438,10 @@
       "uid": "df5dd014da11",
       "subject": "cara nyalain ubot",
       "category": "Akses & Paket",
-      "status": "open",
+      "status": "answered",
       "createdAt": 1793703394304,
-      "updatedAt": 1793703394304,
-      "userUnread": false,
+      "updatedAt": 1793705289962,
+      "userUnread": true,
       "adminUnread": false,
       "messages": [
         {
@@ -1449,6 +1449,12 @@
           "from": "user",
           "text": "gimana mas cara nyalaim ubot nya, udah pairing, cara auto forward gmn?",
           "at": 1793703394304
+        },
+        {
+          "id": "170f339a3a82",
+          "from": "admin",
+          "text": "Jalau gak tu toton ini kk\nhttps://vt.tiktok.com/ZSpdjQDnp/\n\nKalau gw seting dari sini otuo join boleh ya kk sama push kontak kasih id pesanan sama ini id GB mau pushkontak KK sama text apa kk🙏",
+          "at": 1793705289962
         }
       ]
     }
