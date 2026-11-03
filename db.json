@@ -1158,9 +1158,9 @@
       "kind": "qris",
       "gw": true,
       "amount": 4000,
-      "status": "awaiting_payment",
+      "status": "expired",
       "note": "",
-      "adminNote": "",
+      "adminNote": "QRIS kedaluwarsa, tidak ada pembayaran.",
       "attempts": 0,
       "gwTotal": 4404,
       "gwUnique": 404,
@@ -1168,7 +1168,8 @@
       "gwQr": "/api/qris/image?tid=DEPMW0AEA0W7383&mid=QP-MMLOg3ga",
       "createdAt": 1793686107200,
       "expiresAt": 1793687007997,
-      "gwLast": 1793687213159
+      "gwLast": 1793687301168,
+      "reviewedAt": 1793687309170
     },
     {
       "id": "DEPMW0AF01CE1B4",
