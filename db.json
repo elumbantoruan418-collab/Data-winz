@@ -1463,7 +1463,7 @@
       "category": "Akses & Paket",
       "status": "answered",
       "createdAt": 1793703394304,
-      "updatedAt": 1793708806156,
+      "updatedAt": 1793708814402,
       "userUnread": true,
       "adminUnread": false,
       "messages": [
@@ -1508,6 +1508,12 @@
           "from": "admin",
           "text": "Sekalian kk tau gak muncul menu menu ubot",
           "at": 1793708806156
+        },
+        {
+          "id": "4dfa08126e95",
+          "from": "admin",
+          "text": "Ketik .help",
+          "at": 1793708814402
         }
       ]
     }
