@@ -2959,7 +2959,7 @@
       "price": 5000,
       "cost": 0,
       "status": "done",
-      "note": "Aktif untuk 1xbet suprort (@Onexbet_sport) sampai 30 Nov 2026.",
+      "note": "Akun Telegram diganti. Sisa 28 hari dibawa ke akun baru — sambungkan nomor baru.",
       "refunded": false,
       "createdAt": 1793442165062,
       "subId": "86025985b106",
@@ -3596,13 +3596,15 @@
       "planId": "sl-1",
       "kind": "seller",
       "name": "Seller 1 Bulan",
-      "days": 30,
+      "days": 28,
       "price": 5000,
-      "status": "active",
-      "accountId": 8097112220,
+      "status": "unused",
+      "accountId": null,
       "createdAt": 1793442165062,
       "activatedAt": 1793442237531,
-      "expiresAt": 1796057999000
+      "expiresAt": 1796057999000,
+      "replacedAt": 1793708367271,
+      "replaceCount": 1
     },
     {
       "id": "a40a9c3cfd23",
