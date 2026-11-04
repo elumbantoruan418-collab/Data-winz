@@ -3877,12 +3877,15 @@
       "type": "nokos",
       "price": 1700,
       "cost": 700,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1793754571292,
       "title": "163сom · Indonesia · Server 3",
-      "serviceId": "3:6:wp"
+      "serviceId": "3:6:wp",
+      "pid": "7164699a-ba83-42ba-9825-91ec457f9b09",
+      "number": "6281440335393",
+      "expiresAt": 1793755774740
     }
   ],
   "dapk": [
