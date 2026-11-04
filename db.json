@@ -759,6 +759,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793759266005
+    },
+    {
+      "id": "9acf77b44d90",
+      "name": "Riksa Fadlan",
+      "email": "masu41725@gmail.com",
+      "pass": "6fa427ecd3462bd2762acd7e606dc104:51007f3e690761b7430fe666222c1ddd7ad02d3c17ef0ed7b5039faf20da65e73cf506bf617628e5f61de93d9275110f427ff670776e123e91f4f95309fc7af9",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793760739805
     }
   ],
   "orders": [],
