@@ -1344,6 +1344,23 @@
       "reviewedAt": 1793715091149,
       "via": "gateway",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMW1FGQ6TA74C",
+      "uid": "b1e1f0b5a5b8",
+      "kind": "qris",
+      "gw": true,
+      "amount": 3000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 3066,
+      "gwUnique": 66,
+      "gwFee": 21,
+      "gwQr": "/api/qris/image?tid=DEPMW1FGQ6TA74C&mid=QP-MMLOg3ga",
+      "createdAt": 1793755085717,
+      "expiresAt": 1793755986568
     }
   ],
   "tickets": [
