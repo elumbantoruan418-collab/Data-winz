@@ -1406,6 +1406,22 @@
       "expiresAt": 1793761846677,
       "gwLast": 1793760971183,
       "reviewedAt": 1793760971542
+    },
+    {
+      "id": "DEPMW2RQ0KU214E",
+      "uid": "3ba96a427e67",
+      "kind": "qris",
+      "unik": true,
+      "amount": 4000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 4019,
+      "gwUnique": 19,
+      "qris": "00020101021226570011ID.DANA.WWW011893600915300831693502090083169350303UMI51440014ID.CO.QRIS.WWW0215ID10264949418380303UMI520442145303360540440195802ID5905Nokos6015Kab. Tapanuli U6105224586304C9E4",
+      "createdAt": 1793836140654,
+      "expiresAt": 1793837040654
     }
   ],
   "tickets": [
