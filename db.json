@@ -1387,6 +1387,23 @@
       "expiresAt": 1793755986568,
       "gwLast": 1793756281205,
       "reviewedAt": 1793756289206
+    },
+    {
+      "id": "DEPMW1IYBWW8FE9",
+      "uid": "9acf77b44d90",
+      "kind": "qris",
+      "gw": true,
+      "amount": 1481,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 1949,
+      "gwUnique": 468,
+      "gwFee": 14,
+      "gwQr": "/api/qris/image?tid=DEPMW1IYBWW8FE9&mid=QP-MMLOg3ga",
+      "createdAt": 1793760945872,
+      "expiresAt": 1793761846677
     }
   ],
   "tickets": [
