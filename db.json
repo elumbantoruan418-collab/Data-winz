@@ -260,7 +260,7 @@
       "email": "felixupoganteng@gmail.com",
       "pass": "be56ee2fae8f25c6dd5fa8f32aa07eb9:784d47d35b5b0b5bcb1c4e5145d36299af82d12fb525947b2df77a6ddbce95157ac7a2dc716b8ad78d60b598beb82b07868c1a0ecb7b6436f08e833e6688f9d0",
       "isAdmin": false,
-      "balance": 1800,
+      "balance": 3500,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -3877,15 +3877,16 @@
       "type": "nokos",
       "price": 1700,
       "cost": 700,
-      "status": "waiting",
-      "note": "",
-      "refunded": false,
+      "status": "canceled",
+      "note": "Dibatalkan. Saldo dikembalikan.",
+      "refunded": true,
       "createdAt": 1793754571292,
       "title": "163сom · Indonesia · Server 3",
       "serviceId": "3:6:wp",
       "pid": "7164699a-ba83-42ba-9825-91ec457f9b09",
       "number": "6281440335393",
-      "expiresAt": 1793755774740
+      "expiresAt": 1793755774740,
+      "refundedAt": 1793754773523
     }
   ],
   "dapk": [
