@@ -260,7 +260,7 @@
       "email": "felixupoganteng@gmail.com",
       "pass": "be56ee2fae8f25c6dd5fa8f32aa07eb9:784d47d35b5b0b5bcb1c4e5145d36299af82d12fb525947b2df77a6ddbce95157ac7a2dc716b8ad78d60b598beb82b07868c1a0ecb7b6436f08e833e6688f9d0",
       "isAdmin": false,
-      "balance": 3500,
+      "balance": 1800,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -3854,6 +3854,20 @@
       "number": "6283176919021",
       "expiresAt": 1793746961773,
       "refundedAt": 1793746986398
+    },
+    {
+      "id": "NKMW1F55FH8858",
+      "uid": "e1a1554dead8",
+      "reqId": "12ce7bc0-c85c-4638-b8c5-f3e9b9824181",
+      "type": "nokos",
+      "price": 1700,
+      "cost": 700,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1793754545597,
+      "title": "163сom · Indonesia · Server 3",
+      "serviceId": "3:6:wp"
     }
   ],
   "dapk": [
