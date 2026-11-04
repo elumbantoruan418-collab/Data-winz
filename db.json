@@ -3895,12 +3895,15 @@
       "type": "nokos",
       "price": 1736,
       "cost": 736,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1793754787996,
       "title": "163Сom · Indonesia · Server 5",
-      "serviceId": "5:6:wp"
+      "serviceId": "5:6:wp",
+      "pid": "ff3f57d0-fd79-428a-9e97-df854303e0cb",
+      "number": "6285199371784",
+      "expiresAt": 1793755990396
     }
   ],
   "dapk": [
