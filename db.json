@@ -1430,15 +1430,16 @@
       "kind": "qris",
       "unik": true,
       "amount": 1,
-      "status": "awaiting_payment",
+      "status": "expired",
       "note": "",
-      "adminNote": "",
+      "adminNote": "Tidak ada pembayaran sampai batas waktu.",
       "attempts": 0,
       "gwTotal": 2,
       "gwUnique": 1,
       "qris": "00020101021226570011ID.DANA.WWW011893600915300831693502090083169350303UMI51440014ID.CO.QRIS.WWW0215ID10264949418380303UMI520442145303360540125802ID5905Nokos6015Kab. Tapanuli U6105224586304F460",
       "createdAt": 1793871459565,
-      "expiresAt": 1793872359565
+      "expiresAt": 1793872359565,
+      "reviewedAt": 1793872482302
     }
   ],
   "tickets": [
