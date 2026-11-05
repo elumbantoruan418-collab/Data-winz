@@ -586,7 +586,7 @@
       "email": "dikilekku@gmail.com",
       "pass": "f57ef385539b14a4d3e344f8210d95e5:3dbc0e1a5ee9f3bcd45d972014c2a35f718034eeb2263ae24b54068720d6316c76fcbec49998d6a9d128e7446abdce9d92cfa4cb63f245b44b70eec7131f55f3",
       "isAdmin": false,
-      "balance": 264,
+      "balance": 2000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -4027,15 +4027,16 @@
       "type": "nokos",
       "price": 1736,
       "cost": 736,
-      "status": "waiting",
-      "note": "",
-      "refunded": false,
+      "status": "canceled",
+      "note": "Dibatalkan. Saldo dikembalikan.",
+      "refunded": true,
       "createdAt": 1793871155852,
       "title": "24betting · Indonesia · Server 5",
       "serviceId": "5:6:lh",
       "pid": "f1825051-049f-48c8-8399-50346754e66b",
       "number": "6283169644027",
-      "expiresAt": 1793872358811
+      "expiresAt": 1793872358811,
+      "refundedAt": 1793871459584
     }
   ],
   "dapk": [
