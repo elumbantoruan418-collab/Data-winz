@@ -4320,5 +4320,28 @@
       "act": "view-as"
     }
   ],
-  "chats": {}
+  "chats": {
+    "d5ac8b72205d": {
+      "uid": "d5ac8b72205d",
+      "msgs": [
+        {
+          "id": "f8ca005b6b86",
+          "from": "user",
+          "text": "K",
+          "at": 1794003676773
+        },
+        {
+          "id": "d0ffad54a020",
+          "from": "ai",
+          "text": "Aku belum punya jawaban pasti untuk itu, jadi pesanmu kuteruskan ke admin. Mohon tunggu balasan di sini ya.",
+          "at": 1794003676774
+        }
+      ],
+      "aUnread": 1,
+      "uUnread": 0,
+      "updatedAt": 1794003676774,
+      "adminAt": 0,
+      "needsAdmin": true
+    }
+  }
 }
