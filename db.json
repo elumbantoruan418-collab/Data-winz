@@ -4420,13 +4420,19 @@
           "from": "ai",
           "text": "Aku belum punya jawaban pasti untuk itu, jadi pesanmu kuteruskan ke admin. Mohon tunggu balasan di sini ya.",
           "at": 1794003930677
+        },
+        {
+          "id": "d68235e05883",
+          "from": "admin",
+          "text": "Halo kk saya bisa bantu",
+          "at": 1794004082658
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794003930677,
-      "adminAt": 0,
-      "needsAdmin": true
+      "uUnread": 1,
+      "updatedAt": 1794004082658,
+      "adminAt": 1794004082658,
+      "needsAdmin": false
     }
   }
 }
