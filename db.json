@@ -4407,11 +4407,23 @@
           "from": "ai",
           "text": "Baik, pesanmu sudah diteruskan ke admin. Tunggu balasan di sini ya. Tulis detail masalahmu (ID order, nominal, bukti) supaya cepat dibantu.",
           "at": 1794003915802
+        },
+        {
+          "id": "36428e1b6989",
+          "from": "user",
+          "text": "UBMW5JIRV3F05C",
+          "at": 1794003930676
+        },
+        {
+          "id": "83c5d6a1a3dc",
+          "from": "ai",
+          "text": "Aku belum punya jawaban pasti untuk itu, jadi pesanmu kuteruskan ke admin. Mohon tunggu balasan di sini ya.",
+          "at": 1794003930677
         }
       ],
-      "aUnread": 4,
+      "aUnread": 5,
       "uUnread": 0,
-      "updatedAt": 1794003915802,
+      "updatedAt": 1794003930677,
       "adminAt": 0,
       "needsAdmin": true
     }
