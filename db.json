@@ -4371,11 +4371,23 @@
           "from": "ai",
           "text": "Aku belum punya jawaban pasti untuk itu, jadi pesanmu kuteruskan ke admin. Mohon tunggu balasan di sini ya.",
           "at": 1794003676774
+        },
+        {
+          "id": "f91932723175",
+          "from": "user",
+          "text": "Halo min",
+          "at": 1794003909202
+        },
+        {
+          "id": "c58143251cd8",
+          "from": "ai",
+          "text": "Aku belum punya jawaban pasti untuk itu, jadi pesanmu kuteruskan ke admin. Mohon tunggu balasan di sini ya.",
+          "at": 1794003909207
         }
       ],
-      "aUnread": 1,
+      "aUnread": 2,
       "uUnread": 0,
-      "updatedAt": 1794003676774,
+      "updatedAt": 1794003909207,
       "adminAt": 0,
       "needsAdmin": true
     }
