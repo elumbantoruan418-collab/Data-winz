@@ -783,6 +783,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1793881534995
+    },
+    {
+      "id": "9d0c2bc9167b",
+      "name": "DIKI PRATAMA",
+      "email": "pdiki935@gmail.com",
+      "pass": "3e912a534611fdf40f3db353e3abb3f1:1ef74f325fd855b27463763f955ed467411d4557232b046d1ec61ca5dde640952a5e9867db9b4023a7136ea468e6619498e6a596c0a9c9240ae312da8ab56c2f",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1793950535906
     }
   ],
   "orders": [],
