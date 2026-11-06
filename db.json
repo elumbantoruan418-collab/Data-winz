@@ -4383,11 +4383,35 @@
           "from": "ai",
           "text": "Aku belum punya jawaban pasti untuk itu, jadi pesanmu kuteruskan ke admin. Mohon tunggu balasan di sini ya.",
           "at": 1794003909207
+        },
+        {
+          "id": "e949878662a6",
+          "from": "user",
+          "text": "Hubungi admin",
+          "at": 1794003914989
+        },
+        {
+          "id": "1b15f6b8c1e4",
+          "from": "ai",
+          "text": "Baik, pesanmu sudah diteruskan ke admin. Tunggu balasan di sini ya. Tulis detail masalahmu (ID order, nominal, bukti) supaya cepat dibantu.",
+          "at": 1794003914990
+        },
+        {
+          "id": "cae68d50e209",
+          "from": "user",
+          "text": "Hubungi admin",
+          "at": 1794003915801
+        },
+        {
+          "id": "73f32334c978",
+          "from": "ai",
+          "text": "Baik, pesanmu sudah diteruskan ke admin. Tunggu balasan di sini ya. Tulis detail masalahmu (ID order, nominal, bukti) supaya cepat dibantu.",
+          "at": 1794003915802
         }
       ],
-      "aUnread": 2,
+      "aUnread": 4,
       "uUnread": 0,
-      "updatedAt": 1794003909207,
+      "updatedAt": 1794003915802,
       "adminAt": 0,
       "needsAdmin": true
     }
