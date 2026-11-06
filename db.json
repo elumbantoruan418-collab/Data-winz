@@ -4093,7 +4093,7 @@
       "price": 2000,
       "cost": 0,
       "status": "done",
-      "note": "Belum dipakai. Buka menu Ubot Premium untuk menyambungkan akun Telegram.",
+      "note": "Aktif untuk ⚡ 𝗪𝗶𝗻𝘇 𝗦𝘆𝗻𝗱𝗶𝗰𝗮𝘁𝗲 ⚡ (@Winxz_syber) sampai 06 Des 2026.",
       "refunded": false,
       "createdAt": 1794003764368,
       "subId": "b8c1d4824e14",
@@ -4284,11 +4284,13 @@
       "name": "Ubot Premium 1 Bulan",
       "days": 30,
       "price": 2000,
-      "status": "unused",
-      "accountId": null,
+      "status": "active",
+      "accountId": 8427342247,
       "createdAt": 1794003764367,
       "maxBots": 1,
-      "bundleId": "b8c1d4824e14"
+      "bundleId": "b8c1d4824e14",
+      "activatedAt": 1794003830734,
+      "expiresAt": 1796576399000
     }
   ],
   "gaccs": [
