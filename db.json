@@ -1524,15 +1524,18 @@
       "kind": "qris",
       "up": true,
       "amount": 3000,
-      "status": "awaiting_proof",
+      "status": "verifying",
       "note": "",
-      "adminNote": "",
-      "attempts": 0,
+      "adminNote": "Bukti diterima. Saldo masuk otomatis begitu notifikasi dana masuk terbaca; kalau belum, admin memeriksa paling lambat jam 18.00 WIB.",
+      "attempts": 1,
       "gwTotal": 3079,
       "gwUnique": 79,
       "qris": "00020101021226570011ID.DANA.WWW011893600915300831693502090083169350303UMI51440014ID.CO.QRIS.WWW0215ID10264949418380303UMI520442145303360540430795802ID5905Nokos6015Kab. Tapanuli U6105224586304BBA7",
       "createdAt": 1794091887065,
-      "expiresAt": 1794093687065
+      "expiresAt": 1794093687065,
+      "proofFile": "proofs/DEPMW6ZZJRTA0E0.jpg",
+      "proofHash": "ba1087a0968886aed8e9e56ba117a62b36af1a67aef7bfe46cb3f0817fd782a7",
+      "proofAt": 1794091953713
     }
   ],
   "tickets": [
