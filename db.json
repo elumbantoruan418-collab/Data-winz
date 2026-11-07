@@ -4497,13 +4497,20 @@
               "ext": true
             }
           ]
+        },
+        {
+          "id": "ff2d5f6a3bf0",
+          "from": "admin",
+          "text": "Holo kk",
+          "at": 1794042811686
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794035460280,
-      "adminAt": 1794004082658,
-      "needsAdmin": true
+      "uUnread": 1,
+      "updatedAt": 1794042811686,
+      "adminAt": 1794042811686,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   }
 }
