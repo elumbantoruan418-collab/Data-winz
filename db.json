@@ -2076,6 +2076,20 @@
       "file": "027281490d9a.bin",
       "fileName": "SC_CEK_BIO_VIA_TELE.zip",
       "sizeKB": 5
+    },
+    {
+      "id": "7e982a5b7b10",
+      "active": true,
+      "createdAt": 1794042798427,
+      "name": "SC enc",
+      "desc": "SC buat enc biar gak bisa baca orng",
+      "version": "",
+      "category": "",
+      "price": 2000,
+      "file": "d017b315000e.bin",
+      "fileName": "SC OBF NO ENC (3).zip",
+      "sizeKB": 26,
+      "uploading": true
     }
   ],
   "dorders": [
