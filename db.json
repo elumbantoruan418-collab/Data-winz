@@ -2063,6 +2063,20 @@
       "file": "3f326eedfa15.bin",
       "fileName": "NEW UPDATE FITUR AND FIX SC AUTO ORDER.zip",
       "sizeKB": 14
+    },
+    {
+      "id": "981c7e528341",
+      "active": true,
+      "createdAt": 1794042441416,
+      "name": "SC cek bio via telegram",
+      "desc": "Cek aja eror ambil tiket Chet owner",
+      "version": "",
+      "category": "Bot",
+      "price": 1000,
+      "file": "027281490d9a.bin",
+      "fileName": "SC_CEK_BIO_VIA_TELE.zip",
+      "sizeKB": 5,
+      "uploading": true
     }
   ],
   "dorders": [
