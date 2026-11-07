@@ -4551,6 +4551,36 @@
       "adminAt": 1794042816864,
       "needsAdmin": false,
       "waitSince": 0
+    },
+    "9d0c2bc9167b": {
+      "uid": "9d0c2bc9167b",
+      "msgs": [
+        {
+          "id": "1804e969b1b0",
+          "from": "user",
+          "text": "Halo",
+          "at": 1794091984074
+        },
+        {
+          "id": "dcd6284fd567",
+          "from": "ai",
+          "text": "Sabar ya kak, owner lagi balas chat yang lain. Tunggu antrian kamu ya kak, balasannya muncul di sini.\n\nAntrian kamu: ke-1.",
+          "at": 1794091984079,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
+        }
+      ],
+      "aUnread": 1,
+      "uUnread": 0,
+      "updatedAt": 1794091984079,
+      "adminAt": 0,
+      "needsAdmin": true,
+      "waitSince": 1794091984078
     }
   }
 }
