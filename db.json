@@ -4453,11 +4453,30 @@
           "from": "user",
           "text": "Sosmed bisa refill?",
           "at": 1794004115411
+        },
+        {
+          "id": "c6d960aa2448",
+          "from": "user",
+          "text": "Halo kk",
+          "at": 1794035460277
+        },
+        {
+          "id": "5ef41843e26b",
+          "from": "ai",
+          "text": "Sabar ya kak, owner lagi balas chat yang lain. Tunggu antrian kamu ya kak, balasannya muncul di sini.\n\nAntrian kamu: ke-1.",
+          "at": 1794035460280,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
         }
       ],
-      "aUnread": 1,
+      "aUnread": 2,
       "uUnread": 0,
-      "updatedAt": 1794004115411,
+      "updatedAt": 1794035460280,
       "adminAt": 1794004082658,
       "needsAdmin": true
     }
