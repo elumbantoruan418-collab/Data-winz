@@ -4414,12 +4414,18 @@
       "type": "panel",
       "price": 2000,
       "cost": 2000,
-      "status": "processing",
-      "note": "",
+      "status": "done",
+      "note": "Panelmu akan diaktifkan admin. Buka tiket di menu Bantuan dan sebut ID pesanan PNMW7WKH9B489D. Admin akan mengirim URL panel, username, dan password.",
       "refunded": false,
       "createdAt": 1794146611295,
       "title": "Panel Starter",
-      "planId": "pn-starter"
+      "planId": "pn-starter",
+      "pid": "MAN0039d85fee76",
+      "expiresAt": 1794147812652,
+      "ip": "https://panel-7e8a28.example.com",
+      "vuser": "rizal",
+      "vpass": "pZrMUlmTQ3sV",
+      "manual": true
     }
   ],
   "dapk": [
