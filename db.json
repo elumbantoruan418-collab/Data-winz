@@ -4767,14 +4767,20 @@
               "ext": true
             }
           ]
+        },
+        {
+          "id": "32ab480301bd",
+          "from": "admin",
+          "text": "Halo mohon maaf penarikan tidak bisa kk",
+          "at": 1794143641108
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794141481386,
-      "adminAt": 1794129885998,
-      "needsAdmin": true,
-      "waitSince": 1794141481386
+      "uUnread": 1,
+      "updatedAt": 1794143641108,
+      "adminAt": 1794143641108,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   }
 }
