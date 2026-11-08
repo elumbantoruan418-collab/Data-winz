@@ -4197,12 +4197,15 @@
       "type": "nokos",
       "price": 2369,
       "cost": 1369,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1794105881147,
       "title": "163сom · Pakistan · Server 3",
-      "serviceId": "3:66:wp"
+      "serviceId": "3:66:wp",
+      "pid": "17d19405-168e-4721-aa42-2f4312c2408e",
+      "number": "923496019887",
+      "expiresAt": 1794107084005
     }
   ],
   "dapk": [
