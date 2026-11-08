@@ -4943,11 +4943,49 @@
               "ext": false
             }
           ]
+        },
+        {
+          "id": "5b45c4e90c82",
+          "from": "user",
+          "text": "Hubungi admin",
+          "at": 1794147317984
+        },
+        {
+          "id": "b6bbcfcf2e6a",
+          "from": "ai",
+          "text": "Sabar ya kak, owner lagi balas chat yang lain. Tunggu antrian kamu ya kak, balasannya muncul di sini.\n\nAntrian kamu: ke-1.",
+          "at": 1794147317984,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
+        },
+        {
+          "id": "e3dec452a92a",
+          "from": "user",
+          "text": "Hubungi admin",
+          "at": 1794147318903
+        },
+        {
+          "id": "48669cfc861e",
+          "from": "ai",
+          "text": "Sabar ya kak, owner lagi balas chat yang lain. Tunggu antrian kamu ya kak, balasannya muncul di sini.\n\nAntrian kamu: ke-1.",
+          "at": 1794147318903,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
         }
       ],
-      "aUnread": 7,
+      "aUnread": 9,
       "uUnread": 0,
-      "updatedAt": 1794147303776,
+      "updatedAt": 1794147318903,
       "adminAt": 1794042816864,
       "needsAdmin": true,
       "waitSince": 1794147270359
