@@ -4928,12 +4928,18 @@
           "from": "admin",
           "text": "Anjai mau buy apa lu",
           "at": 1794146612557
+        },
+        {
+          "id": "c0a4bc51fc8a",
+          "from": "admin",
+          "text": "Depo banyak",
+          "at": 1794146619130
         }
       ],
       "aUnread": 0,
-      "uUnread": 1,
-      "updatedAt": 1794146612557,
-      "adminAt": 1794146612557,
+      "uUnread": 2,
+      "updatedAt": 1794146619130,
+      "adminAt": 1794146619130,
       "needsAdmin": false,
       "waitSince": 0
     }
