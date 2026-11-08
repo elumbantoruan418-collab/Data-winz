@@ -4829,11 +4829,30 @@
               "ext": false
             }
           ]
+        },
+        {
+          "id": "3bb23041c372",
+          "from": "user",
+          "text": "Cara deposit",
+          "at": 1794147264008
+        },
+        {
+          "id": "0f0477945649",
+          "from": "ai",
+          "text": "Deposit lewat QRIS otomatis (gateway Averpay). Minimal Rp1.000. Buka menu Deposit, isi nominal, scan QRIS, saldo masuk otomatis tanpa upload bukti. QRIS berlaku sekitar 30 menit.",
+          "at": 1794147264010,
+          "links": [
+            {
+              "label": "Buka Deposit",
+              "href": "/deposit",
+              "ext": false
+            }
+          ]
         }
       ],
-      "aUnread": 1,
+      "aUnread": 2,
       "uUnread": 0,
-      "updatedAt": 1794147255351,
+      "updatedAt": 1794147264010,
       "adminAt": 1794042816864,
       "needsAdmin": false,
       "waitSince": 0
