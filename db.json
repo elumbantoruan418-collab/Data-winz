@@ -5018,14 +5018,20 @@
           "from": "admin",
           "text": "Panel kan",
           "at": 1794146882500
+        },
+        {
+          "id": "7ce9c1126c8f",
+          "from": "user",
+          "text": "Iy",
+          "at": 1794146889089
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794146882500,
+      "updatedAt": 1794146889089,
       "adminAt": 1794146882500,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794146889089
     }
   }
 }
