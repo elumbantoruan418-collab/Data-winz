@@ -838,7 +838,7 @@
       "email": "rizalmoseeer@gmail.com",
       "pass": "7410c14a600c19d619eee0d978d2c19f:1de36c587e1adf78cbd644a752a6e4723b004df30ea722fab2af69d2f2a7ce895cc3685cac449c57ed1ad54babfe6ca89998d74c22c9007d5de3bc5222babc74",
       "isAdmin": false,
-      "balance": 2000,
+      "balance": 0,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -4406,6 +4406,20 @@
       "title": "SC fixerah by baracnew",
       "pid2": "a94390ba9c7b",
       "fileName": "SC_FIX_MERAH_BY_BARZZNEW.zip"
+    },
+    {
+      "id": "PNMW7WKH9B489D",
+      "uid": "749812989ba1",
+      "reqId": "0c74f1e7-4893-455a-8508-828665a199f5",
+      "type": "panel",
+      "price": 2000,
+      "cost": 2000,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1794146611295,
+      "title": "Panel Starter",
+      "planId": "pn-starter"
     }
   ],
   "dapk": [
