@@ -5012,12 +5012,18 @@
           "from": "admin",
           "text": "Server penuh Wak besok liat biar bisa",
           "at": 1794146875226
+        },
+        {
+          "id": "b3b2684dba66",
+          "from": "admin",
+          "text": "Panel kan",
+          "at": 1794146882500
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794146875226,
-      "adminAt": 1794146875226,
+      "uUnread": 1,
+      "updatedAt": 1794146882500,
+      "adminAt": 1794146882500,
       "needsAdmin": false,
       "waitSince": 0
     }
