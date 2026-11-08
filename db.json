@@ -5058,14 +5058,20 @@
           "from": "user",
           "text": "Cek ap",
           "at": 1794147081931
+        },
+        {
+          "id": "a2da61e5ddff",
+          "from": "admin",
+          "text": "Panel nya dah bisa coba",
+          "at": 1794147089806
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794147081931,
-      "adminAt": 1794147049422,
-      "needsAdmin": true,
-      "waitSince": 1794147081931
+      "uUnread": 1,
+      "updatedAt": 1794147089806,
+      "adminAt": 1794147089806,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   }
 }
