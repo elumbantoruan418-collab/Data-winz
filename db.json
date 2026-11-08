@@ -790,7 +790,7 @@
       "email": "pdiki935@gmail.com",
       "pass": "3e912a534611fdf40f3db353e3abb3f1:1ef74f325fd855b27463763f955ed467411d4557232b046d1ec61ca5dde640952a5e9867db9b4023a7136ea468e6619498e6a596c0a9c9240ae312da8ab56c2f",
       "isAdmin": false,
-      "balance": 3000,
+      "balance": 993,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -4207,6 +4207,20 @@
       "number": "923496019887",
       "expiresAt": 1794107084005,
       "refundedAt": 1794106015594
+    },
+    {
+      "id": "NKMW7AULNABA36",
+      "uid": "9d0c2bc9167b",
+      "reqId": "64c39306-5961-472b-89ba-f33c6dfcf536",
+      "type": "nokos",
+      "price": 2007,
+      "cost": 1007,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1794110131990,
+      "title": "163сom · Mali · Server 3",
+      "serviceId": "3:69:wp"
     }
   ],
   "dapk": [
