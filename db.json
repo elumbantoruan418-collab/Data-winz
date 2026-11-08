@@ -790,7 +790,7 @@
       "email": "pdiki935@gmail.com",
       "pass": "3e912a534611fdf40f3db353e3abb3f1:1ef74f325fd855b27463763f955ed467411d4557232b046d1ec61ca5dde640952a5e9867db9b4023a7136ea468e6619498e6a596c0a9c9240ae312da8ab56c2f",
       "isAdmin": false,
-      "balance": 993,
+      "balance": 3000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -4215,15 +4215,16 @@
       "type": "nokos",
       "price": 2007,
       "cost": 1007,
-      "status": "waiting",
-      "note": "",
-      "refunded": false,
+      "status": "canceled",
+      "note": "Dibatalkan. Saldo dikembalikan.",
+      "refunded": true,
       "createdAt": 1794110131990,
       "title": "163сom · Mali · Server 3",
       "serviceId": "3:69:wp",
       "pid": "ed0ab913-5655-45dc-93fe-d22809a8bc6f",
       "number": "22363748376",
-      "expiresAt": 1794111334807
+      "expiresAt": 1794111334807,
+      "refundedAt": 1794110692013
     }
   ],
   "dapk": [
