@@ -4416,17 +4416,20 @@
       "price": 2000,
       "cost": 2000,
       "status": "done",
-      "note": "Panelmu akan diaktifkan admin. Buka tiket di menu Bantuan dan sebut ID pesanan PNMW7WKH9B489D. Admin akan mengirim URL panel, username, dan password.",
+      "note": "Panel sudah diaktifkan admin.",
       "refunded": false,
       "createdAt": 1794146611295,
       "title": "Panel Starter",
       "planId": "pn-starter",
       "pid": "MAN0039d85fee76",
       "expiresAt": 1794147812652,
-      "ip": "https://panel-7e8a28.example.com",
-      "vuser": "rizal",
-      "vpass": "pZrMUlmTQ3sV",
-      "manual": true
+      "ip": "https://cp.plus.pterokudesu.eu.cc",
+      "vuser": "Riszkye",
+      "vpass": "sFAua43i1l",
+      "manual": false,
+      "panelUrl": "",
+      "panelUser": "",
+      "panelPass": ""
     }
   ],
   "dapk": [
@@ -5049,14 +5052,20 @@
           "from": "admin",
           "text": "Cek",
           "at": 1794147049422
+        },
+        {
+          "id": "a287ad1ce591",
+          "from": "user",
+          "text": "Cek ap",
+          "at": 1794147081931
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794147049422,
+      "updatedAt": 1794147081931,
       "adminAt": 1794147049422,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794147081931
     }
   }
 }
