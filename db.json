@@ -4886,11 +4886,30 @@
               "ext": true
             }
           ]
+        },
+        {
+          "id": "43dd2f0d2f82",
+          "from": "user",
+          "text": "Halo",
+          "at": 1794147292167
+        },
+        {
+          "id": "668da26443e4",
+          "from": "ai",
+          "text": "Sabar ya kak, owner lagi balas chat yang lain. Tunggu antrian kamu ya kak, balasannya muncul di sini.\n\nAntrian kamu: ke-1.",
+          "at": 1794147292168,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
         }
       ],
-      "aUnread": 4,
+      "aUnread": 5,
       "uUnread": 0,
-      "updatedAt": 1794147280827,
+      "updatedAt": 1794147292168,
       "adminAt": 1794042816864,
       "needsAdmin": true,
       "waitSince": 1794147270359
