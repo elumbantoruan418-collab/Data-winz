@@ -4981,11 +4981,30 @@
               "ext": true
             }
           ]
+        },
+        {
+          "id": "7beb38437d99",
+          "from": "user",
+          "text": "No admin mna",
+          "at": 1794147322915
+        },
+        {
+          "id": "15e03e6f5158",
+          "from": "ai",
+          "text": "Kamu sudah di Room Chat. Tulis masalahmu di sini, atau pakai tombol WhatsApp / Telegram admin di bawah.",
+          "at": 1794147322916,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
         }
       ],
-      "aUnread": 9,
+      "aUnread": 10,
       "uUnread": 0,
-      "updatedAt": 1794147318903,
+      "updatedAt": 1794147322916,
       "adminAt": 1794042816864,
       "needsAdmin": true,
       "waitSince": 1794147270359
