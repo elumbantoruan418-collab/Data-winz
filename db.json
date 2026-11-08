@@ -5300,14 +5300,20 @@
           "from": "user",
           "text": "Cara pasang sc nya di panel gimana",
           "at": 1794147728902
+        },
+        {
+          "id": "9931a80c7062",
+          "from": "admin",
+          "text": "Gak ada urusan kita situ kk cari yt aja banyak",
+          "at": 1794148026649
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794147728902,
-      "adminAt": 1794147134534,
-      "needsAdmin": true,
-      "waitSince": 1794147728902
+      "uUnread": 1,
+      "updatedAt": 1794148026649,
+      "adminAt": 1794148026649,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [],
