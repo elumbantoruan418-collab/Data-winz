@@ -4747,14 +4747,33 @@
           "from": "admin",
           "text": "Tapi stor 100 nokos kk kalau mau stor",
           "at": 1794129885998
+        },
+        {
+          "id": "3a03573ac005",
+          "from": "user",
+          "text": "Nanti uang nya bis adi tarik ga",
+          "at": 1794141481381
+        },
+        {
+          "id": "4d15326c4861",
+          "from": "ai",
+          "text": "Sabar ya kak, owner lagi balas chat yang lain. Tunggu antrian kamu ya kak, balasannya muncul di sini.\n\nAntrian kamu: ke-1.",
+          "at": 1794141481386,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794129885998,
+      "updatedAt": 1794141481386,
       "adminAt": 1794129885998,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794141481386
     }
   }
 }
