@@ -2150,6 +2150,20 @@
       "file": "91a411477054.bin",
       "fileName": "fix merah v1.zip",
       "sizeKB": 6039
+    },
+    {
+      "id": "a94390ba9c7b",
+      "active": true,
+      "createdAt": 1794144015197,
+      "name": "SC fixerah by baracnew",
+      "desc": "Buat fix nomer eror bilang aja",
+      "version": "",
+      "category": "Bot",
+      "price": 5000,
+      "file": "1fbb361d7abe.bin",
+      "fileName": "SC_FIX_MERAH_BY_BARZZNEW.zip",
+      "sizeKB": 12,
+      "uploading": true
     }
   ],
   "dorders": [
