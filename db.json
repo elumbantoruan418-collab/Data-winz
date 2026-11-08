@@ -4970,14 +4970,20 @@
           "from": "admin",
           "text": "Oke id orderan",
           "at": 1794146772249
+        },
+        {
+          "id": "5f25080c6a9a",
+          "from": "user",
+          "text": "Sosmed bisa refill?",
+          "at": 1794146776829
         }
       ],
       "aUnread": 0,
-      "uUnread": 1,
-      "updatedAt": 1794146772249,
+      "uUnread": 0,
+      "updatedAt": 1794146776829,
       "adminAt": 1794146772249,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794146776829
     }
   }
 }
