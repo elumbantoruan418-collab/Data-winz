@@ -4595,14 +4595,20 @@
               "ext": true
             }
           ]
+        },
+        {
+          "id": "d6b6735e33e6",
+          "from": "admin",
+          "text": "Udah cek kk",
+          "at": 1794105572241
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794091993078,
-      "adminAt": 0,
-      "needsAdmin": true,
-      "waitSince": 1794091984078
+      "uUnread": 1,
+      "updatedAt": 1794105572241,
+      "adminAt": 1794105572241,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   }
 }
