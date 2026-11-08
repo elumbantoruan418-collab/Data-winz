@@ -5024,11 +5024,17 @@
           "from": "user",
           "text": "Iy",
           "at": 1794146889089
+        },
+        {
+          "id": "7819506e57d9",
+          "from": "user",
+          "text": "Pas lagi butuh aja gini puqimak",
+          "at": 1794146905700
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794146889089,
+      "updatedAt": 1794146905700,
       "adminAt": 1794146882500,
       "needsAdmin": true,
       "waitSince": 1794146889089
