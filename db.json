@@ -4988,14 +4988,20 @@
           "from": "user",
           "text": "Itu yg sosmed bisa reffil kepencet",
           "at": 1794146805035
+        },
+        {
+          "id": "f355d9e5cf2c",
+          "from": "admin",
+          "text": "Iya sosmed anti ini soalnya server bagus tunggu brp hari gitu masuk itu",
+          "at": 1794146815453
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794146805035,
-      "adminAt": 1794146772249,
-      "needsAdmin": true,
-      "waitSince": 1794146776829
+      "updatedAt": 1794146815453,
+      "adminAt": 1794146815453,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   }
 }
