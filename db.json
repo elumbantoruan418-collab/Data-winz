@@ -5030,14 +5030,20 @@
           "from": "user",
           "text": "Pas lagi butuh aja gini puqimak",
           "at": 1794146905700
+        },
+        {
+          "id": "b9778ea5e2a8",
+          "from": "admin",
+          "text": "Wet butuh kali",
+          "at": 1794146920752
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794146905700,
-      "adminAt": 1794146882500,
-      "needsAdmin": true,
-      "waitSince": 1794146889089
+      "uUnread": 1,
+      "updatedAt": 1794146920752,
+      "adminAt": 1794146920752,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   }
 }
