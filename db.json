@@ -790,7 +790,7 @@
       "email": "pdiki935@gmail.com",
       "pass": "3e912a534611fdf40f3db353e3abb3f1:1ef74f325fd855b27463763f955ed467411d4557232b046d1ec61ca5dde640952a5e9867db9b4023a7136ea468e6619498e6a596c0a9c9240ae312da8ab56c2f",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 3000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1524,9 +1524,9 @@
       "kind": "qris",
       "up": true,
       "amount": 3000,
-      "status": "verifying",
+      "status": "approved",
       "note": "",
-      "adminNote": "Bukti diterima. Saldo masuk otomatis begitu notifikasi dana masuk terbaca; kalau belum, admin memeriksa paling lambat jam 18.00 WIB.",
+      "adminNote": "",
       "attempts": 1,
       "gwTotal": 3079,
       "gwUnique": 79,
@@ -1535,7 +1535,10 @@
       "expiresAt": 1794093687065,
       "proofFile": "proofs/DEPMW6ZZJRTA0E0.jpg",
       "proofHash": "ba1087a0968886aed8e9e56ba117a62b36af1a67aef7bfe46cb3f0817fd782a7",
-      "proofAt": 1794091953713
+      "proofAt": 1794091953713,
+      "reviewedAt": 1794105551136,
+      "via": "admin",
+      "reviewedBy": "c2923aea08dc"
     }
   ],
   "tickets": [
