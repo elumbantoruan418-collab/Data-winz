@@ -4848,14 +4848,33 @@
               "ext": false
             }
           ]
+        },
+        {
+          "id": "422c03728915",
+          "from": "user",
+          "text": "Halo saldo gak masuk",
+          "at": 1794147270358
+        },
+        {
+          "id": "4f3a8b095bc5",
+          "from": "ai",
+          "text": "Saldo masuk otomatis setelah pembayaran terdeteksi (biasanya hitungan detik). Pastikan nominal sama persis dengan yang tampil. Kalau lebih dari 10 menit belum masuk, tulis di Room Chat ini beserta bukti bayar, admin akan membalas.",
+          "at": 1794147270360,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
         }
       ],
-      "aUnread": 2,
+      "aUnread": 3,
       "uUnread": 0,
-      "updatedAt": 1794147264010,
+      "updatedAt": 1794147270360,
       "adminAt": 1794042816864,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794147270359
     },
     "9d0c2bc9167b": {
       "uid": "9d0c2bc9167b",
