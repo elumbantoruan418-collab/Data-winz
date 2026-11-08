@@ -5291,14 +5291,20 @@
           "from": "admin",
           "text": "Oke aman ada masalah bilang",
           "at": 1794147134534
+        },
+        {
+          "id": "9b378d3a01c5",
+          "from": "user",
+          "text": "Cara pasang sc nya di panel gimana",
+          "at": 1794147728902
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794147134534,
+      "updatedAt": 1794147728902,
       "adminAt": 1794147134534,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794147728902
     }
   },
   "snums": [],
