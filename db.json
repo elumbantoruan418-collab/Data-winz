@@ -4952,14 +4952,20 @@
           "from": "user",
           "text": "Iya, itu link panel nya kapan munculnya",
           "at": 1794146693503
+        },
+        {
+          "id": "0e9c819c6812",
+          "from": "admin",
+          "text": "Nama panel",
+          "at": 1794146709369
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794146693503,
-      "adminAt": 1794146667478,
-      "needsAdmin": true,
-      "waitSince": 1794146693503
+      "uUnread": 1,
+      "updatedAt": 1794146709369,
+      "adminAt": 1794146709369,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   }
 }
