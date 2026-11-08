@@ -4728,12 +4728,18 @@
           "from": "admin",
           "text": "Bisa kk dengan harga 1500",
           "at": 1794129868086
+        },
+        {
+          "id": "c4bcb0708552",
+          "from": "admin",
+          "text": "Tapi stor 100 nokos kk kalau mau stor",
+          "at": 1794129885998
         }
       ],
       "aUnread": 0,
-      "uUnread": 1,
-      "updatedAt": 1794129868086,
-      "adminAt": 1794129868086,
+      "uUnread": 2,
+      "updatedAt": 1794129885998,
+      "adminAt": 1794129885998,
       "needsAdmin": false,
       "waitSince": 0
     }
