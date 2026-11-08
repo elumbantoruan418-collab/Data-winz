@@ -5037,14 +5037,20 @@
           "from": "admin",
           "text": "Wet butuh kali",
           "at": 1794146920752
+        },
+        {
+          "id": "38d4c83e4612",
+          "from": "user",
+          "text": "Butuh bgt",
+          "at": 1794146937891
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794146920752,
+      "updatedAt": 1794146937891,
       "adminAt": 1794146920752,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794146937892
     }
   }
 }
