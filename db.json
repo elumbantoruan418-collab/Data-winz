@@ -4940,14 +4940,20 @@
           "from": "user",
           "text": "Panel doang",
           "at": 1794146645204
+        },
+        {
+          "id": "cf39538c0ff9",
+          "from": "admin",
+          "text": "Owh oke kalau ada masalah bilang",
+          "at": 1794146667478
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794146645204,
-      "adminAt": 1794146619130,
-      "needsAdmin": true,
-      "waitSince": 1794146645204
+      "uUnread": 1,
+      "updatedAt": 1794146667478,
+      "adminAt": 1794146667478,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   }
 }
