@@ -838,7 +838,7 @@
       "email": "rizalmoseeer@gmail.com",
       "pass": "7410c14a600c19d619eee0d978d2c19f:1de36c587e1adf78cbd644a752a6e4723b004df30ea722fab2af69d2f2a7ce895cc3685cac449c57ed1ad54babfe6ca89998d74c22c9007d5de3bc5222babc74",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 2000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1596,9 +1596,9 @@
       "kind": "qris",
       "up": true,
       "amount": 2000,
-      "status": "verifying",
+      "status": "approved",
       "note": "",
-      "adminNote": "Bukti diterima. Saldo masuk otomatis begitu notifikasi dana masuk terbaca; kalau belum, admin memeriksa paling lambat jam 18.00 WIB.",
+      "adminNote": "",
       "attempts": 1,
       "gwTotal": 2074,
       "gwUnique": 74,
@@ -1607,7 +1607,10 @@
       "expiresAt": 1794148172633,
       "proofFile": "proofs/DEPMW7WFD3TE06E.jpg",
       "proofHash": "ed9dfc40e894e9eca680c5223e3056b009132a022b59f75552703985b67ccb22",
-      "proofAt": 1794146483102
+      "proofAt": 1794146483102,
+      "reviewedAt": 1794146593385,
+      "via": "admin",
+      "reviewedBy": "c2923aea08dc"
     }
   ],
   "tickets": [
