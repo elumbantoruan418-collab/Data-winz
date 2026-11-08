@@ -5075,14 +5075,20 @@
           "from": "user",
           "text": "Wih thanks admin baik hati ganteng dan ga sombong",
           "at": 1794147117811
+        },
+        {
+          "id": "f7a37b684f9b",
+          "from": "admin",
+          "text": "Oke aman ada masalah bilang",
+          "at": 1794147134534
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794147117811,
-      "adminAt": 1794147089806,
-      "needsAdmin": true,
-      "waitSince": 1794147117811
+      "updatedAt": 1794147134534,
+      "adminAt": 1794147134534,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   }
 }
