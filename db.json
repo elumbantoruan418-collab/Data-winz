@@ -843,6 +843,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1794114301940
+    },
+    {
+      "id": "3d4b58af2ef8",
+      "name": "ALFARI",
+      "email": "joparalfraizi@gmail.com",
+      "pass": "0f6e1a6c8afc5c015708e12c18f387f2:8dfd1fbca6a37e668479f34942e3bc5aaf0a1109bd26f8aeeeb265f16d2ba882b467b03e844652d5bc4bb76453abd19a6a79afbf149815746d36c152037362a1",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1794160655387
     }
   ],
   "orders": [],
