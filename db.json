@@ -5006,14 +5006,20 @@
           "from": "user",
           "text": "Id orderan  PNMW7WKH9B489D",
           "at": 1794146853556
+        },
+        {
+          "id": "6eab3bfdb642",
+          "from": "admin",
+          "text": "Server penuh Wak besok liat biar bisa",
+          "at": 1794146875226
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794146853556,
-      "adminAt": 1794146819820,
-      "needsAdmin": true,
-      "waitSince": 1794146853556
+      "uUnread": 1,
+      "updatedAt": 1794146875226,
+      "adminAt": 1794146875226,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   }
 }
