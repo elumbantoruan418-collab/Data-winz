@@ -790,7 +790,7 @@
       "email": "pdiki935@gmail.com",
       "pass": "3e912a534611fdf40f3db353e3abb3f1:1ef74f325fd855b27463763f955ed467411d4557232b046d1ec61ca5dde640952a5e9867db9b4023a7136ea468e6619498e6a596c0a9c9240ae312da8ab56c2f",
       "isAdmin": false,
-      "balance": 3000,
+      "balance": 1264,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -4225,6 +4225,20 @@
       "number": "22363748376",
       "expiresAt": 1794111334807,
       "refundedAt": 1794110692013
+    },
+    {
+      "id": "NKMW7BA8NIC3AE",
+      "uid": "9d0c2bc9167b",
+      "reqId": "45484e3f-ecea-48d6-b64f-81f0301b123d",
+      "type": "nokos",
+      "price": 1736,
+      "cost": 736,
+      "status": "processing",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1794110861646,
+      "title": "163Сom · Indonesia · Server 5",
+      "serviceId": "5:6:wp"
     }
   ],
   "dapk": [
