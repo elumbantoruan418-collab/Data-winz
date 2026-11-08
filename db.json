@@ -4946,14 +4946,20 @@
           "from": "admin",
           "text": "Owh oke kalau ada masalah bilang",
           "at": 1794146667478
+        },
+        {
+          "id": "d5490562923d",
+          "from": "user",
+          "text": "Iya, itu link panel nya kapan munculnya",
+          "at": 1794146693503
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794146667478,
+      "updatedAt": 1794146693503,
       "adminAt": 1794146667478,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794146693503
     }
   }
 }
