@@ -4994,12 +4994,18 @@
           "from": "admin",
           "text": "Iya sosmed anti ini soalnya server bagus tunggu brp hari gitu masuk itu",
           "at": 1794146815453
+        },
+        {
+          "id": "2943440946ef",
+          "from": "admin",
+          "text": "1h",
+          "at": 1794146819820
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794146815453,
-      "adminAt": 1794146815453,
+      "uUnread": 1,
+      "updatedAt": 1794146819820,
+      "adminAt": 1794146819820,
       "needsAdmin": false,
       "waitSince": 0
     }
