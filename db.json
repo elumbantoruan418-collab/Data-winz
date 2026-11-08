@@ -4702,6 +4702,35 @@
       "adminAt": 1794105572241,
       "needsAdmin": false,
       "waitSince": 0
+    },
+    "749812989ba1": {
+      "uid": "749812989ba1",
+      "msgs": [
+        {
+          "id": "424b1d5c2315",
+          "from": "user",
+          "text": "Bisakah saya menjual nokos saya",
+          "at": 1794117162804
+        },
+        {
+          "id": "232989d410ff",
+          "from": "ai",
+          "text": "Nokos: nomor virtual untuk terima kode OTP (WhatsApp, Telegram, dll). Pilih negara, server, dan layanan, bayar pakai saldo, nomor langsung muncul dan OTP masuk ke Riwayat. Kalau OTP tidak masuk dalam 20 menit, order dibatalkan dan saldo kembali otomatis.",
+          "at": 1794117162807,
+          "links": [
+            {
+              "label": "Buka Nokos (Nomor OTP)",
+              "href": "/nokos",
+              "ext": false
+            }
+          ]
+        }
+      ],
+      "aUnread": 1,
+      "uUnread": 0,
+      "updatedAt": 1794117162807,
+      "adminAt": 0,
+      "needsAdmin": false
     }
   }
 }
