@@ -4934,14 +4934,20 @@
           "from": "admin",
           "text": "Depo banyak",
           "at": 1794146619130
+        },
+        {
+          "id": "af234531839b",
+          "from": "user",
+          "text": "Panel doang",
+          "at": 1794146645204
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794146619130,
+      "updatedAt": 1794146645204,
       "adminAt": 1794146619130,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794146645204
     }
   }
 }
