@@ -4722,13 +4722,20 @@
               "ext": false
             }
           ]
+        },
+        {
+          "id": "34b3b5588462",
+          "from": "admin",
+          "text": "Bisa kk dengan harga 1500",
+          "at": 1794129868086
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794117162807,
-      "adminAt": 0,
-      "needsAdmin": false
+      "uUnread": 1,
+      "updatedAt": 1794129868086,
+      "adminAt": 1794129868086,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   }
 }
