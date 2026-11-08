@@ -1902,6 +1902,23 @@
         }
       ],
       "contacts": {}
+    },
+    "showno": {
+      "tiers": [
+        {
+          "price": 500,
+          "choices": 7
+        },
+        {
+          "price": 1000,
+          "choices": 5
+        },
+        {
+          "price": 2000,
+          "choices": 2
+        }
+      ],
+      "guide": "Cara pakai Show Nokos\n1. Pilih paket harga (500 / 1.000 / 2.000), lalu lihat daftar nomor. 2 angka terakhir sengaja ditutup.\n2. Tekan nomor yang kamu mau. Saldo dipotong saat itu juga dan nomor lengkap langsung terbuka.\n3. Buka nomor itu di aplikasi tujuan (mis. WhatsApp / Telegram) dan minta kode verifikasi.\n4. Di ruang chat, tekan \"Minta kode\" atau tulis pesan. Admin akan mengirim kode OTP di chat itu.\n5. Setelah berhasil login, tekan \"Selesai\". Kalau nomor bermasalah, tulis di chat, admin bisa mengembalikan saldo.\n\nCatatan: satu nomor hanya dijual ke satu pembeli. Jangan bagikan nomor ke orang lain. Kode OTP hanya diberikan lewat chat."
     }
   },
   "withdrawals": [
@@ -4476,7 +4493,8 @@
     "88666cd51eb57926a80c48a40bde879c70681eb87a14be1a2ab8028a7560fa22": 1794148182350,
     "476d21b88b7cb071b9e7e8c2e76ca72fc6a07b7e8da92e22d477d23ba02e7bf5": 1794148265888,
     "1acada63cfb5d07418194c094961c42853c05f54ef9ce9f01de35ce4f1dc477b": 1794175050802,
-    "f2e5060ff7296ca78656fd192460dbac30c9c542ca682ee75b70cc267b1c9364": 1794752046548
+    "f2e5060ff7296ca78656fd192460dbac30c9c542ca682ee75b70cc267b1c9364": 1794752046548,
+    "77e96624752b1dd21bd39cc90c7e149aa15fc905ae57fa7cdd0e3b449728ae5c": 1794734971368
   },
   "promos": [
     {
