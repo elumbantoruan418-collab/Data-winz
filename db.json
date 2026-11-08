@@ -4916,12 +4916,18 @@
           "from": "admin",
           "text": "Halo mohon maaf penarikan tidak bisa kk",
           "at": 1794143641108
+        },
+        {
+          "id": "e36f9f4c8cdd",
+          "from": "admin",
+          "text": "Anjai mau buy apa lu",
+          "at": 1794146612557
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794143641108,
-      "adminAt": 1794143641108,
+      "uUnread": 1,
+      "updatedAt": 1794146612557,
+      "adminAt": 1794146612557,
       "needsAdmin": false,
       "waitSince": 0
     }
