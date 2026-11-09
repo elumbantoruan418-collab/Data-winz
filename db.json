@@ -610,7 +610,7 @@
       "email": "arifinkhalifah531@gmail.com",
       "pass": "0685ee30edf91c71cfbfd9b384a58ef4:a54ac1b7522e6b06450abcb6a1ae075fc3f54900cf442d00bf976f2ae40b022559986ee4bd1327a7245dc94968b1034142e34295fd4cd18f6f3338f361b6476e",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 10000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1645,9 +1645,9 @@
       "kind": "qris",
       "up": true,
       "amount": 10000,
-      "status": "verifying",
+      "status": "approved",
       "note": "",
-      "adminNote": "Bukti diterima. Saldo masuk otomatis begitu notifikasi dana masuk terbaca; kalau belum, admin memeriksa paling lambat jam 18.00 WIB.",
+      "adminNote": "",
       "attempts": 1,
       "gwTotal": 10879,
       "gwUnique": 879,
@@ -1656,7 +1656,10 @@
       "expiresAt": 1794213301601,
       "proofFile": "proofs/DEPMW8Z7AXT88C7.jpg",
       "proofHash": "1f39a8194fc5536ddc1a96d71232b34692f0cbf05593d75669e529641c41e9a1",
-      "proofAt": 1794211681330
+      "proofAt": 1794211681330,
+      "reviewedAt": 1794221644972,
+      "via": "admin",
+      "reviewedBy": "c2923aea08dc"
     }
   ],
   "tickets": [
