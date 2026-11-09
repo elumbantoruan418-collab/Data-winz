@@ -614,7 +614,9 @@
       "role": null,
       "expiresAt": null,
       "ptero": null,
-      "createdAt": 1793628347814
+      "createdAt": 1793628347814,
+      "apiKeyHash": "b93d54186db00bbf3d7350dbbba7fb0d174a999025a3fffa4a4ce5d28c3f59e6",
+      "apiKeyHint": "pk_fcfe…06f8"
     },
     {
       "id": "4baa3304f50a",
