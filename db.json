@@ -5391,10 +5391,22 @@
           "text": "Nomor +62 812 6547 9812 sudah jadi milikmu. Buka nomor itu di aplikasi tujuan, minta kode verifikasi, lalu tekan \"Minta kode\" di sini.",
           "kind": "text",
           "at": 1794221926800
+        },
+        {
+          "from": "user",
+          "text": "Kode",
+          "kind": "text",
+          "at": 1794221935782
+        },
+        {
+          "from": "user",
+          "text": "Minta kode OTP, tolong kirim kodenya.",
+          "kind": "ask-code",
+          "at": 1794221937101
         }
       ],
       "uUnread": 0,
-      "aUnread": 1,
+      "aUnread": 3,
       "createdAt": 1794221926800
     }
   ]
