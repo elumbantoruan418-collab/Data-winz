@@ -1966,7 +1966,10 @@
           "choices": 2
         }
       ],
-      "guide": "Cara pakai Show Nokos\n1. Pilih paket harga (500 / 1.000 / 2.000), lalu lihat daftar nomor. 2 angka terakhir sengaja ditutup.\n2. Tekan nomor yang kamu mau. Saldo dipotong saat itu juga dan nomor lengkap langsung terbuka.\n3. Buka nomor itu di aplikasi tujuan (mis. WhatsApp / Telegram) dan minta kode verifikasi.\n4. Di ruang chat, tekan \"Minta kode\" atau tulis pesan. Admin akan mengirim kode OTP di chat itu.\n5. Setelah berhasil login, tekan \"Selesai\". Kalau nomor bermasalah, tulis di chat, admin bisa mengembalikan saldo.\n\nCatatan: satu nomor hanya dijual ke satu pembeli. Jangan bagikan nomor ke orang lain. Kode OTP hanya diberikan lewat chat."
+      "guide": "Cara pakai Show Nokos\n1. Pilih paket harga (500 / 1.000 / 2.000), lalu lihat daftar nomor. 2 angka terakhir sengaja ditutup.\n2. Tekan nomor yang kamu mau. Saldo dipotong saat itu juga dan nomor lengkap langsung terbuka.\n3. Buka nomor itu di aplikasi tujuan (mis. WhatsApp / Telegram) dan minta kode verifikasi.\n4. Di ruang chat, tekan \"Minta kode\" atau tulis pesan. Admin akan mengirim kode OTP di chat itu.\n5. Setelah berhasil login, tekan \"Selesai\". Kalau nomor bermasalah, tulis di chat, admin bisa mengembalikan saldo.\n\nCatatan: satu nomor hanya dijual ke satu pembeli. Jangan bagikan nomor ke orang lain. Kode OTP hanya diberikan lewat chat.",
+      "adminPrice": 4000,
+      "adminWa": "",
+      "desc": "Mau beli nokos? Tekan tombol WhatsApp, chat langsung terbuka ke admin dengan pesan \"Min, mau beli nokos\". Admin yang memproses pesananmu."
     }
   },
   "withdrawals": [
@@ -4540,7 +4543,8 @@
     "77e96624752b1dd21bd39cc90c7e149aa15fc905ae57fa7cdd0e3b449728ae5c": 1794734971368,
     "bb283660764e76f3d53bd10f71d6eed5128ccb90d8977d4adb7628b103583269": 1794752758475,
     "ae5f69ac14558e3b307aabe7b82ab51a422da936ca9fae07aa53e642443337f1": 1794250554976,
-    "da551601c33191c249a84fcb27869c22b09de71151de32c09066c3b5cb90e549": 1794826642027
+    "da551601c33191c249a84fcb27869c22b09de71151de32c09066c3b5cb90e549": 1794826642027,
+    "9f55983828e659c7b119db3eadf052113feaab0fa30b84741b8fbeec9ee91f51": 1794827260161
   },
   "promos": [
     {
