@@ -5364,6 +5364,14 @@
       "waitSince": 0
     }
   },
-  "snums": [],
+  "snums": [
+    {
+      "id": "NMW95CO3G328B",
+      "number": "6281265479812",
+      "price": 500,
+      "status": "available",
+      "createdAt": 1794221829629
+    }
+  ],
   "snorders": []
 }
