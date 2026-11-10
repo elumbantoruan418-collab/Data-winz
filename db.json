@@ -5800,14 +5800,20 @@
           "from": "user",
           "text": "yah kenapa gaboleh langsung pake",
           "at": 1794314754445
+        },
+        {
+          "id": "a516e724245a",
+          "from": "admin",
+          "text": "481883",
+          "at": 1794314756999
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314754445,
-      "adminAt": 1794314738655,
-      "needsAdmin": true,
-      "waitSince": 1794314741600
+      "uUnread": 1,
+      "updatedAt": 1794314756999,
+      "adminAt": 1794314756999,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
