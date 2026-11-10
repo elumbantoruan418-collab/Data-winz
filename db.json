@@ -5499,14 +5499,20 @@
           "from": "user",
           "text": "udh pencet kirim bukti",
           "at": 1794313935091
+        },
+        {
+          "id": "2b4d7b77f7eb",
+          "from": "admin",
+          "text": "Dah cek",
+          "at": 1794313940649
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794313935091,
-      "adminAt": 1794313902976,
-      "needsAdmin": true,
-      "waitSince": 1794313924473
+      "uUnread": 1,
+      "updatedAt": 1794313940649,
+      "adminAt": 1794313940649,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
