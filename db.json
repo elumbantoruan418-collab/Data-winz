@@ -5648,12 +5648,18 @@
           "from": "admin",
           "text": "Wet potong saldo biar gw kasih nokos kk",
           "at": 1794314313693
+        },
+        {
+          "id": "138dd07496ef",
+          "from": "admin",
+          "text": "Dah SV 2h lebih",
+          "at": 1794314322694
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314313693,
-      "adminAt": 1794314313693,
+      "updatedAt": 1794314322694,
+      "adminAt": 1794314322694,
       "needsAdmin": false,
       "waitSince": 0
     }
