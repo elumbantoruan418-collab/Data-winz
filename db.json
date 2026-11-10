@@ -5666,11 +5666,17 @@
           "from": "user",
           "text": "tanggung jawab",
           "at": 1794314354884
+        },
+        {
+          "id": "b917ee8de5b3",
+          "from": "user",
+          "text": "btw tu kk udh di folow",
+          "at": 1794314362485
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794314354884,
+      "updatedAt": 1794314362485,
       "adminAt": 1794314322694,
       "needsAdmin": true,
       "waitSince": 1794314349611
