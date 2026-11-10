@@ -5716,14 +5716,20 @@
           "from": "admin",
           "text": "Tuh",
           "at": 1794314539135
+        },
+        {
+          "id": "8619d94b6da2",
+          "from": "user",
+          "text": "login tidak tersedia kk",
+          "at": 1794314624613
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314539135,
+      "updatedAt": 1794314624613,
       "adminAt": 1794314539135,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314624613
     }
   },
   "snums": [
