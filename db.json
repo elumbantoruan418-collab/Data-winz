@@ -5624,14 +5624,20 @@
           "from": "user",
           "text": "nah skrg login tidak tersedia kk",
           "at": 1794314276520
+        },
+        {
+          "id": "34979685ff5f",
+          "from": "admin",
+          "text": "Apa nya",
+          "at": 1794314285479
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314276520,
-      "adminAt": 1794314235050,
-      "needsAdmin": true,
-      "waitSince": 1794314276520
+      "uUnread": 1,
+      "updatedAt": 1794314285479,
+      "adminAt": 1794314285479,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
