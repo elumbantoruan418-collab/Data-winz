@@ -5855,12 +5855,18 @@
           "from": "admin",
           "text": "Cek aja kk",
           "at": 1794314857017
+        },
+        {
+          "id": "6d2af3b2300c",
+          "from": "admin",
+          "text": "Saldo KK gw kurangin",
+          "at": 1794314862030
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314857017,
-      "adminAt": 1794314857017,
+      "updatedAt": 1794314862030,
+      "adminAt": 1794314862030,
       "needsAdmin": false,
       "waitSince": 0
     }
