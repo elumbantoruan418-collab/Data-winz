@@ -1679,15 +1679,16 @@
       "kind": "qris",
       "up": true,
       "amount": 1,
-      "status": "awaiting_proof",
+      "status": "expired",
       "note": "",
-      "adminNote": "",
+      "adminNote": "QRIS kedaluwarsa sebelum bukti diunggah.",
       "attempts": 0,
       "gwTotal": 2,
       "gwUnique": 1,
       "qris": "00020101021226570011ID.DANA.WWW011893600915300831693502090083169350303UMI51440014ID.CO.QRIS.WWW0215ID10264949418380303UMI520442145303360540125802ID5905Nokos6015Kab. Tapanuli U6105224586304F460",
       "createdAt": 1794311810945,
-      "expiresAt": 1794313610945
+      "expiresAt": 1794313610945,
+      "reviewedAt": 1794314516721
     },
     {
       "id": "DEPMWAO2Z9D41A2",
