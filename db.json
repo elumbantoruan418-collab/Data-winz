@@ -5477,11 +5477,30 @@
           "from": "admin",
           "text": "Gak ada urusan kita situ kk cari yt aja banyak",
           "at": 1794148026649
+        },
+        {
+          "id": "9565c3ba38c7",
+          "from": "user",
+          "text": "Sosmed bisa refill?",
+          "at": 1794316002506
+        },
+        {
+          "id": "e5caa0b1f0c1",
+          "from": "ai",
+          "text": "Sosmed: followers, like, view, dll untuk Instagram, TikTok, YouTube dan lainnya. Cari layanan, isi link/username, bayar pakai saldo. Pesanan selesai bisa Isi ulang (refill) 1x per 24 jam, pesanan berjalan bisa Ajukan batal.",
+          "at": 1794316002510,
+          "links": [
+            {
+              "label": "Buka Sosmed",
+              "href": "/smm",
+              "ext": false
+            }
+          ]
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794148026649,
+      "updatedAt": 1794316002510,
       "adminAt": 1794148026649,
       "needsAdmin": false,
       "waitSince": 0
