@@ -5824,14 +5824,20 @@
           "from": "admin",
           "text": "Jangan dlu Sv dlu kasih free kontak cewek 117 kontak",
           "at": 1794314793611
+        },
+        {
+          "id": "8e73676ad058",
+          "from": "user",
+          "text": "anjir",
+          "at": 1794314824941
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794314793611,
+      "updatedAt": 1794314824941,
       "adminAt": 1794314793611,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314824941
     }
   },
   "snums": [
