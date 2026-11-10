@@ -5606,14 +5606,20 @@
           "from": "user",
           "text": "mana tiktok nya kk",
           "at": 1794314198478
+        },
+        {
+          "id": "04c866601e02",
+          "from": "admin",
+          "text": "winz_syndicate",
+          "at": 1794314226211
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314198478,
-      "adminAt": 1794314193521,
-      "needsAdmin": true,
-      "waitSince": 1794314198478
+      "updatedAt": 1794314226211,
+      "adminAt": 1794314226211,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
