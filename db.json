@@ -5710,12 +5710,18 @@
           "from": "admin",
           "text": "883-1300-89200",
           "at": 1794314535472
+        },
+        {
+          "id": "5095c0530c6f",
+          "from": "admin",
+          "text": "Tuh",
+          "at": 1794314539135
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314535472,
-      "adminAt": 1794314535472,
+      "uUnread": 1,
+      "updatedAt": 1794314539135,
+      "adminAt": 1794314539135,
       "needsAdmin": false,
       "waitSince": 0
     }
