@@ -5849,14 +5849,20 @@
           "from": "user",
           "text": "oiya kk itu apk band work kan?",
           "at": 1794314833087
+        },
+        {
+          "id": "596bed77c953",
+          "from": "admin",
+          "text": "Cek aja kk",
+          "at": 1794314857017
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314833087,
-      "adminAt": 1794314793611,
-      "needsAdmin": true,
-      "waitSince": 1794314824941
+      "uUnread": 1,
+      "updatedAt": 1794314857017,
+      "adminAt": 1794314857017,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
