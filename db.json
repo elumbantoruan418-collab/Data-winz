@@ -5594,14 +5594,20 @@
           "from": "user",
           "text": "kode otp nya blum msuk",
           "at": 1794314187139
+        },
+        {
+          "id": "4c61c35c15de",
+          "from": "admin",
+          "text": "Masud nya kk dari gw aja ?",
+          "at": 1794314193521
         }
       ],
-      "aUnread": 1,
+      "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314187139,
-      "adminAt": 1794314182132,
-      "needsAdmin": true,
-      "waitSince": 1794314187139
+      "updatedAt": 1794314193521,
+      "adminAt": 1794314193521,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
