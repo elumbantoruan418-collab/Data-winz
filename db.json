@@ -5462,14 +5462,20 @@
               "ext": true
             }
           ]
+        },
+        {
+          "id": "b385b183f372",
+          "from": "admin",
+          "text": "Upload bukti kk",
+          "at": 1794313888011
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794313863950,
-      "adminAt": 0,
-      "needsAdmin": true,
-      "waitSince": 1794313863950
+      "uUnread": 1,
+      "updatedAt": 1794313888011,
+      "adminAt": 1794313888011,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
