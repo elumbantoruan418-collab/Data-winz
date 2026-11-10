@@ -5600,14 +5600,20 @@
           "from": "admin",
           "text": "Masud nya kk dari gw aja ?",
           "at": 1794314193521
+        },
+        {
+          "id": "ec8ab5b0c853",
+          "from": "user",
+          "text": "mana tiktok nya kk",
+          "at": 1794314198478
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794314193521,
+      "updatedAt": 1794314198478,
       "adminAt": 1794314193521,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314198478
     }
   },
   "snums": [
