@@ -5697,11 +5697,17 @@
           "from": "user",
           "text": "oke",
           "at": 1794314493457
+        },
+        {
+          "id": "8ed3fc591486",
+          "from": "user",
+          "text": "udh kk",
+          "at": 1794314505409
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314493457,
+      "updatedAt": 1794314505409,
       "adminAt": 1794314415156,
       "needsAdmin": true,
       "waitSince": 1794314493457
