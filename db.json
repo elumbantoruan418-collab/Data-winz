@@ -5678,14 +5678,20 @@
           "from": "admin",
           "text": "Oke sbr potong saldo KK hiar gw kasih nokos nya ya kk",
           "at": 1794314378336
+        },
+        {
+          "id": "55a9ae750310",
+          "from": "user",
+          "text": "oke kk",
+          "at": 1794314392183
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794314378336,
+      "updatedAt": 1794314392183,
       "adminAt": 1794314378336,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314392183
     }
   },
   "snums": [
