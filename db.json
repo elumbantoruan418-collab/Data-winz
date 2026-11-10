@@ -5973,14 +5973,20 @@
           "from": "admin",
           "text": "Maaf baru balas masih jawab buyer lain",
           "at": 1794315498435
+        },
+        {
+          "id": "ad6da42764cd",
+          "from": "user",
+          "text": "yah gmn ni",
+          "at": 1794316889945
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794315498435,
+      "updatedAt": 1794316889945,
       "adminAt": 1794315498435,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794316889945
     }
   },
   "snums": [
