@@ -5505,12 +5505,18 @@
           "from": "admin",
           "text": "Dah cek",
           "at": 1794313940649
+        },
+        {
+          "id": "a57f786ef5d3",
+          "from": "admin",
+          "text": "Otomatis",
+          "at": 1794313943551
         }
       ],
       "aUnread": 0,
-      "uUnread": 1,
-      "updatedAt": 1794313940649,
-      "adminAt": 1794313940649,
+      "uUnread": 2,
+      "updatedAt": 1794313943551,
+      "adminAt": 1794313943551,
       "needsAdmin": false,
       "waitSince": 0
     }
