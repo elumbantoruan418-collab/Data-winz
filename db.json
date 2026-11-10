@@ -5812,14 +5812,20 @@
           "from": "admin",
           "text": "Do w ya",
           "at": 1794314760130
+        },
+        {
+          "id": "688f6c4c317c",
+          "from": "user",
+          "text": "pdhl mau cht cwe aku kk🗿",
+          "at": 1794314765125
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794314760130,
+      "updatedAt": 1794314765125,
       "adminAt": 1794314760130,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314765125
     }
   },
   "snums": [
