@@ -5758,14 +5758,20 @@
           "from": "user",
           "text": "mslhnya wa ku kenon manen makanya beli nokos",
           "at": 1794314665505
+        },
+        {
+          "id": "98e6a4e2e5e6",
+          "from": "admin",
+          "text": "883-0587-5600",
+          "at": 1794314686396
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314665505,
-      "adminAt": 1794314664743,
-      "needsAdmin": true,
-      "waitSince": 1794314665505
+      "uUnread": 1,
+      "updatedAt": 1794314686396,
+      "adminAt": 1794314686396,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
