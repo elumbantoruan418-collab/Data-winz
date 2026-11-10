@@ -5979,11 +5979,17 @@
           "from": "user",
           "text": "yah gmn ni",
           "at": 1794316889945
+        },
+        {
+          "id": "8fe58ca22e29",
+          "from": "user",
+          "text": "oiya bg itu kok saldo gw bertambah ya?",
+          "at": 1794316900427
         }
       ],
-      "aUnread": 1,
+      "aUnread": 2,
       "uUnread": 0,
-      "updatedAt": 1794316889945,
+      "updatedAt": 1794316900427,
       "adminAt": 1794315498435,
       "needsAdmin": true,
       "waitSince": 1794316889945
