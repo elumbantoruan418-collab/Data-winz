@@ -876,7 +876,7 @@
       "email": "yozgacor@gmail.com",
       "pass": "c9fd17bfb5d8cce5c0b73a719352f3b9:822cc8cc1958e1c0d9032b2e0aa5b92267f8a9b42b1975d97f332b2c376a1b5f991ddd4faccfc29e8d5b70d95511617df3b3f40335997cd688cb45357b405061",
       "isAdmin": false,
-      "balance": 2000,
+      "balance": 4000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1717,6 +1717,19 @@
       "proofFile": null,
       "createdAt": 1794313931662,
       "reviewedAt": 1794313931662,
+      "reviewedBy": "c2923aea08dc"
+    },
+    {
+      "id": "ADJMWAOQAJ212",
+      "uid": "7034bd3e44da",
+      "amount": 2000,
+      "status": "approved",
+      "via": "admin",
+      "note": "",
+      "adminNote": "",
+      "proofFile": null,
+      "createdAt": 1794314844110,
+      "reviewedAt": 1794314844110,
       "reviewedBy": "c2923aea08dc"
     }
   ],
