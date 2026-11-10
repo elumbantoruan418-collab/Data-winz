@@ -5867,14 +5867,20 @@
           "from": "admin",
           "text": "Work kalau wa nya gak badak",
           "at": 1794314870479
+        },
+        {
+          "id": "5db1622e6b95",
+          "from": "user",
+          "text": "apk unband gada kk?",
+          "at": 1794314886562
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794314870479,
+      "updatedAt": 1794314886562,
       "adminAt": 1794314870479,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314886562
     }
   },
   "snums": [
