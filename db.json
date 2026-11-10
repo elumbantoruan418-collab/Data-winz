@@ -5546,14 +5546,20 @@
           "from": "user",
           "text": "saya udh beli nokos, TPI dpt nokos yg kenon",
           "at": 1794314071068
+        },
+        {
+          "id": "b1fba38c8488",
+          "from": "admin",
+          "text": "Buy gw",
+          "at": 1794314113400
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314071068,
-      "adminAt": 1794313943551,
-      "needsAdmin": true,
-      "waitSince": 1794313968669
+      "uUnread": 1,
+      "updatedAt": 1794314113400,
+      "adminAt": 1794314113400,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
