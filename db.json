@@ -5468,12 +5468,18 @@
           "from": "admin",
           "text": "Upload bukti kk",
           "at": 1794313888011
+        },
+        {
+          "id": "393b26c45dec",
+          "from": "admin",
+          "text": "Nunggu perbaiki server biar otomatis upload bukti tapi besok gak lagi",
+          "at": 1794313902976
         }
       ],
       "aUnread": 0,
-      "uUnread": 1,
-      "updatedAt": 1794313888011,
-      "adminAt": 1794313888011,
+      "uUnread": 2,
+      "updatedAt": 1794313902976,
+      "adminAt": 1794313902976,
       "needsAdmin": false,
       "waitSince": 0
     }
