@@ -5511,14 +5511,20 @@
           "from": "admin",
           "text": "Otomatis",
           "at": 1794313943551
+        },
+        {
+          "id": "30bc8d5735ac",
+          "from": "user",
+          "text": "wah tq bg",
+          "at": 1794313968669
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794313943551,
+      "updatedAt": 1794313968669,
       "adminAt": 1794313943551,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794313968669
     }
   },
   "snums": [
