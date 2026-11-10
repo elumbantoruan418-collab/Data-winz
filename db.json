@@ -5704,14 +5704,20 @@
           "from": "user",
           "text": "udh kk",
           "at": 1794314505409
+        },
+        {
+          "id": "f6f031ffe45e",
+          "from": "admin",
+          "text": "883-1300-89200",
+          "at": 1794314535472
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314505409,
-      "adminAt": 1794314415156,
-      "needsAdmin": true,
-      "waitSince": 1794314493457
+      "updatedAt": 1794314535472,
+      "adminAt": 1794314535472,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
