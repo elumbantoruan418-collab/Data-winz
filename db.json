@@ -5654,14 +5654,20 @@
           "from": "admin",
           "text": "Dah SV 2h lebih",
           "at": 1794314322694
+        },
+        {
+          "id": "66769e0cd4d9",
+          "from": "user",
+          "text": "wah suka gw kalo admin nokos nya gini",
+          "at": 1794314349611
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794314322694,
+      "updatedAt": 1794314349611,
       "adminAt": 1794314322694,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314349611
     }
   },
   "snums": [
