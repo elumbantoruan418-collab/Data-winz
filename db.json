@@ -5618,14 +5618,20 @@
           "from": "admin",
           "text": "Bilang kalau udah",
           "at": 1794314235050
+        },
+        {
+          "id": "c3a16c7df5fd",
+          "from": "user",
+          "text": "nah skrg login tidak tersedia kk",
+          "at": 1794314276520
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314235050,
+      "updatedAt": 1794314276520,
       "adminAt": 1794314235050,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314276520
     }
   },
   "snums": [
