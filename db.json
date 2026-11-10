@@ -5897,14 +5897,20 @@
           "from": "user",
           "text": "😭",
           "at": 1794314946880
+        },
+        {
+          "id": "c04efe9fc4b5",
+          "from": "admin",
+          "text": "Massa kk ?",
+          "at": 1794315468951
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314946880,
-      "adminAt": 1794314870479,
-      "needsAdmin": true,
-      "waitSince": 1794314886562
+      "uUnread": 1,
+      "updatedAt": 1794315468951,
+      "adminAt": 1794315468951,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
