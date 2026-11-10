@@ -5642,12 +5642,18 @@
           "from": "admin",
           "text": "Chet WhatsApp",
           "at": 1794314299855
+        },
+        {
+          "id": "7304c3372dfb",
+          "from": "admin",
+          "text": "Wet potong saldo biar gw kasih nokos kk",
+          "at": 1794314313693
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314299855,
-      "adminAt": 1794314299855,
+      "uUnread": 1,
+      "updatedAt": 1794314313693,
+      "adminAt": 1794314313693,
       "needsAdmin": false,
       "waitSince": 0
     }
