@@ -5440,6 +5440,36 @@
       "adminAt": 1794148026649,
       "needsAdmin": false,
       "waitSince": 0
+    },
+    "7034bd3e44da": {
+      "uid": "7034bd3e44da",
+      "msgs": [
+        {
+          "id": "82ce71df4d3f",
+          "from": "user",
+          "text": "saya sudah deposit tapi saldo nya belum masuk",
+          "at": 1794313863942
+        },
+        {
+          "id": "21e1611a62c4",
+          "from": "ai",
+          "text": "Saldo masuk otomatis setelah pembayaran terdeteksi (biasanya hitungan detik). Pastikan nominal sama persis dengan yang tampil. Kalau lebih dari 10 menit belum masuk, tulis di Room Chat ini beserta bukti bayar, admin akan membalas.",
+          "at": 1794313863950,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
+        }
+      ],
+      "aUnread": 1,
+      "uUnread": 0,
+      "updatedAt": 1794313863950,
+      "adminAt": 0,
+      "needsAdmin": true,
+      "waitSince": 1794313863950
     }
   },
   "snums": [
