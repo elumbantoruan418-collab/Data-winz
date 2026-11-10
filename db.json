@@ -5861,12 +5861,18 @@
           "from": "admin",
           "text": "Saldo KK gw kurangin",
           "at": 1794314862030
+        },
+        {
+          "id": "470a84254921",
+          "from": "admin",
+          "text": "Work kalau wa nya gak badak",
+          "at": 1794314870479
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314862030,
-      "adminAt": 1794314862030,
+      "updatedAt": 1794314870479,
+      "adminAt": 1794314870479,
       "needsAdmin": false,
       "waitSince": 0
     }
