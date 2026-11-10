@@ -876,7 +876,7 @@
       "email": "yozgacor@gmail.com",
       "pass": "c9fd17bfb5d8cce5c0b73a719352f3b9:822cc8cc1958e1c0d9032b2e0aa5b92267f8a9b42b1975d97f332b2c376a1b5f991ddd4faccfc29e8d5b70d95511617df3b3f40335997cd688cb45357b405061",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 2000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1704,6 +1704,19 @@
       "qris": "00020101021226570011ID.DANA.WWW011893600915300831693502090083169350303UMI51440014ID.CO.QRIS.WWW0215ID10264949418380303UMI520442145303360540420745802ID5905Nokos6015Kab. Tapanuli U6105224586304A93D",
       "createdAt": 1794313756417,
       "expiresAt": 1794315556417
+    },
+    {
+      "id": "ADJMWAO6QH9D5",
+      "uid": "7034bd3e44da",
+      "amount": 2000,
+      "status": "approved",
+      "via": "admin",
+      "note": "",
+      "adminNote": "",
+      "proofFile": null,
+      "createdAt": 1794313931662,
+      "reviewedAt": 1794313931662,
+      "reviewedBy": "c2923aea08dc"
     }
   ],
   "tickets": [
