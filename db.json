@@ -5903,12 +5903,18 @@
           "from": "admin",
           "text": "Massa kk ?",
           "at": 1794315468951
+        },
+        {
+          "id": "645dddaca83e",
+          "from": "admin",
+          "text": "Akanya kk itu saya gak tau kk simpang hapus dlu WhatsApp kk beli lagi",
+          "at": 1794315485287
         }
       ],
       "aUnread": 0,
-      "uUnread": 1,
-      "updatedAt": 1794315468951,
-      "adminAt": 1794315468951,
+      "uUnread": 2,
+      "updatedAt": 1794315485287,
+      "adminAt": 1794315485287,
       "needsAdmin": false,
       "waitSince": 0
     }
