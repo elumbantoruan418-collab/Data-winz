@@ -5728,14 +5728,20 @@
           "from": "admin",
           "text": "Chet wa oo gw ganti",
           "at": 1794314630409
+        },
+        {
+          "id": "b9921893e3a0",
+          "from": "user",
+          "text": "nah tu kk",
+          "at": 1794314646744
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794314630409,
+      "updatedAt": 1794314646744,
       "adminAt": 1794314630409,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314646744
     }
   },
   "snums": [
