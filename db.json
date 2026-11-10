@@ -5782,12 +5782,18 @@
           "from": "admin",
           "text": "Ntr jangan lasung pake kk",
           "at": 1794314707878
+        },
+        {
+          "id": "7f0bb97abdc6",
+          "from": "admin",
+          "text": "Gc kk",
+          "at": 1794314738655
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314707878,
-      "adminAt": 1794314707878,
+      "uUnread": 1,
+      "updatedAt": 1794314738655,
+      "adminAt": 1794314738655,
       "needsAdmin": false,
       "waitSince": 0
     }
