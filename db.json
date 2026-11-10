@@ -5558,14 +5558,20 @@
           "from": "admin",
           "text": "Chet nomer potong aja salad kk?",
           "at": 1794314125947
+        },
+        {
+          "id": "74fedaa33220",
+          "from": "user",
+          "text": "maksud kk?",
+          "at": 1794314139842
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794314125947,
+      "updatedAt": 1794314139842,
       "adminAt": 1794314125947,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314139842
     }
   },
   "snums": [
