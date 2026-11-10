@@ -5636,12 +5636,18 @@
           "from": "admin",
           "text": "Ss",
           "at": 1794314293588
+        },
+        {
+          "id": "b864dafa9116",
+          "from": "admin",
+          "text": "Chet WhatsApp",
+          "at": 1794314299855
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314293588,
-      "adminAt": 1794314293588,
+      "updatedAt": 1794314299855,
+      "adminAt": 1794314299855,
       "needsAdmin": false,
       "waitSince": 0
     }
