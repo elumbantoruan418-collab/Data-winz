@@ -5570,14 +5570,20 @@
           "from": "admin",
           "text": "Biar dari gw aja kk",
           "at": 1794314162802
+        },
+        {
+          "id": "f308c5514046",
+          "from": "user",
+          "text": "langsung kebuka dri kenonnya kk",
+          "at": 1794314174334
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794314162802,
+      "updatedAt": 1794314174334,
       "adminAt": 1794314162802,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314174334
     }
   },
   "snums": [
