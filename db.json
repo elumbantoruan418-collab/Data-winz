@@ -5873,11 +5873,17 @@
           "from": "user",
           "text": "apk unband gada kk?",
           "at": 1794314886562
+        },
+        {
+          "id": "5694d60aa21d",
+          "from": "user",
+          "text": "wish ini auto ksih tau temen gw nih web nokos paling AMANAH",
+          "at": 1794314901533
         }
       ],
-      "aUnread": 1,
+      "aUnread": 2,
       "uUnread": 0,
-      "updatedAt": 1794314886562,
+      "updatedAt": 1794314901533,
       "adminAt": 1794314870479,
       "needsAdmin": true,
       "waitSince": 1794314886562
