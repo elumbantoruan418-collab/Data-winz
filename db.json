@@ -5764,12 +5764,18 @@
           "from": "admin",
           "text": "883-0587-5600",
           "at": 1794314686396
+        },
+        {
+          "id": "76ac289988e7",
+          "from": "admin",
+          "text": "Ni kk",
+          "at": 1794314690069
         }
       ],
       "aUnread": 0,
-      "uUnread": 1,
-      "updatedAt": 1794314686396,
-      "adminAt": 1794314686396,
+      "uUnread": 2,
+      "updatedAt": 1794314690069,
+      "adminAt": 1794314690069,
       "needsAdmin": false,
       "waitSince": 0
     }
