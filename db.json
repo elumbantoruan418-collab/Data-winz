@@ -5552,12 +5552,18 @@
           "from": "admin",
           "text": "Buy gw",
           "at": 1794314113400
+        },
+        {
+          "id": "a37586c3f058",
+          "from": "admin",
+          "text": "Chet nomer potong aja salad kk?",
+          "at": 1794314125947
         }
       ],
       "aUnread": 0,
       "uUnread": 1,
-      "updatedAt": 1794314113400,
-      "adminAt": 1794314113400,
+      "updatedAt": 1794314125947,
+      "adminAt": 1794314125947,
       "needsAdmin": false,
       "waitSince": 0
     }
