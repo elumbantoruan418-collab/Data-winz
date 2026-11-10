@@ -5630,12 +5630,18 @@
           "from": "admin",
           "text": "Apa nya",
           "at": 1794314285479
+        },
+        {
+          "id": "a6beb0ec1274",
+          "from": "admin",
+          "text": "Ss",
+          "at": 1794314293588
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314285479,
-      "adminAt": 1794314285479,
+      "uUnread": 1,
+      "updatedAt": 1794314293588,
+      "adminAt": 1794314293588,
       "needsAdmin": false,
       "waitSince": 0
     }
