@@ -5496,11 +5496,30 @@
               "ext": false
             }
           ]
+        },
+        {
+          "id": "cb01fe1e397a",
+          "from": "user",
+          "text": "sc nya eror",
+          "at": 1794316031146
+        },
+        {
+          "id": "6b920004418b",
+          "from": "ai",
+          "text": "Produk digital: Script/Source Code dan APK. Bayar pakai saldo, file langsung terunduh, dan bisa diunduh ulang gratis dari Riwayat.",
+          "at": 1794316031148,
+          "links": [
+            {
+              "label": "Buka Produk (Script & APK)",
+              "href": "/sc",
+              "ext": false
+            }
+          ]
         }
       ],
-      "aUnread": 1,
+      "aUnread": 2,
       "uUnread": 0,
-      "updatedAt": 1794316002510,
+      "updatedAt": 1794316031148,
       "adminAt": 1794148026649,
       "needsAdmin": false,
       "waitSince": 0
