@@ -5474,14 +5474,20 @@
           "from": "admin",
           "text": "Nunggu perbaiki server biar otomatis upload bukti tapi besok gak lagi",
           "at": 1794313902976
+        },
+        {
+          "id": "5b0397c19706",
+          "from": "user",
+          "text": "gabisa di pencet kk",
+          "at": 1794313924473
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794313902976,
+      "updatedAt": 1794313924473,
       "adminAt": 1794313902976,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794313924473
     }
   },
   "snums": [
