@@ -5515,11 +5515,30 @@
               "ext": false
             }
           ]
+        },
+        {
+          "id": "b6f501637689",
+          "from": "user",
+          "text": "sc yg kemaren gw beli error udah coba di termux dan panel pun sama",
+          "at": 1794316064471
+        },
+        {
+          "id": "9a0d51ecdde0",
+          "from": "ai",
+          "text": "Panel Legal dibuat otomatis lewat API setelah bayar. Pilih paket (RAM/Disk/CPU), lalu alamat panel, username, dan password tampil di Riwayat.",
+          "at": 1794316064473,
+          "links": [
+            {
+              "label": "Buka Panel",
+              "href": "/panellegal",
+              "ext": false
+            }
+          ]
         }
       ],
-      "aUnread": 2,
+      "aUnread": 3,
       "uUnread": 0,
-      "updatedAt": 1794316031148,
+      "updatedAt": 1794316064473,
       "adminAt": 1794148026649,
       "needsAdmin": false,
       "waitSince": 0
