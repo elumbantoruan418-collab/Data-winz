@@ -5806,12 +5806,18 @@
           "from": "admin",
           "text": "481883",
           "at": 1794314756999
+        },
+        {
+          "id": "723035e570bc",
+          "from": "admin",
+          "text": "Do w ya",
+          "at": 1794314760130
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314756999,
-      "adminAt": 1794314756999,
+      "uUnread": 1,
+      "updatedAt": 1794314760130,
+      "adminAt": 1794314760130,
       "needsAdmin": false,
       "waitSince": 0
     }
