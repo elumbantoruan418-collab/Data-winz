@@ -5684,14 +5684,20 @@
           "from": "user",
           "text": "oke kk",
           "at": 1794314392183
+        },
+        {
+          "id": "8af6e98bfe4a",
+          "from": "admin",
+          "text": "Batal kan pesanan kk",
+          "at": 1794314415156
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794314392183,
-      "adminAt": 1794314378336,
-      "needsAdmin": true,
-      "waitSince": 1794314392183
+      "uUnread": 1,
+      "updatedAt": 1794314415156,
+      "adminAt": 1794314415156,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
