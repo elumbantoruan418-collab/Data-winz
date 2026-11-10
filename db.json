@@ -5690,14 +5690,20 @@
           "from": "admin",
           "text": "Batal kan pesanan kk",
           "at": 1794314415156
+        },
+        {
+          "id": "bb23a2ee796d",
+          "from": "user",
+          "text": "oke",
+          "at": 1794314493457
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794314415156,
+      "updatedAt": 1794314493457,
       "adminAt": 1794314415156,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794314493457
     }
   },
   "snums": [
