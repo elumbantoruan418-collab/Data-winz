@@ -5612,12 +5612,18 @@
           "from": "admin",
           "text": "winz_syndicate",
           "at": 1794314226211
+        },
+        {
+          "id": "47866b01b524",
+          "from": "admin",
+          "text": "Bilang kalau udah",
+          "at": 1794314235050
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314226211,
-      "adminAt": 1794314226211,
+      "updatedAt": 1794314235050,
+      "adminAt": 1794314235050,
       "needsAdmin": false,
       "waitSince": 0
     }
