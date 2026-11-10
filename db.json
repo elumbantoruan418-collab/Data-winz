@@ -5818,14 +5818,20 @@
           "from": "user",
           "text": "pdhl mau cht cwe aku kk🗿",
           "at": 1794314765125
+        },
+        {
+          "id": "6947c285a06c",
+          "from": "admin",
+          "text": "Jangan dlu Sv dlu kasih free kontak cewek 117 kontak",
+          "at": 1794314793611
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314765125,
-      "adminAt": 1794314760130,
-      "needsAdmin": true,
-      "waitSince": 1794314765125
+      "updatedAt": 1794314793611,
+      "adminAt": 1794314793611,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
