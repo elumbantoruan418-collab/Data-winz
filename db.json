@@ -5576,14 +5576,26 @@
           "from": "user",
           "text": "langsung kebuka dri kenonnya kk",
           "at": 1794314174334
+        },
+        {
+          "id": "f8233ad6a153",
+          "from": "user",
+          "text": "udh masukin ulang no nya",
+          "at": 1794314180470
+        },
+        {
+          "id": "176e02ca88d2",
+          "from": "admin",
+          "text": "Biar otp nya keluar tapi dengan syarat follow tiktok",
+          "at": 1794314182132
         }
       ],
       "aUnread": 0,
       "uUnread": 0,
-      "updatedAt": 1794314174334,
-      "adminAt": 1794314162802,
-      "needsAdmin": true,
-      "waitSince": 1794314174334
+      "updatedAt": 1794314182132,
+      "adminAt": 1794314182132,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
