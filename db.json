@@ -6041,14 +6041,20 @@
               "ext": true
             }
           ]
+        },
+        {
+          "id": "1be98618f1be",
+          "from": "admin",
+          "text": "Ha ada masalah kk",
+          "at": 1794389643631
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794383791380,
-      "adminAt": 1794315498435,
-      "needsAdmin": true,
-      "waitSince": 1794316889945
+      "uUnread": 1,
+      "updatedAt": 1794389643631,
+      "adminAt": 1794389643631,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
