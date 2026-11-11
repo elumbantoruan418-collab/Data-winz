@@ -3048,7 +3048,8 @@
       "ip": "https://panel-2d535d.example.com",
       "vuser": "jjj",
       "vpass": "7-SGosH500ly",
-      "manual": true
+      "manual": true,
+      "autoErr": "This action is unauthorized."
     },
     {
       "id": "PNMVMHWYVZ53FD",
@@ -5029,7 +5030,8 @@
     "e3d044e441361a38fc3e21366ac17fb3634b2a3f06723a081ffdaf9189ec38e1": 1794420446213,
     "c9e3d269e28768c66bafd52718bdc80c95bdcfd24a3d4d440ac1ca346526be84": 1794996534582,
     "fb74906d00777b07a8c33aedff8fcab8ae02889bf284f2b25ebbb05b8f477b33": 1794418411743,
-    "404e969155a33e8687156d9144ce4b41e5320297df71c2b0123e74b0234990ce": 1794422712018
+    "404e969155a33e8687156d9144ce4b41e5320297df71c2b0123e74b0234990ce": 1794422712018,
+    "d2326310c647a180f0759065551673c81f308d3e06f3be68b7efb51c688202dd": 1794432586844
   },
   "promos": [
     {
