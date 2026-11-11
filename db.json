@@ -917,6 +917,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1794434306446
+    },
+    {
+      "id": "9a8c1fcc40e6",
+      "name": "VinsCatalyze",
+      "email": "vinovaro555@gmail.com",
+      "pass": "d58b21fc6bfb50daba063ec33d67408e:f5951ff1934537db7cba9a82817d1f8b48d1e928cc96d984f86f5513f2df4a543afd7da834c8f0b145c21292e274b561052d5b84b3bbee9a81b6403a07d62666",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1794438514045
     }
   ],
   "orders": [],
@@ -2510,7 +2522,7 @@
       "want": 32
     },
     "phone": {
-      "at": 1794438234264,
+      "at": 1794438380014,
       "access": true,
       "bound": true,
       "battery": true,
