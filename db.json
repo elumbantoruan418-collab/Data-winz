@@ -5572,12 +5572,18 @@
               "ext": false
             }
           ]
+        },
+        {
+          "id": "c05c4ccff75a",
+          "from": "admin",
+          "text": "Oke kk kasih id SC nya kk lasung Chet WhatsApp",
+          "at": 1794389662175
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794369906987,
-      "adminAt": 1794148026649,
+      "uUnread": 1,
+      "updatedAt": 1794389662175,
+      "adminAt": 1794389662176,
       "needsAdmin": false,
       "waitSince": 0
     },
