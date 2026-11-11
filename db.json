@@ -6634,12 +6634,18 @@
               "ext": false
             }
           ]
+        },
+        {
+          "id": "d9540b8c0198",
+          "from": "admin",
+          "text": "SV tolol",
+          "at": 1794433752650
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794405583594,
-      "adminAt": 1794389643631,
+      "uUnread": 1,
+      "updatedAt": 1794433752650,
+      "adminAt": 1794433752650,
       "needsAdmin": false,
       "waitSince": 0
     },
