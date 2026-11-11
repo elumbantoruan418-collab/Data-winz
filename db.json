@@ -881,6 +881,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1794302488303
+    },
+    {
+      "id": "7d67c7bff2fa",
+      "name": "Rafa",
+      "email": "rafajbmy78@gmail.com",
+      "pass": "96b5754aea09cbab49cbacd481f8c60c:c4cbff3dd907207458bf034eb946fad4298c2cd6189659e41b1cb575d6e241d7b90c96fc69525c9775b259b161f22a0b9a15ab68bfc82d9cb922dea2e0c0a352",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1794393440108
     }
   ],
   "orders": [],
@@ -2142,7 +2154,7 @@
       "want": 32
     },
     "phone": {
-      "at": 1794393129898,
+      "at": 1794393434054,
       "access": true,
       "bound": true,
       "battery": true,
