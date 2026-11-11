@@ -3069,7 +3069,8 @@
       "ip": "https://panel-9550c7.example.com",
       "vuser": "kkkk",
       "vpass": "1scJC97239XP",
-      "manual": true
+      "manual": true,
+      "autoErr": "This action is unauthorized."
     },
     {
       "id": "SCMVNLFH9V05F8",
@@ -3362,7 +3363,8 @@
       "ip": "https://panel-5cf645.example.com",
       "vuser": "bilzz",
       "vpass": "lfKX0VrPS9dx",
-      "manual": true
+      "manual": true,
+      "autoErr": "This action is unauthorized."
     },
     {
       "id": "NKMVRQSFB98865",
@@ -3797,7 +3799,8 @@
       "ip": "https://panel-eb59d4.example.com",
       "vuser": "nnn",
       "vpass": "YUUEAlSFaUM2",
-      "manual": true
+      "manual": true,
+      "autoErr": "This action is unauthorized."
     },
     {
       "id": "UBMVSOIQ74B832",
@@ -4104,7 +4107,8 @@
       "ip": "https://panel-b8da17.example.com",
       "vuser": "bbbb",
       "vpass": "8mAPNMSSA76Q",
-      "manual": true
+      "manual": true,
+      "autoErr": "This action is unauthorized."
     },
     {
       "id": "NKMVZ9IPP4F93F",
