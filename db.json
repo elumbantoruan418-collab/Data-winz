@@ -6640,12 +6640,18 @@
           "from": "admin",
           "text": "SV tolol",
           "at": 1794433752650
+        },
+        {
+          "id": "4cff23b8d142",
+          "from": "admin",
+          "text": "Gak urusan gw",
+          "at": 1794433756787
         }
       ],
       "aUnread": 0,
-      "uUnread": 1,
-      "updatedAt": 1794433752650,
-      "adminAt": 1794433752650,
+      "uUnread": 2,
+      "updatedAt": 1794433756787,
+      "adminAt": 1794433756787,
       "needsAdmin": false,
       "waitSince": 0
     },
