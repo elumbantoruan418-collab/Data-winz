@@ -1732,6 +1732,22 @@
       "createdAt": 1794314844110,
       "reviewedAt": 1794314844110,
       "reviewedBy": "c2923aea08dc"
+    },
+    {
+      "id": "DEPMWBLL6XT6BF2",
+      "uid": "749812989ba1",
+      "kind": "qris",
+      "up": true,
+      "amount": 1000,
+      "status": "awaiting_proof",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 1038,
+      "gwUnique": 38,
+      "qris": "00020101021226570011ID.DANA.WWW011893600915300831693502090083169350303UMI51440014ID.CO.QRIS.WWW0215ID10264949418380303UMI520442145303360540410385802ID5905Nokos6015Kab. Tapanuli U61052245863040C72",
+      "createdAt": 1794370033505,
+      "expiresAt": 1794371833505
     }
   ],
   "tickets": [
