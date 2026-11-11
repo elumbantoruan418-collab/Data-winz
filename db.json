@@ -888,7 +888,7 @@
       "email": "rafajbmy78@gmail.com",
       "pass": "96b5754aea09cbab49cbacd481f8c60c:c4cbff3dd907207458bf034eb946fad4298c2cd6189659e41b1cb575d6e241d7b90c96fc69525c9775b259b161f22a0b9a15ab68bfc82d9cb922dea2e0c0a352",
       "isAdmin": false,
-      "balance": 2700,
+      "balance": 4400,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1904,6 +1904,19 @@
       "proofFile": null,
       "createdAt": 1794394081171,
       "reviewedAt": 1794394081171,
+      "reviewedBy": "c2923aea08dc"
+    },
+    {
+      "id": "ADJMWBZY8EE81",
+      "uid": "7d67c7bff2fa",
+      "amount": 1700,
+      "status": "approved",
+      "via": "admin",
+      "note": "",
+      "adminNote": "",
+      "proofFile": null,
+      "createdAt": 1794394156550,
+      "reviewedAt": 1794394156550,
       "reviewedBy": "c2923aea08dc"
     }
   ],
