@@ -2064,6 +2064,19 @@
       "adminPrice": 4000,
       "adminWa": "",
       "desc": "Mau beli nokos? Tekan tombol WhatsApp, chat langsung terbuka ke admin dengan pesan \"Min, mau beli nokos\". Admin yang memproses pesananmu."
+    },
+    "notifBad": {
+      "at": 1794390300823,
+      "got": 47,
+      "want": 32
+    },
+    "phone": {
+      "at": 1794390334235,
+      "access": true,
+      "bound": true,
+      "battery": true,
+      "device": "TECNO TECNO KL7",
+      "ver": "1.1"
     }
   },
   "withdrawals": [
@@ -4681,7 +4694,8 @@
     "6e82515868cce29eef1e484be9fe4c688ffa376a2e12c5793907ac6d1aed450b": 1794827203202,
     "14ae2febaed30d3f7dd54caa8237794657ee45e3085dce0579fc84f8df27c256": 1794916139952,
     "df6a052318e6c1b19c441de20db047cdcfa7268f972801a87f3ff928db8a2114": 1794916256665,
-    "b5c7afb0675bba1eb7b22136e3f03e74ab1baa0fea58548ad657431bedbc2ef8": 1794916595108
+    "b5c7afb0675bba1eb7b22136e3f03e74ab1baa0fea58548ad657431bedbc2ef8": 1794916595108,
+    "f2b570c538b68a17168eefa93a48c7b19c08288f7f2ebcf9350d43650244f220": 1794954046820
   },
   "promos": [
     {
