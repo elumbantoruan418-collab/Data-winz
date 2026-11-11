@@ -6442,11 +6442,30 @@
           "from": "admin",
           "text": "Ha ada masalah kk",
           "at": 1794389643631
+        },
+        {
+          "id": "dcf6e37daba0",
+          "from": "user",
+          "text": "nokos smlm kenon",
+          "at": 1794405583581
+        },
+        {
+          "id": "3e99965ec33f",
+          "from": "ai",
+          "text": "Nokos: nomor virtual untuk terima kode OTP (WhatsApp, Telegram, dll). Pilih negara, server, dan layanan, bayar pakai saldo, nomor langsung muncul dan OTP masuk ke Riwayat. Kalau OTP tidak masuk dalam 20 menit, order dibatalkan dan saldo kembali otomatis.",
+          "at": 1794405583594,
+          "links": [
+            {
+              "label": "Buka Nokos (Nomor OTP)",
+              "href": "/nokos",
+              "ext": false
+            }
+          ]
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794389643631,
+      "updatedAt": 1794405583594,
       "adminAt": 1794389643631,
       "needsAdmin": false,
       "waitSince": 0
