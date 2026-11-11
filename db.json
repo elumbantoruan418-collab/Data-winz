@@ -888,7 +888,7 @@
       "email": "rafajbmy78@gmail.com",
       "pass": "96b5754aea09cbab49cbacd481f8c60c:c4cbff3dd907207458bf034eb946fad4298c2cd6189659e41b1cb575d6e241d7b90c96fc69525c9775b259b161f22a0b9a15ab68bfc82d9cb922dea2e0c0a352",
       "isAdmin": false,
-      "balance": 0,
+      "balance": 900,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1874,6 +1874,19 @@
       "qris": "00020101021226570011ID.DANA.WWW011893600915300831693502090083169350303UMI51440014ID.CO.QRIS.WWW0215ID10264949418380303UMI52044214530336054039015802ID5905Nokos6015Kab. Tapanuli U6105224586304962D",
       "createdAt": 1794393711691,
       "expiresAt": 1794394611691
+    },
+    {
+      "id": "ADJMWBZU6NGE2",
+      "uid": "7d67c7bff2fa",
+      "amount": 900,
+      "status": "approved",
+      "via": "admin",
+      "note": "",
+      "adminNote": "",
+      "proofFile": null,
+      "createdAt": 1794393967660,
+      "reviewedAt": 1794393967660,
+      "reviewedBy": "c2923aea08dc"
     }
   ],
   "tickets": [
