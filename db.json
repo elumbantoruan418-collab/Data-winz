@@ -888,7 +888,7 @@
       "email": "rafajbmy78@gmail.com",
       "pass": "96b5754aea09cbab49cbacd481f8c60c:c4cbff3dd907207458bf034eb946fad4298c2cd6189659e41b1cb575d6e241d7b90c96fc69525c9775b259b161f22a0b9a15ab68bfc82d9cb922dea2e0c0a352",
       "isAdmin": false,
-      "balance": 900,
+      "balance": 1800,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1865,7 +1865,7 @@
       "kind": "qris",
       "unik": true,
       "amount": 900,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -1873,7 +1873,12 @@
       "gwUnique": 1,
       "qris": "00020101021226570011ID.DANA.WWW011893600915300831693502090083169350303UMI51440014ID.CO.QRIS.WWW0215ID10264949418380303UMI52044214530336054039015802ID5905Nokos6015Kab. Tapanuli U6105224586304962D",
       "createdAt": 1794393711691,
-      "expiresAt": 1794394611691
+      "expiresAt": 1794394611691,
+      "mutationKey": "wh:036d03ab3d706438f5fbceff",
+      "paidAt": 1794393831392,
+      "reviewedAt": 1794393984210,
+      "via": "mutasi",
+      "reviewedBy": null
     },
     {
       "id": "ADJMWBZU6NGE2",
@@ -2212,8 +2217,8 @@
       "ver": "1.1"
     },
     "notifLast": {
-      "at": 1794393645312,
-      "text": "Pembayaran Masuk\nRp2 diterima DANA Bisnis."
+      "at": 1794393984209,
+      "text": "Pembayaran Masuk\nRp901 diterima DANA Bisnis."
     }
   },
   "withdrawals": [
@@ -2270,6 +2275,12 @@
       "amount": 2,
       "at": 1794393589224,
       "seen": 1794393645313
+    },
+    {
+      "key": "wh:036d03ab3d706438f5fbceff",
+      "amount": 901,
+      "at": 1794393831392,
+      "seen": 1794393984210
     }
   ],
   "dsc": [
