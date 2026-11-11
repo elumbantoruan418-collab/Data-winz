@@ -18,7 +18,7 @@
       "email": "elumbantoruan418@gmail.com",
       "pass": "81e38ebdab3bbb168a949278b346fec2:d07ca9869614ffca25fb9315260e901f4ecd4c80b459dbe1ccd36c4d75494c4dd76bbf7da3ff6c27820961ff6d48c8b3f6049b6285e8c7d0fe5d9eb7f45921d2",
       "isAdmin": false,
-      "balance": 4866002,
+      "balance": 4866003,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -1952,7 +1952,7 @@
       "kind": "qris",
       "unik": true,
       "amount": 1,
-      "status": "awaiting_payment",
+      "status": "approved",
       "note": "",
       "adminNote": "",
       "attempts": 0,
@@ -1960,7 +1960,12 @@
       "gwUnique": 1,
       "qris": "00020101021226570011ID.DANA.WWW011893600915300831693502090083169350303UMI51440014ID.CO.QRIS.WWW0215ID10264949418380303UMI520442145303360540125802ID5905Nokos6015Kab. Tapanuli U6105224586304F460",
       "createdAt": 1794396161855,
-      "expiresAt": 1794397061855
+      "expiresAt": 1794397061855,
+      "mutationKey": "wh:e3eaa4d2de906dd57b02d80c",
+      "paidAt": 1794396231814,
+      "reviewedAt": 1794396243605,
+      "via": "mutasi",
+      "reviewedBy": null
     }
   ],
   "tickets": [
@@ -2286,8 +2291,8 @@
       "ver": "1.1"
     },
     "notifLast": {
-      "at": 1794393984209,
-      "text": "Pembayaran Masuk\nRp901 diterima DANA Bisnis."
+      "at": 1794396243603,
+      "text": "Pembayaran Masuk\nRp2 diterima DANA Bisnis."
     }
   },
   "withdrawals": [
@@ -2350,6 +2355,12 @@
       "amount": 901,
       "at": 1794393831392,
       "seen": 1794393984210
+    },
+    {
+      "key": "wh:e3eaa4d2de906dd57b02d80c",
+      "amount": 2,
+      "at": 1794396231814,
+      "seen": 1794396243604
     }
   ],
   "dsc": [
