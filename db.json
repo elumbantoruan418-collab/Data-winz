@@ -5009,12 +5009,18 @@
       "type": "panel",
       "price": 2000,
       "cost": 2000,
-      "status": "processing",
-      "note": "",
+      "status": "done",
+      "note": "Pesananmu masuk antrean. Akun panel dibuat otomatis begitu server panel siap. Kalau lama, buka Bantuan dan sebut ID pesanan PNMWCL8XGE6FF4.",
       "refunded": false,
       "createdAt": 1794429927519,
       "title": "Panel Starter",
-      "planId": "pn-starter"
+      "planId": "pn-starter",
+      "pid": "MAN08a6186426d8",
+      "expiresAt": 1794431129063,
+      "ip": "https://panel-75c682.example.com",
+      "vuser": "winx",
+      "vpass": "x7Fmf2HALBXC",
+      "manual": true
     }
   ],
   "dapk": [
