@@ -2283,7 +2283,7 @@
       "want": 32
     },
     "phone": {
-      "at": 1794396244067,
+      "at": 1794397939925,
       "access": true,
       "bound": true,
       "battery": true,
@@ -2291,8 +2291,8 @@
       "ver": "1.1"
     },
     "notifLast": {
-      "at": 1794396243603,
-      "text": "Pembayaran Masuk\nRp2 diterima DANA Bisnis."
+      "at": 1794397939558,
+      "text": "Tes koneksi Wisp Notif"
     }
   },
   "withdrawals": [
