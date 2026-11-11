@@ -1775,6 +1775,22 @@
       "reviewedAt": 1794390473685,
       "via": "mutasi",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMWBYC5ET7086",
+      "uid": "d5ac8b72205d",
+      "kind": "qris",
+      "unik": true,
+      "amount": 1,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 3,
+      "gwUnique": 2,
+      "qris": "00020101021226570011ID.DANA.WWW011893600915300831693502090083169350303UMI51440014ID.CO.QRIS.WWW0215ID10264949418380303UMI520442145303360540135802ID5905Nokos6015Kab. Tapanuli U61052245863041E81",
+      "createdAt": 1794391446629,
+      "expiresAt": 1794392346629
     }
   ],
   "tickets": [
