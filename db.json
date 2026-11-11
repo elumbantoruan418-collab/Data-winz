@@ -2108,7 +2108,7 @@
       "want": 32
     },
     "phone": {
-      "at": 1794391578834,
+      "at": 1794391672296,
       "access": true,
       "bound": true,
       "battery": true,
@@ -2116,8 +2116,8 @@
       "ver": "1.1"
     },
     "notifLast": {
-      "at": 1794390473680,
-      "text": "Pembayaran Masuk\nRp2 diterima DANA Bisnis."
+      "at": 1794391671936,
+      "text": "Tes koneksi Wisp Notif"
     }
   },
   "withdrawals": [
@@ -4744,7 +4744,8 @@
     "b5c7afb0675bba1eb7b22136e3f03e74ab1baa0fea58548ad657431bedbc2ef8": 1794916595108,
     "f2b570c538b68a17168eefa93a48c7b19c08288f7f2ebcf9350d43650244f220": 1794954046820,
     "8e7c570da41bf613522a97a942230a8aded220c58dea456249cae3143bfe6bc9": 1794419168519,
-    "8867d2661e764b689c93ef4a45ae50191e87b7c6ec2f03a442eb0ab0f636b754": 1794995195345
+    "8867d2661e764b689c93ef4a45ae50191e87b7c6ec2f03a442eb0ab0f636b754": 1794995195345,
+    "e3d044e441361a38fc3e21366ac17fb3634b2a3f06723a081ffdaf9189ec38e1": 1794420446213
   },
   "promos": [
     {
