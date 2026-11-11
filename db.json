@@ -6019,11 +6019,30 @@
           "from": "user",
           "text": "oiya bg itu kok saldo gw bertambah ya?",
           "at": 1794316900427
+        },
+        {
+          "id": "1a5b1dad2806",
+          "from": "user",
+          "text": "kk",
+          "at": 1794383791370
+        },
+        {
+          "id": "6589a2fc03c6",
+          "from": "ai",
+          "text": "Sabar ya kak, owner lagi balas chat yang lain. Tunggu antrian kamu ya kak, balasannya muncul di sini.\n\nAntrian kamu: ke-2.",
+          "at": 1794383791380,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
         }
       ],
-      "aUnread": 2,
+      "aUnread": 3,
       "uUnread": 0,
-      "updatedAt": 1794316900427,
+      "updatedAt": 1794383791380,
       "adminAt": 1794315498435,
       "needsAdmin": true,
       "waitSince": 1794316889945
