@@ -928,7 +928,9 @@
       "role": null,
       "expiresAt": null,
       "ptero": null,
-      "createdAt": 1794438514045
+      "createdAt": 1794438514045,
+      "apiKeyHash": "45f7cc35076b806398f945f881062ac88182653863e6d113598d876d7b4dce4b",
+      "apiKeyHint": "pk_978f…a660"
     }
   ],
   "orders": [],
