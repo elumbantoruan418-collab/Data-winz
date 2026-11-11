@@ -893,6 +893,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1794393440108
+    },
+    {
+      "id": "e827902bb5f8",
+      "name": "Ikyy Putu",
+      "email": "ikyyputu796@gmail.com",
+      "pass": "80a05b61f341eb642dbc3e40eacf8c9f:a6d641037e8a711d132dce3041d1a9422137e2b82163a65bc61da5c44176206f8f792e26951474a3489f95c0b8cb278d234f8801d0803a2ea8d8745a83b95ff6",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1794433330640
     }
   ],
   "orders": [],
@@ -2359,7 +2371,7 @@
       "want": 32
     },
     "phone": {
-      "at": 1794432860490,
+      "at": 1794433286953,
       "access": true,
       "bound": true,
       "battery": true,
