@@ -905,6 +905,18 @@
       "expiresAt": null,
       "ptero": null,
       "createdAt": 1794433330640
+    },
+    {
+      "id": "568d62f279a0",
+      "name": "rifky",
+      "email": "rifkyazizan241@gmail.com",
+      "pass": "ba6a2ae0f642de6b1ce9cc4c2f482a73:6a27768b1d67f7966ede5ad36f7357d6392ae5edcc61d2456b5dfae6ddc15784af1abfb0d588fea973fc976ed8d4a77da795b925d11c6a32d51d334d822dc91b",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1794434306446
     }
   ],
   "orders": [],
@@ -2397,7 +2409,7 @@
       "want": 32
     },
     "phone": {
-      "at": 1794433934517,
+      "at": 1794434235003,
       "access": true,
       "bound": true,
       "battery": true,
