@@ -2565,7 +2565,7 @@
       "want": 32
     },
     "phone": {
-      "at": 1794490043347,
+      "at": 1794521327322,
       "access": true,
       "bound": false,
       "battery": true,
@@ -2573,7 +2573,7 @@
       "ver": "1.1"
     },
     "notifLast": {
-      "at": 1794490042886,
+      "at": 1794521326923,
       "text": "Tes koneksi Wisp Notif"
     },
     "profit2kDone": true
@@ -3029,6 +3029,20 @@
       "file": "1fbb361d7abe.bin",
       "fileName": "SC_FIX_MERAH_BY_BARZZNEW.zip",
       "sizeKB": 12
+    },
+    {
+      "id": "0f1ee8c3a9c9",
+      "active": true,
+      "createdAt": 1794521377517,
+      "name": "SC notif .",
+      "desc": "",
+      "version": "",
+      "category": "",
+      "price": 900000,
+      "file": "da011794c19e.bin",
+      "fileName": "wisp-notif-bot-v10.zip",
+      "sizeKB": 108,
+      "uploading": true
     }
   ],
   "dorders": [
