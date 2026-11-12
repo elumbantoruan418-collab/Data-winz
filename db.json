@@ -7053,11 +7053,30 @@
               "ext": true
             }
           ]
+        },
+        {
+          "id": "3650c18de25a",
+          "from": "user",
+          "text": "Minta saldo dong",
+          "at": 1794444967638
+        },
+        {
+          "id": "c1412f689bc7",
+          "from": "ai",
+          "text": "Deposit lewat QRIS otomatis (gateway Averpay). Minimal Rp1. Buka menu Deposit, isi nominal, scan QRIS, saldo masuk otomatis tanpa upload bukti. QRIS berlaku sekitar 30 menit.",
+          "at": 1794444967640,
+          "links": [
+            {
+              "label": "Buka Deposit",
+              "href": "/deposit",
+              "ext": false
+            }
+          ]
         }
       ],
-      "aUnread": 10,
+      "aUnread": 11,
       "uUnread": 0,
-      "updatedAt": 1794444948030,
+      "updatedAt": 1794444967640,
       "adminAt": 0,
       "needsAdmin": true,
       "waitSince": 1794444928744
