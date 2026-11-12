@@ -2565,7 +2565,7 @@
       "want": 32
     },
     "phone": {
-      "at": 1794477712382,
+      "at": 1794490043347,
       "access": true,
       "bound": false,
       "battery": true,
@@ -2573,7 +2573,7 @@
       "ver": "1.1"
     },
     "notifLast": {
-      "at": 1794477712024,
+      "at": 1794490042886,
       "text": "Tes koneksi Wisp Notif"
     }
   },
