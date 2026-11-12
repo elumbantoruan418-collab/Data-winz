@@ -7139,14 +7139,20 @@
               "ext": false
             }
           ]
+        },
+        {
+          "id": "09a0edb361b9",
+          "from": "admin",
+          "text": "Gak boleh kk deposit aja kk",
+          "at": 1794477685036
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794444967640,
-      "adminAt": 0,
-      "needsAdmin": true,
-      "waitSince": 1794444928744
+      "uUnread": 1,
+      "updatedAt": 1794477685036,
+      "adminAt": 1794477685036,
+      "needsAdmin": false,
+      "waitSince": 0
     }
   },
   "snums": [
