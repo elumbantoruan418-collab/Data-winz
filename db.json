@@ -6452,11 +6452,30 @@
           "from": "admin",
           "text": "Oke kk Chet WhatsApp kk  882-0183-20557",
           "at": 1794477624332
+        },
+        {
+          "id": "d11bb3b8dce9",
+          "from": "user",
+          "text": "gada wa gw",
+          "at": 1794497127031
+        },
+        {
+          "id": "a7a8111895af",
+          "from": "ai",
+          "text": "Nokos: nomor virtual untuk terima kode OTP (WhatsApp, Telegram, dll). Pilih negara, server, dan layanan, bayar pakai saldo, nomor langsung muncul dan OTP masuk ke Riwayat. Kalau OTP tidak masuk dalam 20 menit, order dibatalkan dan saldo kembali otomatis.",
+          "at": 1794497127045,
+          "links": [
+            {
+              "label": "Buka Nokos (Nomor OTP)",
+              "href": "/nokos",
+              "ext": false
+            }
+          ]
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794477624332,
+      "updatedAt": 1794497127045,
       "adminAt": 1794477624332,
       "needsAdmin": false,
       "waitSince": 0
