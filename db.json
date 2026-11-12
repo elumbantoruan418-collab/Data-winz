@@ -931,6 +931,18 @@
       "createdAt": 1794438514045,
       "apiKeyHash": "45f7cc35076b806398f945f881062ac88182653863e6d113598d876d7b4dce4b",
       "apiKeyHint": "pk_978f…a660"
+    },
+    {
+      "id": "f06ac1c1eded",
+      "name": "Argaa",
+      "email": "agrahaalfarizy3@gmail.com",
+      "pass": "495dbdb01793f6a29dcb189ccf5e0722:a4c042ae465e396e317b6468f6c167f5b45832e833483ce9037266558aa9949885ad1691acf931da702d4c5d63576e5e55dbe0906e5e050264242026a9d1f079",
+      "isAdmin": false,
+      "balance": 0,
+      "role": null,
+      "expiresAt": null,
+      "ptero": null,
+      "createdAt": 1794444761137
     }
   ],
   "orders": [],
