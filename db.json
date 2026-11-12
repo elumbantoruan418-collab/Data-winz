@@ -5447,12 +5447,15 @@
       "type": "nokos",
       "price": 1627,
       "cost": 627,
-      "status": "processing",
+      "status": "waiting",
       "note": "",
       "refunded": false,
       "createdAt": 1794503404569,
       "title": "1688 · Indonesia · Server 3",
-      "serviceId": "3:6:hn"
+      "serviceId": "3:6:hn",
+      "pid": "23fc0648-7383-4198-99ca-4b6003253b35",
+      "number": "6287877767821",
+      "expiresAt": 1794504608452
     }
   ],
   "dapk": [
