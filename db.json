@@ -6860,6 +6860,169 @@
       "adminAt": 1794403801454,
       "needsAdmin": false,
       "waitSince": 0
+    },
+    "f06ac1c1eded": {
+      "uid": "f06ac1c1eded",
+      "msgs": [
+        {
+          "id": "986b162b3ae7",
+          "from": "user",
+          "text": "Apa itu Nokos?",
+          "at": 1794444927128
+        },
+        {
+          "id": "07aa60d820be",
+          "from": "ai",
+          "text": "Nokos: nomor virtual untuk terima kode OTP (WhatsApp, Telegram, dll). Pilih negara, server, dan layanan, bayar pakai saldo, nomor langsung muncul dan OTP masuk ke Riwayat. Kalau OTP tidak masuk dalam 20 menit, order dibatalkan dan saldo kembali otomatis.",
+          "at": 1794444927132,
+          "links": [
+            {
+              "label": "Buka Nokos (Nomor OTP)",
+              "href": "/nokos",
+              "ext": false
+            }
+          ]
+        },
+        {
+          "id": "865157d79f4c",
+          "from": "user",
+          "text": "Sosmed bisa refill?",
+          "at": 1794444928136
+        },
+        {
+          "id": "57e1b29174f5",
+          "from": "ai",
+          "text": "Sosmed: followers, like, view, dll untuk Instagram, TikTok, YouTube dan lainnya. Cari layanan, isi link/username, bayar pakai saldo. Pesanan selesai bisa Isi ulang (refill) 1x per 24 jam, pesanan berjalan bisa Ajukan batal.",
+          "at": 1794444928138,
+          "links": [
+            {
+              "label": "Buka Sosmed",
+              "href": "/smm",
+              "ext": false
+            }
+          ]
+        },
+        {
+          "id": "1b3352322396",
+          "from": "user",
+          "text": "Hubungi admin",
+          "at": 1794444928744
+        },
+        {
+          "id": "74a63ea57829",
+          "from": "ai",
+          "text": "Sabar ya kak, owner lagi balas chat yang lain. Tunggu antrian kamu ya kak, balasannya muncul di sini.\n\nAntrian kamu: ke-2.",
+          "at": 1794444928745,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
+        },
+        {
+          "id": "245606338cab",
+          "from": "user",
+          "text": "Sosmed bisa refill?",
+          "at": 1794444929225
+        },
+        {
+          "id": "79d8215d0ed3",
+          "from": "ai",
+          "text": "Sosmed: followers, like, view, dll untuk Instagram, TikTok, YouTube dan lainnya. Cari layanan, isi link/username, bayar pakai saldo. Pesanan selesai bisa Isi ulang (refill) 1x per 24 jam, pesanan berjalan bisa Ajukan batal.",
+          "at": 1794444929226,
+          "links": [
+            {
+              "label": "Buka Sosmed",
+              "href": "/smm",
+              "ext": false
+            }
+          ]
+        },
+        {
+          "id": "a8b3f7515c5c",
+          "from": "user",
+          "text": "Sosmed bisa refill?",
+          "at": 1794444930036
+        },
+        {
+          "id": "4c0bb3036387",
+          "from": "ai",
+          "text": "Sosmed: followers, like, view, dll untuk Instagram, TikTok, YouTube dan lainnya. Cari layanan, isi link/username, bayar pakai saldo. Pesanan selesai bisa Isi ulang (refill) 1x per 24 jam, pesanan berjalan bisa Ajukan batal.",
+          "at": 1794444930038,
+          "links": [
+            {
+              "label": "Buka Sosmed",
+              "href": "/smm",
+              "ext": false
+            }
+          ]
+        },
+        {
+          "id": "87fbade50718",
+          "from": "user",
+          "text": "Sosmed bisa refill?",
+          "at": 1794444930417
+        },
+        {
+          "id": "7aa787ec89d7",
+          "from": "ai",
+          "text": "Sosmed: followers, like, view, dll untuk Instagram, TikTok, YouTube dan lainnya. Cari layanan, isi link/username, bayar pakai saldo. Pesanan selesai bisa Isi ulang (refill) 1x per 24 jam, pesanan berjalan bisa Ajukan batal.",
+          "at": 1794444930418,
+          "links": [
+            {
+              "label": "Buka Sosmed",
+              "href": "/smm",
+              "ext": false
+            }
+          ]
+        },
+        {
+          "id": "8250f686fed2",
+          "from": "user",
+          "text": "Sosmed bisa refill?",
+          "at": 1794444930852
+        },
+        {
+          "id": "ee425cf17b00",
+          "from": "ai",
+          "text": "Sosmed: followers, like, view, dll untuk Instagram, TikTok, YouTube dan lainnya. Cari layanan, isi link/username, bayar pakai saldo. Pesanan selesai bisa Isi ulang (refill) 1x per 24 jam, pesanan berjalan bisa Ajukan batal.",
+          "at": 1794444930853,
+          "links": [
+            {
+              "label": "Buka Sosmed",
+              "href": "/smm",
+              "ext": false
+            }
+          ]
+        },
+        {
+          "id": "bb26e3ef5e3e",
+          "from": "user",
+          "text": "Sosmed bisa refill?",
+          "at": 1794444931362
+        },
+        {
+          "id": "930747f796a5",
+          "from": "ai",
+          "text": "Sosmed: followers, like, view, dll untuk Instagram, TikTok, YouTube dan lainnya. Cari layanan, isi link/username, bayar pakai saldo. Pesanan selesai bisa Isi ulang (refill) 1x per 24 jam, pesanan berjalan bisa Ajukan batal.",
+          "at": 1794444931362,
+          "links": [
+            {
+              "label": "Buka Sosmed",
+              "href": "/smm",
+              "ext": false
+            }
+          ]
+        }
+      ],
+      "aUnread": 8,
+      "uUnread": 0,
+      "updatedAt": 1794444931362,
+      "adminAt": 0,
+      "needsAdmin": true,
+      "waitSince": 1794444928744
     }
   },
   "snums": [
