@@ -2226,6 +2226,22 @@
       "reviewedAt": 1794437669643,
       "via": "mutasi",
       "reviewedBy": null
+    },
+    {
+      "id": "DEPMWDBYIPK417E",
+      "uid": "9a8c1fcc40e6",
+      "kind": "qris",
+      "unik": true,
+      "amount": 1000,
+      "status": "awaiting_payment",
+      "note": "",
+      "adminNote": "",
+      "attempts": 0,
+      "gwTotal": 1220,
+      "gwUnique": 220,
+      "qris": "00020101021226570011ID.DANA.WWW011893600915300831693502090083169350303UMI51440014ID.CO.QRIS.WWW0215ID10264949418380303UMI520442145303360540412205802ID5905Nokos6015Kab. Tapanuli U6105224586304B215",
+      "createdAt": 1794474791480,
+      "expiresAt": 1794475691480
     }
   ],
   "tickets": [
