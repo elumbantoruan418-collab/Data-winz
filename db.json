@@ -6371,14 +6371,20 @@
               "ext": true
             }
           ]
+        },
+        {
+          "id": "bdac3e371804",
+          "from": "admin",
+          "text": "Oke kk Chet WhatsApp kk  882-0183-20557",
+          "at": 1794477624332
         }
       ],
       "aUnread": 0,
-      "uUnread": 0,
-      "updatedAt": 1794464914527,
-      "adminAt": 1794389662176,
-      "needsAdmin": true,
-      "waitSince": 1794464914526
+      "uUnread": 1,
+      "updatedAt": 1794477624332,
+      "adminAt": 1794477624332,
+      "needsAdmin": false,
+      "waitSince": 0
     },
     "7034bd3e44da": {
       "uid": "7034bd3e44da",
