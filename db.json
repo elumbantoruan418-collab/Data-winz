@@ -876,7 +876,7 @@
       "email": "yozgacor@gmail.com",
       "pass": "c9fd17bfb5d8cce5c0b73a719352f3b9:822cc8cc1958e1c0d9032b2e0aa5b92267f8a9b42b1975d97f332b2c376a1b5f991ddd4faccfc29e8d5b70d95511617df3b3f40335997cd688cb45357b405061",
       "isAdmin": false,
-      "balance": 1969,
+      "balance": 4000,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -5465,15 +5465,16 @@
       "type": "nokos",
       "price": 2031,
       "cost": 1031,
-      "status": "waiting",
-      "note": "",
-      "refunded": false,
+      "status": "canceled",
+      "note": "Dibatalkan. Saldo dikembalikan.",
+      "refunded": true,
       "createdAt": 1794503688786,
       "title": "360kredi · Indonesia · Server 6",
       "serviceId": "6:6:ayo",
       "pid": "0c56e810-482a-4509-8c7c-3d40246a5210",
       "number": "6281232548846",
-      "expiresAt": 1794504891172
+      "expiresAt": 1794504891172,
+      "refundedAt": 1794503896587
     }
   ],
   "dapk": [
