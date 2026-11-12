@@ -7034,11 +7034,30 @@
               "ext": true
             }
           ]
+        },
+        {
+          "id": "c68bf2e5cecd",
+          "from": "user",
+          "text": "Uy",
+          "at": 1794444948029
+        },
+        {
+          "id": "d1e7c4bb459e",
+          "from": "ai",
+          "text": "Sabar ya kak, owner lagi balas chat yang lain. Tunggu antrian kamu ya kak, balasannya muncul di sini.\n\nAntrian kamu: ke-2.",
+          "at": 1794444948030,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
         }
       ],
-      "aUnread": 9,
+      "aUnread": 10,
       "uUnread": 0,
-      "updatedAt": 1794444934039,
+      "updatedAt": 1794444948030,
       "adminAt": 0,
       "needsAdmin": true,
       "waitSince": 1794444928744
