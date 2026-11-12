@@ -840,7 +840,7 @@
       "email": "rizalmoseeer@gmail.com",
       "pass": "7410c14a600c19d619eee0d978d2c19f:1de36c587e1adf78cbd644a752a6e4723b004df30ea722fab2af69d2f2a7ce895cc3685cac449c57ed1ad54babfe6ca89998d74c22c9007d5de3bc5222babc74",
       "isAdmin": false,
-      "balance": 1000,
+      "balance": 0,
       "role": null,
       "expiresAt": null,
       "ptero": null,
@@ -5340,6 +5340,21 @@
       "pServerId": 18,
       "pUserId": 17,
       "activeUntil": 1797024666685
+    },
+    {
+      "id": "SCMWD64QSZ0A0D",
+      "uid": "749812989ba1",
+      "reqId": "53a77e7e-67d6-4793-b849-f2b66711d229",
+      "type": "sc",
+      "price": 1000,
+      "cost": 0,
+      "status": "done",
+      "note": "",
+      "refunded": false,
+      "createdAt": 1794465004211,
+      "title": "SC atacktitan",
+      "pid2": "e57eb86a2da1",
+      "fileName": "SC ATTACK ON TITIAN V4.zip"
     }
   ],
   "dapk": [
