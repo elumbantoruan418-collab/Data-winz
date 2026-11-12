@@ -6320,14 +6320,33 @@
           "from": "admin",
           "text": "Oke kk kasih id SC nya kk lasung Chet WhatsApp",
           "at": 1794389662175
+        },
+        {
+          "id": "ab632e84f8f5",
+          "from": "user",
+          "text": "SCMW7WE2ZR8050 tuh",
+          "at": 1794464914518
+        },
+        {
+          "id": "7345785c4347",
+          "from": "ai",
+          "text": "Sabar ya kak, owner lagi balas chat yang lain. Tunggu antrian kamu ya kak, balasannya muncul di sini.\n\nAntrian kamu: ke-3.",
+          "at": 1794464914527,
+          "links": [
+            {
+              "label": "Chat WhatsApp",
+              "href": "https://wa.me/62882018320557",
+              "ext": true
+            }
+          ]
         }
       ],
-      "aUnread": 0,
+      "aUnread": 1,
       "uUnread": 0,
-      "updatedAt": 1794389662175,
+      "updatedAt": 1794464914527,
       "adminAt": 1794389662176,
-      "needsAdmin": false,
-      "waitSince": 0
+      "needsAdmin": true,
+      "waitSince": 1794464914526
     },
     "7034bd3e44da": {
       "uid": "7034bd3e44da",
