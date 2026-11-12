@@ -2565,16 +2565,16 @@
       "want": 32
     },
     "phone": {
-      "at": 1794453917533,
+      "at": 1794477712382,
       "access": true,
-      "bound": true,
+      "bound": false,
       "battery": true,
       "device": "TECNO TECNO KL7",
       "ver": "1.1"
     },
     "notifLast": {
-      "at": 1794437669642,
-      "text": "Pembayaran Masuk\nRp2 diterima DANA Bisnis."
+      "at": 1794477712024,
+      "text": "Tes koneksi Wisp Notif"
     }
   },
   "withdrawals": [
@@ -2685,6 +2685,12 @@
       "amount": 2,
       "at": 1794437585548,
       "seen": 1794437669642
+    },
+    {
+      "key": "test:1794477736964:836843",
+      "amount": 1,
+      "at": 1794477736964,
+      "seen": 1794477736976
     }
   ],
   "dsc": [
